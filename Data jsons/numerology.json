@@ -1,0 +1,64 @@
+{
+  "life_path": {
+    "1": "Your Life Path 1 calls you to pioneer and lead with confidence, embracing independence and self-reliance. Challenges arise in balancing assertiveness with empathy and avoiding impatience or ego-driven decisions.",
+    "2": "As a Life Path 2, you excel at partnership, diplomacy, and gentle cooperation, fostering harmony in relationships. You must guard against indecision, over-sensitivity, and losing your own needs in service to others.",
+    "3": "Life Path 3 gifts you with creative expression, joy, and excellent communication skills, inspiring those around you. Watch for scattering your energy, superficiality, or avoiding deeper responsibilities through constant socializing.",
+    "4": "With Life Path 4, you build solid foundations through discipline, organization, and practical effort. Be mindful of rigidity, resistance to change, or perfectionism that undermines flexibility and well-being.",
+    "5": "Your Life Path 5 brings freedom, adaptability, and an adventurous spirit, thriving on variety and new experiences. Challenges include restlessness, impulsiveness, and difficulty committing to long-term stability.",
+    "6": "Life Path 6 centers on nurturing, responsibility, and harmonious service to family and community. Remember to balance caregiving with self-care and avoid over-involvement or smothering tendencies.",
+    "7": "As a Life Path 7, you pursue inner wisdom, analysis, and spiritual depth, excelling in research and reflection. Be aware of isolation, skepticism, or escaping into solitude rather than engaging with the world.",
+    "8": "Life Path 8 empowers you with ambition, authority, and the ability to manifest abundance and success. Guard against workaholism, materialism, or using power insensitively toward others.",
+    "9": "Your Life Path 9 inspires compassion, philanthropy, and global awareness, guiding you toward humanitarian efforts. Challenges include over-giving, emotional overwhelm, or difficulty letting go when a cycle ends.",
+    "11": "As a Master Life Path 11, you embody spiritual illumination, intuition, and inspirational leadership, uplifting collective consciousness. The journey involves grounding visionary gifts, managing anxiety, and overcoming self-doubt.",
+    "22": "Master Builder 22 combines visionary ideals with practical manifestation, enabling large-scale achievements and lasting impact. You may face overwhelm, self-imposed pressure, or difficulty staying centered amid grand ambitions.",
+    "33": "Master Teacher 33 radiates unconditional love, compassion, and healing wisdom for humanity’s upliftment. Challenges include martyrdom tendencies, caregiver burnout, and maintaining healthy personal boundaries."
+  },
+  "personal_year": {
+    "1": "A 1 Personal Year signals new beginnings, fresh initiatives, and personal reinvention. Embrace leadership opportunities but avoid rushing into projects without a solid plan.",
+    "2": "Your 2 Personal Year focuses on cooperation, diplomacy, and relationship-building. Patience and sensitivity are rewarded, though watch for indecision or people-pleasing.",
+    "3": "In a 3 Personal Year creativity, social connections, and joyful expression flourish. Balance fun with focus to prevent scattering your energy or neglecting responsibilities.",
+    "4": "A 4 Personal Year demands structure, discipline, and steady progress on practical goals. Embrace hard work and planning, while guarding against rigidity or anxiety over details.",
+    "5": "Your 5 Personal Year invites change, adventure, and personal freedom. Stay open to new experiences but manage impulsiveness and avoid reckless choices.",
+    "6": "A 6 Personal Year highlights responsibility, family, and community service. Nurture relationships and home life, while ensuring you don’t overextend yourself as caretaker.",
+    "7": "In a 7 Personal Year, introspection, study, and spiritual growth are paramount. Respect your need for solitude, but guard against isolation or excessive skepticism.",
+    "8": "Your 8 Personal Year brings ambition, financial opportunity, and leadership challenges. Pursue success with integrity and balance power with empathy to avoid overwork.",
+    "9": "A 9 Personal Year marks completion, release, and humanitarian focus. Embrace endings and letting go to make space for new cycles, while navigating emotional transitions."
+  },
+  "soul_urge": {
+    "1": "Your Soul Urge 1 longs for independence, achievement, and recognition of your unique identity. Embrace leadership but be aware of ego-driven desires that may overshadow collaboration.",
+    "2": "With Soul Urge 2 you yearn for harmony, partnership, and emotional connection. Honor your cooperative instincts while avoiding dependency or passivity in relationships.",
+    "3": "A Soul Urge 3 seeks creative self-expression, joy, and uplifting communication. Cultivate your gifts while managing tendencies to distract yourself with frivolity.",
+    "4": "Your Soul Urge 4 craves stability, order, and meaningful work. Find security in structure, yet remain open to flexibility to prevent rigidity.",
+    "5": "Soul Urge 5 desires freedom, adventure, and variety in life’s experiences. Honor your craving for change while developing focus to prevent impulsiveness.",
+    "6": "With Soul Urge 6 you yearn to nurture, serve, and create harmonious environments. Give care generously but guard against over-responsibility or self-sacrifice.",
+    "7": "A Soul Urge 7 longs for inner knowledge, spiritual insight, and contemplative solitude. Pursue wisdom while balancing your need for connection to avoid isolation.",
+    "8": "Your Soul Urge 8 seeks material mastery, authority, and the ability to empower others financially. Channel ambition ethically and watch for work-driven imbalance.",
+    "9": "Soul Urge 9 yearns for universal love, compassion, and global understanding. Serve humanity with empathy while maintaining healthy boundaries to prevent burnout.",
+    "11": "With Soul Urge 11 you are driven by spiritual illumination, intuition, and a desire to inspire. Balance sensitivity with grounding practices to manage nervous energy.",
+    "22": "A Soul Urge 22 desires to build lasting legacies and practical systems for collective upliftment. Embrace visionary goals while staying grounded to avoid overwhelm.",
+    "33": "Soul Urge 33 longs to embody unconditional love, healing, and spiritual teaching. Share compassion wisely while ensuring you nurture your own well-being."
+  },
+  "expression": {
+    "1": "Expression 1 empowers you to pioneer new paths and lead through example. Cultivate self-confidence while remaining aware of others’ perspectives to avoid self-centeredness.",
+    "2": "With Expression 2 you excel at mediation, diplomacy, and fostering cooperation. Use your sensitivity to build bridges while asserting your own voice when needed.",
+    "3": "Expression 3 brings natural talent for communication, creativity, and inspiration. Share your joy and ideas broadly, guarding against superficiality or scattered focus.",
+    "4": "Expression 4 manifests through organization, craftsmanship, and dependable service. Build solid structures while remaining adaptable to prevent rigidity.",
+    "5": "Expression 5 shines in innovation, networking, and bringing freedom into your work. Channel your adventurous spirit into purposeful projects to avoid inconsistency.",
+    "6": "With Expression 6 you are gifted in nurturing, counseling, and creating beauty. Serve others with compassion while preserving personal boundaries to avoid over-involvement.",
+    "7": "Expression 7 reveals talents in research, analysis, and spiritual insight. Teach and guide through depth of knowledge, balancing solitude with open communication.",
+    "8": "Expression 8 channels leadership, executive ability, and financial acumen. Apply your managerial talents ethically, mindful of balancing material success with social responsibility.",
+    "9": "Expression 9 brings a calling in humanitarian work, artistry, and universal teaching. Inspire collective upliftment while protecting yourself from emotional overwhelm.",
+    "11": "Expression 11 shines through visionary speaking, spiritual guidance, and inspirational art. Use your intuitive insight to uplift others while grounding your message in practicality.",
+    "22": "Expression 22 empowers you as a master builder of systems and institutions for collective benefit. Combine ambitious vision with pragmatic planning to avoid burnout.",
+    "33": "Expression 33 manifests as a gifted healer, teacher, and spiritual guide. Share unconditional love and wisdom while maintaining self-care to sustain your service."
+  },
+  "lifepath": {
+    "11": "[AUTO-PLACEHOLDER]"
+  },
+  "personalyear": {
+    "8": "[AUTO-PLACEHOLDER]"
+  },
+  "soulurge": {
+    "33": "[AUTO-PLACEHOLDER]"
+  }
+}

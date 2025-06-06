@@ -1,0 +1,345 @@
+{
+  "planetary_analysis": {
+    "Sun": {
+      "core_themes": "Identity and vitality; center of self‑expression and life purpose.",
+      "sign_interpretations": {
+        "Aries": "The Sun in Aries shines with bold initiative and pioneering courage. Temper your drive to avoid impatience and rash decisions.",
+        "Taurus": "A Sun in Taurus radiates stability and sensual appreciation. Watch for stubborn resistance to change.",
+        "Gemini": "In Gemini the Sun illuminates curiosity and versatile communication. Be aware of scattered focus and inconsistency.",
+        "Cancer": "The Sun in Cancer finds strength in nurturing and emotional depth. Guard against over‑sensitivity and defensive retreat.",
+        "Leo": "With the Sun in Leo, creative self‑expression and leadership flourish. Be cautious of pride and attention‑seeking tendencies.",
+        "Virgo": "A Sun in Virgo shines through service, precision, and practicality. Avoid excessive self‑criticism and perfectionism.",
+        "Libra": "In Libra the Sun seeks harmony and relational balance. Beware indecision and over‑dependence on others.",
+        "Scorpio": "The Sun in Scorpio glows with transformative intensity and emotional depth. Watch for power struggles and possessiveness.",
+        "Sagittarius": "With the Sun in Sagittarius, optimism and adventurous spirit expand your identity. Be mindful of overextension and restlessness.",
+        "Capricorn": "A Sun in Capricorn beams disciplined ambition and strategic focus. Guard against rigidity and workaholic tendencies.",
+        "Aquarius": "In Aquarius the Sun shines through innovation and collective ideals. Avoid detachment and aloofness.",
+        "Pisces": "With the Sun in Pisces, empathy and imagination enrich self‑expression. Be wary of boundary diffusion and escapism."
+      },
+      "house_interpretations": {
+        "1": "A Sun in the 1st house amplifies self‑confidence and leadership. Be mindful of ego clashes or dominance.",
+        "2": "The Sun in the 2nd house ties identity to material security and values. Watch for overattachment to possessions.",
+        "3": "With the Sun in the 3rd house, communication and learning energize your purpose. Avoid scattering energy through too many ideas.",
+        "4": "A Sun in the 4th house emphasizes home and emotional foundations. Be aware of family obligation overload.",
+        "5": "In the 5th house the Sun blesses creativity, romance, and playful self‑expression. Guard against ego‑driven dramatics.",
+        "6": "The Sun in the 6th house finds purpose in service and daily routines. Avoid burnout through overwork or perfectionism.",
+        "7": "With the Sun in the 7th house, partnerships shape your identity. Be cautious of losing self in relationships.",
+        "8": "A Sun in the 8th house reveals power in transformation and shared resources. Watch for control issues or jealousy.",
+        "9": "The Sun in the 9th house thrives through travel, philosophy, and higher learning. Avoid dogmatism or reckless risk‑taking.",
+        "10": "In the 10th house the Sun drives career success and public image. Guard against status‑driven stress or workaholism.",
+        "11": "The Sun in the 11th house energizes friendships and collective visions. Beware unrealistic ideals or social overcommitment.",
+        "12": "With the Sun in the 12th house, reflection and compassion illuminate inner purpose. Be mindful of isolation or self‑sabotage."
+      }
+    },
+    "Moon": {
+      "core_themes": "Emotional needs and instincts; our inner world and nurturing style.",
+      "sign_interpretations": {
+        "Aries": "A Moon in Aries feels emotions quickly and expresses them courageously. Be aware of impatience and impulsive reactions.",
+        "Taurus": "With the Moon in Taurus, emotional security is found in stability and comfort. Watch for stubborn attachment to routine.",
+        "Gemini": "A Moon in Gemini seeks mental variety and social connection for emotional fulfillment. Guard against restlessness and superficiality.",
+        "Cancer": "The Moon in Cancer deepens empathy and protective instincts. Avoid clinging behaviors and over‑sensitivity.",
+        "Leo": "With the Moon in Leo, you feel best when admired and creatively expressive. Be cautious of pride or dramatic emotional displays.",
+        "Virgo": "A Moon in Virgo nurtures through practical care and service. Watch for over‑analysis and worry about details.",
+        "Libra": "With the Moon in Libra, emotional balance comes through harmony in relationships. Beware indecision and people‑pleasing.",
+        "Scorpio": "A Scorpio Moon experiences intense, transformative emotions. Guard against jealousy and emotional secrecy.",
+        "Sagittarius": "The Moon in Sagittarius seeks emotional freedom and optimistic exploration. Avoid emotional restlessness and commitment‑phobia.",
+        "Capricorn": "With the Moon in Capricorn, you nurture through responsibility and structure. Be mindful of emotional reserve and pessimism.",
+        "Aquarius": "A Moon in Aquarius finds security in friendship and ideals. Watch for detachment and unpredictability in feelings.",
+        "Pisces": "The Moon in Pisces empathizes deeply and intuitively with others. Guard against emotional overwhelm and boundary loss."
+      },
+      "house_interpretations": {
+        "1": "With the Moon in the 1st house, your emotions shape your image and instincts. Be cautious of moodiness and impulsive displays.",
+        "2": "In the 2nd house the Moon ties emotional security to finances and possessions. Avoid clinging to material comfort.",
+        "3": "A Moon in the 3rd house finds comfort in communication and local connections. Watch for overthinking or scattered thoughts.",
+        "4": "With the Moon in the 4th house, home and family nourish your inner world. Be mindful of emotional dependency on family.",
+        "5": "The Moon in the 5th house expresses emotion through creativity and romance. Guard against dramatic or attention‑seeking behaviors.",
+        "6": "In the 6th house the Moon needs routine and service for emotional well‑being. Avoid worry and over‑responsibility in daily tasks.",
+        "7": "A Moon in the 7th house finds security in partnerships. Watch for emotional codependency or conflict avoidance.",
+        "8": "With the Moon in the 8th house, emotional depth arises through intimacy and transformation. Be mindful of obsessive or secretive tendencies.",
+        "9": "The Moon in the 9th house seeks emotional fulfillment through travel and philosophy. Avoid restlessness or dogmatic beliefs.",
+        "10": "In the 10th house the Moon ties emotions to career and public standing. Watch for emotional reactivity to status changes.",
+        "11": "A Moon in the 11th house feels supported by friendships and group ideals. Guard against unrealistic expectations from social circles.",
+        "12": "With the Moon in the 12th house, emotional healing occurs through solitude and introspection. Be aware of escapism or hidden sorrow."
+      }
+    },
+    "Mercury": {
+      "core_themes": "Communication and intellect; thinking patterns, learning, and expression.",
+      "sign_interpretations": {
+        "Aries": "Mercury in Aries thinks and speaks with direct courage and pioneering flair. Be mindful of impatience and bluntness.",
+        "Taurus": "With Mercury in Taurus, your mind works steadily and practically. Watch for resistance to new ideas and stubbornness.",
+        "Gemini": "A Gemini Mercury excels at versatile communication and quick learning. Guard against scattered focus and superficial chatter.",
+        "Cancer": "Mercury in Cancer communicates with emotional intuition and empathy. Avoid clinging to past feelings or subjective bias.",
+        "Leo": "With Mercury in Leo, speech is creative, warm, and dramatic. Be cautious of boastfulness and dominating conversations.",
+        "Virgo": "A Virgo Mercury analyzes details with precision and clarity. Beware over‑criticism and anxiety over perfection.",
+        "Libra": "Mercury in Libra seeks balance and diplomacy in dialogue. Watch for indecision and overly compromising thinking.",
+        "Scorpio": "With Mercury in Scorpio, your mind probes deeply and uncovers hidden truths. Be mindful of suspicion and obsessive thoughts.",
+        "Sagittarius": "Mercury in Sagittarius thinks expansively and philosophically. Guard against dogmatism and careless exaggeration.",
+        "Capricorn": "With Mercury in Capricorn, reasoning is disciplined and goal‑oriented. Avoid rigid thinking and pessimistic outlooks.",
+        "Aquarius": "Mercury in Aquarius innovates mentally with unconventional ideas. Watch for detachment and erratic thought patterns.",
+        "Pisces": "With Mercury in Pisces, thought is poetic and intuitive. Guard against confusion and lack of concrete logic."
+      },
+      "house_interpretations": {
+        "1": "Mercury in the 1st house makes communication central to your identity. Be mindful of restlessness and talking too much.",
+        "2": "In the 2nd house Mercury values practical ideas about resources and security. Avoid overthinking finances or stubborn views.",
+        "3": "A Mercury in the 3rd house thrives on local communication and mental exchange. Watch for gossip and scattered attention.",
+        "4": "With Mercury in the 4th house, thoughts focus on home and family memories. Be cautious of dwelling on the past.",
+        "5": "Mercury in the 5th house expresses creativity through writing, teaching, and playful ideas. Avoid ego‑driven or dramatic speech.",
+        "6": "In the 6th house Mercury organizes work and health routines with precision. Watch for over‑analysis or worry about details.",
+        "7": "A Mercury in the 7th house values dialogue in partnerships. Guard against indecision and over‑adaptation to others’ opinions.",
+        "8": "Mercury in the 8th house explores taboo topics and shared resources. Be mindful of obsessive research or secretive communication.",
+        "9": "With Mercury in the 9th house, thinking expands through travel and philosophy. Avoid dogmatic stances or scattered ideals.",
+        "10": "Mercury in the 10th house makes intellectual skills visible in career. Watch for career‑related anxiety or image‑conscious speech.",
+        "11": "In the 11th house Mercury contributes ideas to groups and causes. Be mindful of unrealistic ideals or scattered networks.",
+        "12": "With Mercury in the 12th house, thoughts work behind the scenes through intuition. Guard against rumination and hidden anxieties."
+      }
+    },
+    "Venus": {
+      "core_themes": "Love and values; harmony, beauty, relationships, and pleasure.",
+      "sign_interpretations": {
+        "Aries": "Venus in Aries loves passionately and initiates relationships boldly. Be cautious of impatience and self‑centeredness.",
+        "Taurus": "With Venus in Taurus, affection is steady, sensual, and loyal. Watch for possessiveness and resistance to change.",
+        "Gemini": "A Gemini Venus flirts intellectually and seeks variety in love. Guard against restlessness and shallow connections.",
+        "Cancer": "Venus in Cancer nurtures through emotional warmth and protection. Avoid clinginess and over‑sensitivity.",
+        "Leo": "With Venus in Leo, love is dramatic, generous, and playful. Be mindful of seeking constant praise and attention.",
+        "Virgo": "A Virgo Venus shows affection through service and practical care. Watch for over‑criticism and perfectionism in relationships.",
+        "Libra": "Venus in Libra thrives on partnership, balance, and aesthetic harmony. Avoid indecision and pleasing at your own expense.",
+        "Scorpio": "With Venus in Scorpio, love is deep, transformative, and intense. Be cautious of jealousy and power struggles.",
+        "Sagittarius": "A Sagittarius Venus values freedom and adventure in love. Guard against commitment‑phobia and inconsistency.",
+        "Capricorn": "Venus in Capricorn commits seriously and values stability. Watch for emotional reserve and withholding affection.",
+        "Aquarius": "With Venus in Aquarius, love blooms through friendship and unconventional bonds. Be mindful of detachment and unpredictability.",
+        "Pisces": "A Venus in Pisces offers compassion and romantic idealism. Avoid boundary issues and unrealistic expectations."
+      },
+      "house_interpretations": {
+        "1": "Venus in the 1st house enhances charm and social grace. Be mindful of vanity or passive people‑pleasing.",
+        "2": "In the 2nd house Venus ties pleasure to material comfort and values. Watch for overindulgence or possessiveness.",
+        "3": "A Venus in the 3rd house delights in social communication and artistic exchange. Guard against flirtatious gossip.",
+        "4": "Venus in the 4th house brings harmony and beauty to home life. Avoid clinging to family ideals or emotional security.",
+        "5": "With Venus in the 5th house, romance and creativity flourish. Be cautious of romantic idealization or attention‑seeking.",
+        "6": "Venus in the 6th house finds pleasure in work and service routines. Watch for codependency in workplace relationships.",
+        "7": "In the 7th house Venus shines through partnerships and marriage. Avoid over‑dependence and losing self in the other.",
+        "8": "A Venus in the 8th house experiences love as deeply transformative intimacy. Be mindful of possessiveness and control issues.",
+        "9": "Venus in the 9th house loves cultural exploration and philosophical romance. Guard against unrealistic ideals or fleeting attractions.",
+        "10": "With Venus in the 10th house, charm aids career and public reputation. Beware image‑consciousness or favor‑seeking.",
+        "11": "Venus in the 11th house finds pleasure in friendships and group ideals. Watch for unrealistic social expectations.",
+        "12": "In the 12th house Venus loves compassionately and selflessly behind the scenes. Be cautious of hidden or secretive relationships."
+      }
+    },
+    "Mars": {
+      "core_themes": "Drive and assertion; courage, desire, and action style.",
+      "sign_interpretations": {
+        "Aries": "Mars in Aries ignites pioneering courage and direct action. Temper impulsivity to avoid conflicts or accidents.",
+        "Taurus": "With Mars in Taurus, action is steady, persistent, and sensual. Watch for stubborn resistance to necessary change.",
+        "Gemini": "Mars in Gemini channels energy into varied interests and agile communication. Be mindful of scattered focus and restlessness.",
+        "Cancer": "With Mars in Cancer, assertion is emotional and protective. Avoid passive aggression and mood‑driven reactions.",
+        "Leo": "A Mars in Leo acts with dramatic flair and creative courage. Guard against prideful displays and attention‑seeking aggression.",
+        "Virgo": "With Mars in Virgo, energy is channeled into practical service and precision. Watch for over‑criticism and anxiety‑driven work.",
+        "Libra": "Mars in Libra seeks harmony in action and partnership. Avoid indecision and passive‑aggressive tactics.",
+        "Scorpio": "With Mars in Scorpio, drive is intense, strategic, and transformative. Be mindful of obsessive or controlling impulses.",
+        "Sagittarius": "A Mars in Sagittarius pursues goals with optimism and adventurous zeal. Watch for restlessness and rash risks.",
+        "Capricorn": "With Mars in Capricorn, ambition is disciplined and goal‑oriented. Guard against workaholic tendencies and rigidity.",
+        "Aquarius": "Mars in Aquarius fights for ideals with innovative flair. Be cautious of rebellious unpredictability and detachment.",
+        "Pisces": "A Mars in Pisces acts through intuition and compassion. Avoid unclear boundaries and diffuse energy."
+      },
+      "house_interpretations": {
+        "1": "Mars in the 1st house brings assertive energy to your persona. Be mindful of impatience and confrontation.",
+        "2": "With Mars in the 2nd house, you drive to acquire resources and security. Watch for impulsive spending or possessiveness.",
+        "3": "A Mars in the 3rd house energizes communication and local initiatives. Guard against argumentative or scattered ideas.",
+        "4": "Mars in the 4th house triggers protective energy around home and family. Be cautious of domestic conflicts or mood swings.",
+        "5": "With Mars in the 5th house, passion ignites romance and creative play. Avoid attention‑seeking or competitive drama.",
+        "6": "Mars in the 6th house drives work and health routines with vigor. Watch for overexertion and anxiety over tasks.",
+        "7": "A Mars in the 7th house brings dynamic energy to partnerships. Guard against power struggles and competitive interactions.",
+        "8": "Mars in the 8th house fuels deep transformation through shared resources. Be mindful of control issues and intensity.",
+        "9": "With Mars in the 9th house, action is guided by philosophy and exploration. Avoid reckless risk‑taking and dogmatism.",
+        "10": "Mars in the 10th house channels ambition into career pursuits. Watch for workaholic drive and authority conflicts.",
+        "11": "A Mars in the 11th house fights for social ideals and group causes. Be cautious of rebellious detachments in teamwork.",
+        "12": "With Mars in the 12th house, drive is expressed behind the scenes or subconsciously. Guard against self‑sabotage and hidden anger."
+      }
+    },
+    "Jupiter": {
+      "core_themes": "Expansion and optimism; growth, wisdom, faith, and abundance.",
+      "sign_interpretations": {
+        "Aries": "Jupiter in Aries expands through bold initiatives and pioneering courage. Watch for impulsive excess and impatience.",
+        "Taurus": "With Jupiter in Taurus, growth comes from building stable foundations and enjoying sensual abundance. Be mindful of material overindulgence.",
+        "Gemini": "Jupiter in Gemini spreads optimism through versatile communication and learning. Avoid scattered focus and superficial knowledge.",
+        "Cancer": "With Jupiter in Cancer, abundance flows through emotional support and family nourishment. Guard against emotional dependency.",
+        "Leo": "A Jupiter in Leo inspires creativity and generous leadership. Watch for prideful excess or attention‑seeking.",
+        "Virgo": "With Jupiter in Virgo, growth arises from service, health, and detail‑oriented improvement. Avoid perfectionism and worry.",
+        "Libra": "Jupiter in Libra expands through partnerships and aesthetic harmony. Be cautious of indecision and over‑idealization.",
+        "Scorpio": "With Jupiter in Scorpio, transformation drives profound growth and empowerment. Guard against obsession and power struggles.",
+        "Sagittarius": "A Jupiter in Sagittarius thrives on exploration, philosophy, and optimistic vision. Watch for restless impatience and neglect of details.",
+        "Capricorn": "With Jupiter in Capricorn, expansion follows disciplined effort and strategic planning. Avoid pessimistic rigidity and workaholism.",
+        "Aquarius": "Jupiter in Aquarius grows through innovation, ideals, and humanitarian causes. Be mindful of detached optimism.",
+        "Pisces": "With Jupiter in Pisces, abundance arises through compassion, art, and spiritual insight. Guard against escapism and boundary issues."
+      },
+      "house_interpretations": {
+        "1": "Jupiter in the 1st house amplifies confidence and generous presence. Be cautious of overblown ego and careless optimism.",
+        "2": "With Jupiter in the 2nd house, resources and values expand abundantly. Watch for wasteful spending and entitlement.",
+        "3": "A Jupiter in the 3rd house enhances learning and communication. Guard against scattered interests and superficial chatter.",
+        "4": "Jupiter in the 4th house brings growth through family and home comfort. Avoid emotional overattachment and laziness.",
+        "5": "With Jupiter in the 5th house, creativity and romance grow joyfully. Be mindful of excess or dramatic flamboyance.",
+        "6": "Jupiter in the 6th house expands health and work routines positively. Watch for overcommitment to service and anxiety.",
+        "7": "A Jupiter in the 7th house blesses partnerships with growth and harmony. Guard against overdependence and unrealistic ideals.",
+        "8": "With Jupiter in the 8th house, shared resources and transformation deepen abundantly. Avoid obsessive intensity and loss of boundaries.",
+        "9": "Jupiter in the 9th house thrives through travel and higher learning. Be cautious of dogmatic beliefs and restlessness.",
+        "10": "With Jupiter in the 10th house, career opportunities and public reputation expand. Watch for overconfidence and work overload.",
+        "11": "Jupiter in the 11th house supports visionary ideals and friendships. Guard against scattered social commitments.",
+        "12": "With Jupiter in the 12th house, spiritual growth and compassion deepen. Be mindful of escapism and hidden indulgences."
+      }
+    },
+    "Saturn": {
+      "core_themes": "Structure and responsibility; discipline, boundaries, maturation, and karmic lessons.",
+      "sign_interpretations": {
+        "Aries": "Saturn in Aries learns patience through disciplined action. Watch for impulsive frustration and authority conflicts.",
+        "Taurus": "With Saturn in Taurus, stability comes from financial discipline and perseverance. Avoid stubbornness and material rigidity.",
+        "Gemini": "Saturn in Gemini structures thought with disciplined learning. Be mindful of communication blocks and anxiety.",
+        "Cancer": "With Saturn in Cancer, emotional boundaries and family duties require maturity. Guard against emotional reserve and insecurity.",
+        "Leo": "A Saturn in Leo brings responsibility to creativity and leadership. Watch for pride issues and fear of criticism.",
+        "Virgo": "Saturn in Virgo perfects routines and service through disciplined care. Avoid excessive self‑criticism and worry.",
+        "Libra": "With Saturn in Libra, partnerships require balanced commitment and fairness. Be cautious of indecision and fear of conflict.",
+        "Scorpio": "Saturn in Scorpio demands deep emotional accountability and power management. Guard against obsessive control or resentment.",
+        "Sagittarius": "With Saturn in Sagittarius, beliefs and philosophies mature through disciplined study. Watch for dogmatism and restlessness.",
+        "Capricorn": "A Saturn in Capricorn excels at building lasting structures and achievements. Be mindful of rigidity and workaholism.",
+        "Aquarius": "Saturn in Aquarius grounds innovation through responsible social contributions. Avoid detachment and rebellious constraints.",
+        "Pisces": "With Saturn in Pisces, spiritual discipline and compassionate service require boundaries. Guard against escapism and boundary confusion."
+      },
+      "house_interpretations": {
+        "1": "Saturn in the 1st house brings a serious demeanor and self‑discipline. Be cautious of self‑doubt and rigidity.",
+        "2": "With Saturn in the 2nd house, financial responsibility and resource management are paramount. Watch for scarcity mindset.",
+        "3": "A Saturn in the 3rd house structures learning and communication. Guard against rigid thinking and anxiety over expression.",
+        "4": "Saturn in the 4th house demands responsibility towards family and emotional foundations. Be mindful of emotional coldness.",
+        "5": "With Saturn in the 5th house, creative pursuits require disciplined effort. Avoid fear of self‑expression or joylessness.",
+        "6": "Saturn in the 6th house structures work and health routines carefully. Watch for overwork and health anxieties.",
+        "7": "A Saturn in the 7th house brings serious commitment to partnerships. Guard against isolation and fear of dependency.",
+        "8": "With Saturn in the 8th house, shared resources and intimacy require maturity. Avoid control issues and fear of vulnerability.",
+        "9": "Saturn in the 9th house matures beliefs through disciplined study and travel. Be cautious of dogmatism and over‑critique.",
+        "10": "With Saturn in the 10th house, career and reputation are built through persistent effort. Watch for authority conflicts and burnout.",
+        "11": "Saturn in the 11th house brings responsibility to group ideals. Avoid social isolation and unrealistic expectations.",
+        "12": "With Saturn in the 12th house, inner boundaries and spiritual discipline develop slowly. Guard against isolation and hidden fears."
+      }
+    },
+    "Uranus": {
+      "core_themes": "Innovation and freedom; sudden change, originality, awakening, and progress.",
+      "sign_interpretations": {
+        "Aries": "Uranus in Aries sparks bold independence and sudden breakthroughs. Watch for impulsive rebellion and impatience.",
+        "Taurus": "With Uranus in Taurus, change unfolds through unconventional values and financial innovation. Avoid stubborn resistance to growth.",
+        "Gemini": "Uranus in Gemini revolutionizes communication and ideas. Be mindful of scattered thoughts and erratic speech.",
+        "Cancer": "With Uranus in Cancer, home and family patterns shift unexpectedly. Guard against emotional unpredictability and detachment.",
+        "Leo": "A Uranus in Leo brings original creativity and charismatic flair. Watch for attention‑seeking disruptions and ego clashes.",
+        "Virgo": "Uranus in Virgo innovates routines and health practices analytically. Avoid overthinking and disruptive perfectionism.",
+        "Libra": "With Uranus in Libra, partnerships evolve through sudden insights and progressive ideals. Be mindful of instability in relationships.",
+        "Scorpio": "Uranus in Scorpio triggers deep psychological awakenings and transformation. Watch for obsessive or rebellious power struggles.",
+        "Sagittarius": "With Uranus in Sagittarius, beliefs and philosophies expand unpredictably. Guard against restless dogmatism and scattered ideals.",
+        "Capricorn": "A Uranus in Capricorn reforms authority and tradition structurally. Be cautious of rebellious rigidity and instability.",
+        "Aquarius": "Uranus in its home sign Aquarius excels at visionary breakthroughs. Avoid detachment and erratic unpredictability.",
+        "Pisces": "With Uranus in Pisces, spiritual insights arise through intuitive shifts. Watch for boundary confusion and idealistic escapism."
+      },
+      "house_interpretations": {
+        "1": "Uranus in the 1st house highlights individuality and sudden self‑discoveries. Guard against unpredictability and social alienation.",
+        "2": "In the 2nd house Uranus disrupts values and finances with sudden opportunities. Be mindful of impulsive spending.",
+        "3": "Uranus in the 3rd house energizes inventive communication and learning. Watch for scattered thoughts and erratic speech.",
+        "4": "With Uranus in the 4th house, home life undergoes unexpected changes. Be cautious of emotional instability.",
+        "5": "A Uranus in the 5th house brings flashes of creative genius and playful originality. Avoid disruptive attention‑seeking.",
+        "6": "Uranus in the 6th house innovates work and health routines. Watch for erratic habits and resistance to structure.",
+        "7": "With Uranus in the 7th house, partnerships form through sudden connections. Guard against unpredictable relationship changes.",
+        "8": "Uranus in the 8th house triggers transformative awakenings around shared resources. Be mindful of sudden power shifts.",
+        "9": "In the 9th house Uranus revolutionizes beliefs and travel with radical ideas. Avoid restless dogmatism.",
+        "10": "With Uranus in the 10th house, career paths shift unexpectedly through innovation. Watch for instability and rebellion.",
+        "11": "Uranus in the 11th house supercharges group visions. Be cautious of erratic social commitments.",
+        "12": "With Uranus in the 12th house, subconscious awakenings bring sudden insights. Guard against anxiety and boundary confusion."
+      }
+    },
+    "Neptune": {
+      "core_themes": "Dreams and intuition; spirituality, imagination, compassion, and illusion.",
+      "sign_interpretations": {
+        "Aries": "Neptune in Aries envisions bold new beginnings and inspired action. Watch for impulsive idealism and confusion.",
+        "Taurus": "With Neptune in Taurus, spirituality is grounded in sensual beauty and material grace. Avoid stubborn illusions and overindulgence.",
+        "Gemini": "Neptune in Gemini blends intuition with communication and creative curiosity. Guard against scattered focus and deceptive chatter.",
+        "Cancer": "With Neptune in Cancer, emotional empathy and nurturing intuition deepen. Be mindful of moodiness and boundary issues.",
+        "Leo": "A Neptune in Leo inspires romantic idealism and dramatic imagination. Watch for narcissistic fantasies and creative blocks.",
+        "Virgo": "Neptune in Virgo brings compassionate service and healing attention to detail. Avoid over‑criticism and worry‑driven illusions.",
+        "Libra": "With Neptune in Libra, relationships dissolve distinctions through idealistic harmony. Guard against codependency and indecision.",
+        "Scorpio": "Neptune in Scorpio deepens spiritual transformation and psychic sensitivity. Be cautious of obsessive or escapist tendencies.",
+        "Sagittarius": "With Neptune in Sagittarius, faith and vision expand through mystical exploration. Avoid dogmatic illusions and restless discontent.",
+        "Capricorn": "A Neptune in Capricorn dissolves rigid ambition through compassionate structure. Watch for confusion around goals and boundaries.",
+        "Aquarius": "Neptune in Aquarius inspires collective dreams and innovative social visions. Be mindful of detached idealism.",
+        "Pisces": "With Neptune in Pisces, intuition and empathy peak. Guard against escapism and blurred reality."
+      },
+      "house_interpretations": {
+        "1": "Neptune in the 1st house gives a dreamy, compassionate presence. Be cautious of boundary confusion and identity diffusion.",
+        "2": "In the 2nd house Neptune blurs material values, inviting creative generosity. Watch for financial vagueness and impracticality.",
+        "3": "Neptune in the 3rd house infuses communication with poetic intuition. Guard against deceptive or scattered thoughts.",
+        "4": "With Neptune in the 4th house, home becomes a sanctuary for emotional healing. Be mindful of escapist family dynamics.",
+        "5": "A Neptune in the 5th house inspires mystical creativity and romance. Watch for unrealistic fantasies and avoidance of reality.",
+        "6": "Neptune in the 6th house brings compassionate service in daily routines. Avoid health anxieties and blurred work boundaries.",
+        "7": "In the 7th house Neptune romanticizes partnerships with idealistic devotion. Guard against codependency and lack of clarity.",
+        "8": "Neptune in the 8th house transforms shared resources through spiritual insight. Watch for fear of intimacy and secretive illusions.",
+        "9": "With Neptune in the 9th house, spiritual beliefs and travel inspire boundless faith. Be cautious of dogmatic illusions.",
+        "10": "Neptune in the 10th house softens career ambitions with creative vision. Guard against public confusion and lack of direction.",
+        "11": "A Neptune in the 11th house fuels collective empathy and visionary ideals. Watch for unrealistic social dreams.",
+        "12": "In the 12th house Neptune governs the subconscious and spiritual surrender. Avoid escapism and submerged anxieties."
+      }
+    },
+    "Pluto": {
+      "core_themes": "Transformation and power; regeneration, depth, renewal, and subconscious forces.",
+      "sign_interpretations": {
+        "Aries": "Pluto in Aries drives transformative courage and assertive power. Watch for impulsive power struggles and aggression.",
+        "Taurus": "With Pluto in Taurus, transformation occurs through values and material depths. Guard against possessiveness and resistance to change.",
+        "Gemini": "Pluto in Gemini uncovers hidden truths through intense curiosity. Avoid obsessive or manipulative communication.",
+        "Cancer": "With Pluto in Cancer, emotional foundations undergo healing and regeneration. Be mindful of controlling family dynamics.",
+        "Leo": "A Pluto in Leo transforms creative identity and leadership style. Watch for ego battles and dramatic power displays.",
+        "Virgo": "Pluto in Virgo refines routines through profound analysis and service. Guard against obsessive perfectionism and health anxieties.",
+        "Libra": "With Pluto in Libra, partnerships transform through deep psychological work. Be cautious of codependency and power imbalances.",
+        "Scorpio": "Pluto in Scorpio magnifies core themes of rebirth and intensity. Watch for manipulation and compulsive behavior.",
+        "Sagittarius": "With Pluto in Sagittarius, beliefs and philosophies undergo profound transformation. Avoid dogmatism and reckless zeal.",
+        "Capricorn": "A Pluto in Capricorn restructures authority and ambition at depth. Guard against ruthless power tactics and workaholism.",
+        "Aquarius": "Pluto in Aquarius revolutionizes collective power and social structures. Be mindful of detached radicalism and upheaval.",
+        "Pisces": "With Pluto in Pisces, spiritual rebirth and collective unconscious shifts unfold. Watch for escapist addiction patterns."
+      },
+      "house_interpretations": {
+        "1": "Pluto in the 1st house brings intense personal transformation and presence. Be cautious of domineering or obsessive behaviors.",
+        "2": "With Pluto in the 2nd house, values and self‑esteem regenerate deeply. Watch for power struggles around resources.",
+        "3": "A Pluto in the 3rd house intensifies communication and mental exploration. Guard against obsessive or manipulative speech.",
+        "4": "Pluto in the 4th house transforms family and emotional roots at depth. Be mindful of power conflicts in home life.",
+        "5": "With Pluto in the 5th house, creativity and romance undergo profound change. Watch for dramatic or destructive tendencies.",
+        "6": "Pluto in the 6th house regenerates work habits and health through deep analysis. Avoid obsessive focus on flaws.",
+        "7": "A Pluto in the 7th house brings transformative partnerships and power dynamics. Be cautious of control struggles with others.",
+        "8": "With Pluto in the 8th house, shared resources and intimacy catalyze deep regeneration. Guard against jealousy and secrecy.",
+        "9": "Pluto in the 9th house transforms beliefs and worldview through intense exploration. Watch for dogmatic extremes.",
+        "10": "With Pluto in the 10th house, career and reputation undergo powerful metamorphosis. Be mindful of ruthless ambition.",
+        "11": "Pluto in the 11th house transforms group ideals and social networks. Avoid fanaticism and manipulative group dynamics.",
+        "12": "With Pluto in the 12th house, subconscious patterns and hidden fears are purified. Guard against self‑destructive impulses."
+      }
+    },
+    "Chiron": {
+      "core_themes": "Wounds and healing; vulnerability, wisdom through pain, mentorship, and compassion.",
+      "sign_interpretations": {
+        "Aries": "Chiron in Aries wounds self‑assertion and courage but heals through authentic independence. Be mindful of impulsive defensiveness.",
+        "Taurus": "With Chiron in Taurus, wounds around security and self‑worth heal through grounded patience. Guard against stubborn self‑criticism.",
+        "Gemini": "Chiron in Gemini brings communicative wounds that heal through sharing wisdom. Watch for anxious or scattered speech.",
+        "Cancer": "With Chiron in Cancer, emotional wounds around family heal through nurturing bonds. Avoid clingy healing patterns.",
+        "Leo": "A Chiron in Leo wounds creative expression but heals through genuine recognition. Be cautious of ego sensitivity.",
+        "Virgo": "Chiron in Virgo feels wounds in service that heal through compassionate care. Guard against over‑analysis in healing.",
+        "Libra": "With Chiron in Libra, relational wounds heal through balanced diplomacy. Be mindful of indecision in partnerships.",
+        "Scorpio": "Chiron in Scorpio carries deep transformational wounds that heal through honest intimacy. Watch for obsessive healing patterns.",
+        "Sagittarius": "With Chiron in Sagittarius, wounds in belief systems heal through expansive exploration. Guard against dogmatic swings.",
+        "Capricorn": "Chiron in Capricorn faces wounds in authority that heal through responsible mastery. Avoid rigid self‑expectations.",
+        "Aquarius": "With Chiron in Aquarius, outsider wounds heal through innovative community support. Watch for emotional detachment.",
+        "Pisces": "Chiron in Pisces carries spiritual wounds that heal through compassionate artistry. Guard against escapist coping strategies."
+      },
+      "house_interpretations": {
+        "1": "Chiron in the 1st house wounds identity but heals through self‑acceptance and authenticity. Be mindful of defensive behaviors.",
+        "2": "In the 2nd house Chiron challenges self‑worth and material security but heals through grounded values. Avoid equating worth with possessions.",
+        "3": "Chiron in the 3rd house wounds communication and learning but heals through sharing insights. Guard against self‑doubt in expression.",
+        "4": "With Chiron in the 4th house, family wounds heal through compassionate understanding. Watch for emotional dependency.",
+        "5": "Chiron in the 5th house wounds creative joy but heals through authentic self‑expression. Avoid fear of criticism.",
+        "6": "In the 6th house Chiron wounds work and health routines but heals through compassionate service. Be cautious of perfectionist anxiety.",
+        "7": "Chiron in the 7th house wounds partnerships but heals through balanced empathy. Guard against codependency.",
+        "8": "With Chiron in the 8th house, deep wounds transform through shared intimacy. Avoid obsessive healing or control issues.",
+        "9": "Chiron in the 9th house wounds beliefs but heals through expansive learning. Be mindful of dogmatic rigidity.",
+        "10": "In the 10th house Chiron challenges career identity but heals through responsible leadership. Guard against fear of failure.",
+        "11": "Chiron in the 11th house wounds group belonging but heals through innovative social support. Watch for feelings of alienation.",
+        "12": "With Chiron in the 12th house, spiritual wounds heal through deep compassion. Avoid escaping into isolation or fantasy."
+      }
+    }
+  }
+}

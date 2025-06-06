@@ -1,0 +1,210 @@
+{
+  "self_discovery": {
+    "cover_image": "images/covers/self_discovery_cover.jpg",
+    "divider_image": "images/dividers/self_discovery_divider.png",
+    "theme_color": "#5DADE2",
+    "font": "Serif",
+    "layout": "default",
+    "section_overrides": {
+      "01_Mythic_Prologue": {
+        "quote": "“The innermost chambers of the soul are archives of starlight and shadow, awaiting your return.” — Oracle's Codex",
+        "static_intro": "This journey is a homecoming to the self you’ve always been beneath the surface. Your Cosmic Blueprint acts as both map and mirror, revealing the intricate pathways of your unique essence. Dare to look within; the universe awaits your recognition."
+      },
+      "03_Earth_Energies": {
+        "quote": "“Listen: the Earth breathes with you. Align your pulse to its ancient rhythm.” — Gaia’s Whisper",
+        "static_intro": "Connecting with the Earth is connecting with your own foundational energy. Explore how the planet’s subtle frequencies and elemental forces resonate within your being, offering grounding and vitality for your path of self-awareness."
+      },
+      "05_Core_Essence": {
+        "quote": "“To know thyself is the beginning of wisdom, the illumination of the soul's unique signature.” — Adapted from Socrates",
+        "static_intro": "At the heart of your chart lies the irreducible vibration of You. Uncover the core archetypes, motivations, and innate energies that define your authentic self, separate from external roles and expectations."
+      },
+      "08_Soul_Key": {
+        "quote": "“Your deepest wounds are often portals to your greatest gifts, keys to unlocking your soul’s purpose.” — Chironic Lore",
+        "static_intro": "The Soul Key section deciphers the karmic threads and sacred contracts woven into your being. Here, challenges become catalysts, and vulnerability reveals the map towards your destined growth and healing."
+      },
+      "13_Career_Wealth": {
+        "quote": "“True abundance flows where your soul’s calling meets the world’s needs.” — The Alchemist's Ledger",
+        "static_intro": "Self-discovery extends into how you offer your unique gifts to the world. Explore the intersection of your values, service, and calling to understand the energetic signature of your potential for meaningful contribution and prosperity."
+      },
+      "22_Final_Message": {
+        "quote": "“The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.” — Marcel Proust",
+        "static_intro": "This blueprint is a beginning, an invitation to continue the profound dialogue with your inner cosmos. May these insights empower you to consciously co-create your unfolding myth with clarity and courage."
+      }
+    }
+  },
+  "birthday": {
+    "cover_image": "images/covers/birthday_cover.jpg",
+    "divider_image": "images/dividers/birthday_divider.png",
+    "theme_color": "#F5B041",
+    "font": "Serif",
+    "layout": "default",
+    "section_overrides": {
+      "01_Mythic_Prologue": {
+        "quote": "“Each birthday is a spiral gate, opening onto a new revolution of becoming around your inner sun.” — Solar Cycle Wisdom",
+        "static_intro": "Happy Solar Return, {client_name}! Today marks a potent moment as the Sun realigns with its position at your birth. This Cosmic Blueprint celebrates your unique journey thus far and illuminates the radiant potential unfolding in the year ahead."
+      },
+      "03_Earth_Energies": {
+        "quote": "“May your roots deepen and your branches reach for the sun in this new year of life.” — Earth Blessing",
+        "static_intro": "As you begin a new cycle, grounding in the Earth’s energies provides stability and vitality. Discover the elemental forces highlighted for your year ahead and how connecting with them can support your well-being and growth."
+      },
+      "05_Core_Essence": {
+        "quote": "“Celebrate your unique spark! The world is brighter for the light only you can bring.” — Birthday Affirmation",
+        "static_intro": "Your birthday is a potent time to reconnect with your core self. This section revisits the fundamental energies and archetypes that make you uniquely you, reaffirming your innate strengths and potential as you step into a new year."
+      },
+      "08_Soul_Key": {
+        "quote": "“May the lessons of the past year become the wisdom that guides your steps forward.” — Saturn’s Gift",
+        "static_intro": "Your birthday invites reflection on the soul lessons unfolding in your life. Chiron, Saturn, and the Nodes highlight areas of growth and mastery relevant to your current cycle and ongoing journey."
+      },
+      "19_Transits_Forecasts": {
+        "header": "Your Birthday Year Ahead: Transits & Forecasts",
+        "quote": "“Look to the stars, for they map the winds of change for your coming year.” — Celestial Navigator's Guide",
+        "static_intro": "What cosmic tides will influence your personal new year? This forecast explores the key planetary transits shaping the themes, opportunities, and invitations for growth in the twelve months following your birthday."
+      },
+      "22_Final_Message": {
+        "quote": "“May your path ahead be illuminated by joy, guided by wisdom, and blessed by the stars. Happy Birthday!”",
+        "static_intro": "Happy Birthday, {client_name}! Embrace the journey ahead with an open heart. May this new cycle bring abundant blessings, deeper self-understanding, and the courage to shine your brightest light. Celebrate yourself today!"
+      }
+    }
+  },
+  "pet_memorial": {
+    "theme_color": "#A9A9A9", 
+    "font": "Sans", 
+    "layout": "pet",
+    "section_overrides": {
+      "01_Pet_Soul_Story": {
+        "quote": "“Some souls come into our lives paw-first and leave footprints on the sky.” — Anonymous",
+        "static_intro": "This section honors the eternal soul of your beloved companion, {pet_name}. Though no longer in the physical, their spirit lingers like sunlight through leaves — warm, watchful, and woven into your heart’s memory. Let this be a sacred remembering."
+      },
+      "03_Elemental_Energy": {
+        "quote": "“The wind still knows their scent. The earth still carries their echo.” — Whisper of the Wild",
+        "static_intro": "Every creature is born of the elements — and returns to them. In this section, reflect on how {pet_name}'s elemental essence still flows around you: in rustling branches, in firelight flickers, in quiet waters. Their nature was, and is, part of the world’s breath."
+      },
+      "04_Totemic_Lineage": {
+        "quote": "“They were more than animal — they were guide, kin, keeper of a forgotten wisdom.” — Totemkeeper’s Lament",
+        "static_intro": "Here, you meet {pet_name}'s totemic heritage — the mythic echoes that shaped their being across lifetimes. This remembrance transcends breed or biology. It is a return to their cosmic ancestry: the wild wisdom encoded in their gaze, their instincts, their silent love."
+      },
+      "05_Final_Pet_Message": {
+        "quote": "“I am not gone. I am the wind in your dreams, the warmth beside your soul.” — Eternal Companion",
+        "static_intro": "This final message is a soft paw on your spirit — a whisper across the veil. {pet_name} sends love not as goodbye, but as a promise: that their soul dances beside yours still. May this blessing bring tears of release and the light of reunion to your heart."
+      }
+    }
+  },
+  "pet_birthday": {
+    "theme_color": "#FAD7A0",
+    "font": "Sans",
+    "layout": "pet",
+    "section_overrides": {
+      "01_Pet_Soul_Story": {
+        "quote": "“Every wag, every purr, a note in the symphony of joy that is their life.” — Celebration Codex",
+        "static_intro": "Today, we honor the unique light that is {pet_name}. Their birthday is not just a date — it's a cosmic chorus, a pawprint on time. This section celebrates their soul’s playful spark and the constellations that danced on the day they arrived."
+      },
+      "03_Elemental_Energy": {
+        "quote": "“They are born of fur and flame, feather and stream.” — Animal Alchemy",
+        "static_intro": "On this special day, rediscover how {pet_name}'s elemental makeup shapes their quirks, moods, and movements. From bounding fire to steady earth, their essence is a poem written in instinct and joy."
+      },
+      "05_Final_Pet_Message": {
+        "quote": "“You gave me a name and a home — I give you all the love the stars can hold.” — Birthday Blessing",
+        "static_intro": "As this cosmic celebration draws to a close, let {pet_name} offer you their gratitude in return. This message is a bark, a blink, a brush of spirit — pure joy wrapped in fur and wonder."
+      }
+    }
+  },
+  "pet_discovery": {
+    "theme_color": "#82E0AA",
+    "font": "Sans",
+    "layout": "pet",
+    "section_overrides": {
+      "01_Pet_Soul_Story": {
+        "quote": "“Some companions are chosen by destiny, not by blood.” — The Pactkeeper's Path",
+        "static_intro": "This reading honors the moment you met — that instant of soul recognition. Whether by chance or fate, {pet_name} became part of your story. Here, we uncover who they truly are beneath the fur and feathers."
+      },
+      "03_Elemental_Energy": {
+        "quote": "“Their nature speaks before their voice — a dance of earth, air, fire, and flow.” — Animal Elementals",
+        "static_intro": "Getting to know {pet_name} means feeling their elemental heartbeat. This section explores their inner balance — where their calm lives, where their fire stirs, and how they relate to the world around them."
+      },
+      "04_Totemic_Lineage": {
+        "quote": "“Behind their eyes walks a lineage of wisdom, wild and true.” — Totem Scrolls",
+        "static_intro": "Even newly met, their spirit carries echoes of ancient companions. Learn about the symbolic legacy carried within {pet_name}'s instincts — their mythic lineage beyond time and breed."
+      }
+    }
+  },
+  "pet_default": {
+    "cover_image": "images/covers/pet_default_cover.jpg",
+    "divider_image": "images/dividers/pet_default_divider.png",
+    "theme_color": "#00BFA6", 
+    "font": "Sans",
+    "layout": "pet",
+    "section_overrides": {
+      "01_Pet_Soul_Story": {
+        "quote": "“Their love is unconditional, their soul unconstrained.” — Whisper of Companions",
+        "static_intro": "This Cosmic Companion Report is a tribute to {pet_name} — their energy, instincts, and sacred story. Let it deepen your bond and awaken reverence for the soul who shares your path."
+      },
+      "03_Elemental_Energy": {
+        "quote": "“They are the elements, wild and pure — fur in the wind, joy in the flame.” — Elemental Familiar",
+        "static_intro": "Discover the elemental forces that move through {pet_name} — the fire that leaps in play, the water that curls in sleep, the earth they trust, and the air they chase. This is their energetic dance."
+      }
+    }
+  },
+  "human_default": {
+    "cover_image": "images/covers/human_default_cover.jpg",
+    "divider_image": "images/dividers/human_default_divider.png",
+    "theme_color": "#4A4E69",
+    "font": "Serif",
+    "layout": "default",
+    "section_overrides": {
+      "01_Mythic_Prologue": {
+        "quote": "“You are not a drop in the universe. You are the universe in a drop.” — Ancient Echo",
+        "static_intro": "This report is a sacred map — not to where you are going, but to where you've always been. A myth lives inside your chart, waiting to be remembered. Begin your journey now."
+      },
+      "05_Core_Essence": {
+        "quote": "“The essence of who you are cannot be touched by circumstance.” — Inner Flame Oracle",
+        "static_intro": "Beyond personality and pattern lies your essence — steady, bright, and unchanging. This section illuminates that inner frequency, the truth that radiates before you even speak."
+      },
+      "22_Final_Message": {
+        "quote": "“You were never lost. You were always becoming.” — Voice of the Stars",
+        "static_intro": "The cosmos has no end, and neither do you. Take these insights as seeds for your own transformation — your next step toward the most luminous version of yourself."
+      }
+    }
+  },
+  "human_discovery": {
+    "cover_image": "images/covers/human_discovery_cover.jpg",
+    "divider_image": "images/dividers/human_discovery_divider.png",
+    "theme_color": "#3366FF",
+    "font": "Serif",
+    "layout": "discovery",
+    "section_overrides": {
+      "01_Mythic_Prologue": {
+        "quote": "“You are not a drop in the universe. You are the universe in a drop.” — Ancient Echo",
+        "static_intro": "This report is a sacred map — not to where you are going, but to where you've always been. A myth lives inside your chart, waiting to be remembered. Begin your journey now."
+      },
+      "05_Core_Essence": {
+        "quote": "“The essence of who you are cannot be touched by circumstance.” — Inner Flame Oracle",
+        "static_intro": "Beyond personality and pattern lies your essence — steady, bright, and unchanging. This section illuminates that inner frequency, the truth that radiates before you even speak."
+      },
+      "22_Final_Message": {
+        "quote": "“You were never lost. You were always becoming.” — Voice of the Stars",
+        "static_intro": "The cosmos has no end, and neither do you. Take these insights as seeds for your own transformation — your next step toward the most luminous version of yourself."
+      }
+    }
+  },
+  "human_birthday": {
+    "cover_image": "images/covers/human_birthday_cover.jpg",
+    "divider_image": "images/dividers/human_birthday_divider.png",
+    "theme_color": "#FF9933",
+    "font": "Sans",
+    "layout": "birthday",
+    "section_overrides": {
+      "01_Mythic_Prologue": {
+        "quote": "“You are not a drop in the universe. You are the universe in a drop.” — Ancient Echo",
+        "static_intro": "This report is a sacred map — not to where you are going, but to where you've always been. A myth lives inside your chart, waiting to be remembered. Begin your journey now."
+      },
+      "05_Core_Essence": {
+        "quote": "“The essence of who you are cannot be touched by circumstance.” — Inner Flame Oracle",
+        "static_intro": "Beyond personality and pattern lies your essence — steady, bright, and unchanging. This section illuminates that inner frequency, the truth that radiates before you even speak."
+      },
+      "22_Final_Message": {
+        "quote": "“You were never lost. You were always becoming.” — Voice of the Stars",
+        "static_intro": "The cosmos has no end, and neither do you. Take these insights as seeds for your own transformation — your next step toward the most luminous version of yourself."
+      }
+    }
+  }
+}

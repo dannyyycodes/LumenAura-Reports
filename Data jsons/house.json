@@ -1,0 +1,256 @@
+{
+  "houses": {
+    "1": {
+      "core_themes": "House of Self & Identity. Governs personality, appearance, beginnings. Keywords: identity, self‑image, initiative, persona, first impressions.",
+      "sign_on_cusp_interpretations": {
+        "Aries": "Aries on the 1st cusp brings bold initiative and direct self‑expression. You project confidence but may need to temper impulsiveness in how you present yourself.",
+        "Taurus": "Taurus on the 1st cusp grounds your identity in steadiness and sensuality. You appear reliable and composed but may resist necessary personal change.",
+        "Gemini": "Gemini on the 1st cusp colors your persona with curiosity and adaptability. You come across as communicative and versatile but risk seeming scattered or inconsistent.",
+        "Cancer": "Cancer on the 1st cusp gives a nurturing, sensitive presence. You project empathy and protectiveness but may seem moody or overly defensive.",
+        "Leo": "Leo on the 1st cusp highlights a warm, dramatic persona. You shine with creative confidence but may need to guard against prideful or attention‑seeking tendencies.",
+        "Virgo": "Virgo on the 1st cusp presents a precise, service‑oriented identity. You appear helpful and detail‑focused but may struggle with self‑criticism or perfectionism.",
+        "Libra": "Libra on the 1st cusp brings a harmonious, diplomatic presence. You project grace and balance but may avoid asserting yourself to keep the peace.",
+        "Scorpio": "Scorpio on the 1st cusp adds intensity and magnetic depth to your persona. You appear powerful and mysterious but may seem secretive or controlling.",
+        "Sagittarius": "Sagittarius on the 1st cusp gives an adventurous, optimistic identity. You come across as open‑minded and enthusiastic but may overlook practical details.",
+        "Capricorn": "Capricorn on the 1st cusp shows a disciplined, responsible self‑image. You project maturity and ambition but may seem reserved or overly serious.",
+        "Aquarius": "Aquarius on the 1st cusp highlights a unique, innovative persona. You appear progressive and detached but may struggle with emotional connection.",
+        "Pisces": "Pisces on the 1st cusp lends a compassionate, imaginative presence. You project empathy and artistry but risk appearing elusive or overly idealistic."
+      }
+    },
+    "2": {
+      "core_themes": "House of Values & Resources. Governs personal finances, self‑worth, possessions. Keywords: security, values, earnings, material comfort, self‑esteem.",
+      "sign_on_cusp_interpretations": {
+        "Aries": "Aries on the 2nd cusp drives assertive pursuit of resources. You are quick to seize opportunities but may act impulsively with money or possessions.",
+        "Taurus": "Taurus on the 2nd cusp brings steady accumulation and value appreciation. You build security patiently but may resist adapting your values.",
+        "Gemini": "Gemini on the 2nd cusp values variety and communication in resources. You seek multiple income streams but risk scattered financial focus.",
+        "Cancer": "Cancer on the 2nd cusp ties security to emotional comfort and home. You nurture resources carefully but may cling to possessions for safety.",
+        "Leo": "Leo on the 2nd cusp enjoys lavish spending on pleasure and creativity. You are generous with resources but may overspend for status or admiration.",
+        "Virgo": "Virgo on the 2nd cusp focuses on practical budgeting and service‑based earnings. You manage resources methodically but risk over‑planning or worry.",
+        "Libra": "Libra on the 2nd cusp seeks balance between giving and receiving. You value aesthetic possessions but may hesitate in financial decisions.",
+        "Scorpio": "Scorpio on the 2nd cusp transforms resources through shared investments. You handle finances with depth but risk power struggles over money.",
+        "Sagittarius": "Sagittarius on the 2nd cusp pursues abundance through exploration and learning. You seek opportunities abroad but may overlook saving for the future.",
+        "Capricorn": "Capricorn on the 2nd cusp builds long‑term wealth through discipline. You are strategic with resources but risk workaholic attitudes toward earning.",
+        "Aquarius": "Aquarius on the 2nd cusp values unconventional resources and ideals. You innovate in finances but may detach emotionally from material security.",
+        "Pisces": "Pisces on the 2nd cusp finds security through creative and spiritual resources. You are generous and imaginative but risk vague boundaries around your possessions."
+      }
+    },
+    "3": {
+      "core_themes": "House of Communication & Learning. Governs siblings, local environment, thinking, short‑trips. Keywords: communication, ideas, learning, connections, curiosity.",
+      "sign_on_cusp_interpretations": {
+        "Aries": "Aries on the 3rd cusp sparks direct, enthusiastic communication. You speak with confidence but may interrupt or rush conversations.",
+        "Taurus": "Taurus on the 3rd cusp brings practical, steady thinking. You value concrete facts but may resist new ideas or change in perspective.",
+        "Gemini": "Gemini on the 3rd cusp excels in versatile dialogue and networking. You adapt quickly but risk superficiality or scattered attention.",
+        "Cancer": "Cancer on the 3rd cusp communicates with emotional sensitivity. You nurture through words but may become overly sentimental or defensive.",
+        "Leo": "Leo on the 3rd cusp adds dramatic flair to your speech and learning. You captivate audiences but may dominate conversations.",
+        "Virgo": "Virgo on the 3rd cusp brings analytical precision to communication. You craft clear, detailed messages but risk over‑analyzing or worry.",
+        "Libra": "Libra on the 3rd cusp seeks balanced and diplomatic dialogue. You mediate ideas gracefully but may avoid conflict or decisive expression.",
+        "Scorpio": "Scorpio on the 3rd cusp probes deeply in thought and conversation. You uncover hidden truths but risk obsession or intense debates.",
+        "Sagittarius": "Sagittarius on the 3rd cusp expands thinking through exploration and philosophy. You inspire ideas but may overlook practical details.",
+        "Capricorn": "Capricorn on the 3rd cusp structures learning with disciplined study. You build solid knowledge but may resist playful or creative learning styles.",
+        "Aquarius": "Aquarius on the 3rd cusp brings innovative, unconventional ideas. You think ahead of your time but risk seeming detached or erratic.",
+        "Pisces": "Pisces on the 3rd cusp blends imagination with communication. You express creatively but may blur facts or become vague."
+      }
+    },
+    "4": {
+      "core_themes": "House of Home & Roots. Governs family, emotional foundation, heritage. Keywords: home, family, security, ancestry, private life.",
+      "sign_on_cusp_interpretations": {
+        "Aries": "Aries on the 4th cusp brings dynamic energy to home life. You initiate change in your roots but may clash with family over autonomy.",
+        "Taurus": "Taurus on the 4th cusp values stability and comfort in the household. You create a nurturing environment but may resist moving beyond familiar patterns.",
+        "Gemini": "Gemini on the 4th cusp fosters lively family communication. You connect through conversation but risk scattered attention at home.",
+        "Cancer": "Cancer on the 4th cusp deepens emotional bonds with family. You excel at nurturing but may become overly protective or moody.",
+        "Leo": "Leo on the 4th cusp brings warmth and creativity to home. You host joyously but may seek attention or drama within the family.",
+        "Virgo": "Virgo on the 4th cusp organizes home life with care. You maintain order and health but risk over‑critical attitude in domestic matters.",
+        "Libra": "Libra on the 4th cusp seeks harmony in your private sphere. You cultivate peace but may avoid addressing deeper familial tensions.",
+        "Scorpio": "Scorpio on the 4th cusp brings intensity to your roots. You transform family patterns but may struggle with power dynamics at home.",
+        "Sagittarius": "Sagittarius on the 4th cusp seeks freedom through exploring family traditions. You honor heritage but may feel restless in domestic settings.",
+        "Capricorn": "Capricorn on the 4th cusp requires structure in home and family. You build long‑lasting foundations but may be emotionally reserved.",
+        "Aquarius": "Aquarius on the 4th cusp values individuality in the home. You embrace unconventional living but risk detachment from family ties.",
+        "Pisces": "Pisces on the 4th cusp brings compassion and imagination to your roots. You create a sanctuary of empathy but may escape through fantasy."
+      }
+    },
+    "5": {
+      "core_themes": "House of Creativity & Romance. Governs self‑expression, pleasure, children, love affairs. Keywords: creativity, joy, romance, play, passion.",
+      "sign_on_cusp_interpretations": {
+        "Aries": "Aries on the 5th cusp ignites passionate creativity and bold romance. You act on impulses but may rush into affairs without foresight.",
+        "Taurus": "Taurus on the 5th cusp grounds pleasure in sensuality and stability. You savor creative projects but may resist necessary changes.",
+        "Gemini": "Gemini on the 5th cusp brings playful curiosity to fun and flirtation. You enjoy variety but risk fleeting interests or superficial engagement.",
+        "Cancer": "Cancer on the 5th cusp nurtures creativity with emotional depth. You infuse projects with heart but may cling to outcomes or feel overly sensitive.",
+        "Leo": "Leo on the 5th cusp amplifies dramatic flair and confident romance. You shine in creative self‑expression but may seek constant admiration.",
+        "Virgo": "Virgo on the 5th cusp refines creativity through careful craftsmanship. You perfect details but risk critical standards that stifle spontaneity.",
+        "Libra": "Libra on the 5th cusp seeks beauty and harmony in art and love. You charm effortlessly but may avoid conflict in creative collaborations.",
+        "Scorpio": "Scorpio on the 5th cusp brings intense passion and transformative art. You delve deep into projects but may become obsessive over outcomes.",
+        "Sagittarius": "Sagittarius on the 5th cusp infuses play with adventurous spirit. You explore boldly but risk overextending or losing focus.",
+        "Capricorn": "Capricorn on the 5th cusp channels creativity through disciplined effort. You build lasting works but may fear taking playful risks.",
+        "Aquarius": "Aquarius on the 5th cusp innovates in art and romance. You pioneer unique expressions but risk detached or unpredictable affections.",
+        "Pisces": "Pisces on the 5th cusp dreamily creates and loves. You bring deep imagination to pleasure but may blur boundaries or escape reality."
+      }
+    },
+    "6": {
+      "core_themes": "House of Work & Health. Governs service, routines, wellness, daily responsibilities. Keywords: labor, health, service, efficiency, habits.",
+      "sign_on_cusp_interpretations": {
+        "Aries": "Aries on the 6th cusp energizes work with initiative and courage. You tackle tasks head‑on but may burn out if you don’t pace yourself.",
+        "Taurus": "Taurus on the 6th cusp brings steady, reliable routines. You build lasting habits but may resist necessary changes to your health regimen.",
+        "Gemini": "Gemini on the 6th cusp values variety in work and learning. You adapt quickly but risk distraction or inconsistency in daily tasks.",
+        "Cancer": "Cancer on the 6th cusp nurtures through service and care. You support others empathetically but may take on too much emotional labor.",
+        "Leo": "Leo on the 6th cusp brings creative leadership to work routines. You inspire colleagues but may seek recognition at the expense of teamwork.",
+        "Virgo": "Virgo on the 6th cusp excels at detailed organization and health management. You optimize efficiency but risk over‑critical focus on flaws.",
+        "Libra": "Libra on the 6th cusp seeks harmony in service and workflow. You mediate tasks gracefully but may avoid necessary confrontations.",
+        "Scorpio": "Scorpio on the 6th cusp delves deeply into health and work transformations. You heal at profound levels but risk obsessive perfectionism.",
+        "Sagittarius": "Sagittarius on the 6th cusp infuses routines with optimism and learning. You explore new methods but may neglect consistency.",
+        "Capricorn": "Capricorn on the 6th cusp structures work with disciplined ambition. You achieve through perseverance but may become work‑obsessed.",
+        "Aquarius": "Aquarius on the 6th cusp innovates in health and service. You pioneer new approaches but risk detachment from practical needs.",
+        "Pisces": "Pisces on the 6th cusp brings compassionate healing to routines. You intuit others’ needs but may lack boundaries in service."
+      }
+    },
+    "7": {
+      "core_themes": "House of Partnership & Relationships. Governs marriage, one‑to‑one bonds, contracts, cooperation. Keywords: partnership, marriage, diplomacy, equality, relating.",
+      "sign_on_cusp_interpretations": {
+        "Aries": "Aries on the 7th cusp approaches relationships with bold independence. You initiate partnerships confidently but may clash over autonomy needs.",
+        "Taurus": "Taurus on the 7th cusp seeks loyalty and stability in bonds. You build enduring relationships but may resist change or compromise.",
+        "Gemini": "Gemini on the 7th cusp values communication and mental rapport. You connect over ideas but risk superficial engagement.",
+        "Cancer": "Cancer on the 7th cusp nurtures partnerships with empathy. You create emotional security but may become overly dependent.",
+        "Leo": "Leo on the 7th cusp brings warmth and generosity to relationships. You inspire loyalty but may demand constant admiration.",
+        "Virgo": "Virgo on the 7th cusp commits through service and reliability. You support partners practically but may critique too harshly.",
+        "Libra": "Libra on the 7th cusp excels at balanced, harmonious partnerships. You cooperate gracefully but may avoid conflict at personal cost.",
+        "Scorpio": "Scorpio on the 7th cusp deepens bonds through intensity and transformation. You foster loyalty but may struggle with power dynamics.",
+        "Sagittarius": "Sagittarius on the 7th cusp values freedom and adventure in partnerships. You inspire growth but risk commitment‑phobia.",
+        "Capricorn": "Capricorn on the 7th cusp honors commitment through responsibility. You build lasting unions but may be emotionally reserved.",
+        "Aquarius": "Aquarius on the 7th cusp seeks egalitarian, unconventional bonds. You connect through ideals but may struggle with intimacy.",
+        "Pisces": "Pisces on the 7th cusp offers compassionate, intuitive partnerships. You empathize deeply but may blur boundaries or idealize partners."
+      }
+    },
+    "8": {
+      "core_themes": "House of Transformation & Shared Resources. Governs intimacy, joint finances, death/rebirth, psychological depth. Keywords: transformation, intimacy, power, regeneration, taboo.",
+      "sign_on_cusp_interpretations": {
+        "Aries": "Aries on the 8th cusp drives transformative action and fearless intimacy. You confront taboos directly but may provoke conflicts in power dynamics.",
+        "Taurus": "Taurus on the 8th cusp finds stability through shared resources and sensual renewal. You regenerate slowly but may resist letting go of old patterns.",
+        "Gemini": "Gemini on the 8th cusp explores psychological depths through communication. You uncover hidden truths verbally but risk scattered emotional focus.",
+        "Cancer": "Cancer on the 8th cusp nurtures in crises and deep bonds. You provide emotional refuge but may become over‑protective or emotionally enmeshed.",
+        "Leo": "Leo on the 8th cusp seeks dramatic transformation and passionate intimacy. You express power creatively but may dramatize or control situations.",
+        "Virgo": "Virgo on the 8th cusp analyzes shared resources with precision. You heal through practical support but may obsess over details.",
+        "Libra": "Libra on the 8th cusp balances power dynamics in relationships. You mediate shared affairs gracefully but may avoid confronting deep issues.",
+        "Scorpio": "Scorpio on the 8th cusp intensifies regeneration and uncovering secrets. You transform profoundly but may struggle with obsessive control.",
+        "Sagittarius": "Sagittarius on the 8th cusp seeks philosophical meaning in transformation. You grow through exploration but may overlook emotional depth.",
+        "Capricorn": "Capricorn on the 8th cusp structures joint ventures responsibly. You manage shared resources effectively but may become overly cautious or controlling.",
+        "Aquarius": "Aquarius on the 8th cusp revolutionizes power structures and intimacy. You innovate in shared affairs but may detach emotionally.",
+        "Pisces": "Pisces on the 8th cusp dissolves boundaries in deep connection. You heal through compassion but risk losing yourself in others’ depths."
+      }
+    },
+    "9": {
+      "core_themes": "House of Expansion & Belief. Governs higher learning, travel, philosophy, spiritual quest. Keywords: adventure, philosophy, faith, exploration, vision.",
+      "sign_on_cusp_interpretations": {
+        "Aries": "Aries on the 9th cusp pursues knowledge with pioneering zeal. You embrace challenges boldly but may rush into beliefs without reflection.",
+        "Taurus": "Taurus on the 9th cusp seeks values in stable traditions and sensual experiences. You appreciate slow, grounded learning but may resist new philosophies.",
+        "Gemini": "Gemini on the 9th cusp explores diverse ideas through communication. You learn rapidly but risk superficial understanding.",
+        "Cancer": "Cancer on the 9th cusp connects beliefs to emotional security and home comfort. You teach through empathy but may cling to familiar worldviews.",
+        "Leo": "Leo on the 9th cusp loves grand visions and dramatic teachings. You inspire others with passion but may demand admiration for your ideas.",
+        "Virgo": "Virgo on the 9th cusp analyzes philosophy with practical scrutiny. You refine beliefs carefully but may over‑criticize or miss the bigger picture.",
+        "Libra": "Libra on the 9th cusp seeks balanced perspectives in learning. You mediate ideas gracefully but may avoid taking a firm stance.",
+        "Scorpio": "Scorpio on the 9th cusp probes spiritual truths with intensity. You transform beliefs deeply but may become obsessive or secretive.",
+        "Sagittarius": "Sagittarius on the 9th cusp thrives on boundless exploration and faith. You inspire optimism but risk restless dogmatism.",
+        "Capricorn": "Capricorn on the 9th cusp builds structured worldviews through disciplined study. You achieve mastery but may be rigid in your beliefs.",
+        "Aquarius": "Aquarius on the 9th cusp innovates philosophy with humanitarian ideals. You envision future paradigms but may detach from emotional resonance.",
+        "Pisces": "Pisces on the 9th cusp dreams of transcendent truths and spiritual oneness. You intuit cosmic meaning but may blur reality with illusion."
+      }
+    },
+    "10": {
+      "core_themes": "House of Career & Public Image. Governs reputation, authority, ambition, life purpose. Keywords: career, status, authority, achievement, responsibility.",
+      "sign_on_cusp_interpretations": {
+        "Aries": "Aries on the 10th cusp drives ambitious leadership and pioneering career moves. You forge your own path but may face burnout or conflicts with authority.",
+        "Taurus": "Taurus on the 10th cusp values steady progress and lasting professional achievements. You build reliability but may resist necessary change in your career.",
+        "Gemini": "Gemini on the 10th cusp excels in communication‑based professions. You adapt roles easily but risk scattered focus or lack of depth.",
+        "Cancer": "Cancer on the 10th cusp ties career to emotional fulfillment and care. You nurture colleagues but may become too protective or sensitive to criticism.",
+        "Leo": "Leo on the 10th cusp shines in leadership and creative professions. You command attention but may demand excessive recognition.",
+        "Virgo": "Virgo on the 10th cusp brings meticulous service and expertise to your public role. You excel in detail‑oriented tasks but may worry excessively about performance.",
+        "Libra": "Libra on the 10th cusp seeks diplomacy and balance in your career. You mediate conflicts well but may avoid decisive leadership choices.",
+        "Scorpio": "Scorpio on the 10th cusp transforms public image through intensity and strategic power. You regenerate your reputation but may provoke power struggles.",
+        "Sagittarius": "Sagittarius on the 10th cusp pursues a career with philosophical or global reach. You inspire through vision but may lack consistency.",
+        "Capricorn": "Capricorn on the 10th cusp embodies disciplined ambition and authority. You achieve long‑term success but may be overly serious or work‑obsessed.",
+        "Aquarius": "Aquarius on the 10th cusp innovates social structures and public causes. You pioneer progressive roles but may detach emotionally from responsibilities.",
+        "Pisces": "Pisces on the 10th cusp brings compassionate leadership and artistic vision to your career. You inspire through empathy but may lack clear direction."
+      }
+    },
+    "11": {
+      "core_themes": "House of Friendships & Ideals. Governs groups, networks, hopes, collective visions. Keywords: community, ideals, collaboration, innovation, support.",
+      "sign_on_cusp_interpretations": {
+        "Aries": "Aries on the 11th cusp leads group initiatives with pioneering spirit. You inspire action but may dominate collective efforts.",
+        "Taurus": "Taurus on the 11th cusp builds stable supportive networks. You offer reliable loyalty but may resist new social changes.",
+        "Gemini": "Gemini on the 11th cusp thrives in diverse social circles and idea exchange. You connect widely but risk superficial friendships.",
+        "Cancer": "Cancer on the 11th cusp nurtures friends through emotional support. You create caring communities but may become overprotective.",
+        "Leo": "Leo on the 11th cusp brings creative leadership to group causes. You uplift visions but may seek personal acclaim within networks.",
+        "Virgo": "Virgo on the 11th cusp refines group work with analytical support. You offer practical help but may critique or worry over details.",
+        "Libra": "Libra on the 11th cusp seeks harmony in friendships and causes. You mediate group dynamics but may avoid necessary confrontations.",
+        "Scorpio": "Scorpio on the 11th cusp transforms social bonds through deep loyalty. You inspire intense collaboration but may hold power tightly.",
+        "Sagittarius": "Sagittarius on the 11th cusp expands networks through adventurous ideals. You inspire optimism but may lack long‑term commitment.",
+        "Capricorn": "Capricorn on the 11th cusp commits to structured social goals. You build lasting organizations but may be overly rigid.",
+        "Aquarius": "Aquarius on the 11th cusp excels in visionary collective innovation. You lead progressive movements but may seem detached.",
+        "Pisces": "Pisces on the 11th cusp brings compassionate unity to group ideals. You heal collective wounds but may absorb too much group emotion."
+      }
+    },
+    "12": {
+      "core_themes": "House of Solitude & the Unconscious. Governs spirituality, hidden realms, endings, healing. Keywords: subconscious, compassion, retreat, hidden strengths, self‑undoing.",
+      "sign_on_cusp_interpretations": {
+        "Aries": "Aries on the 12th cusp energizes hidden strengths and pioneering inner work. You confront subconscious fears bravely but may act impulsively in private matters.",
+        "Taurus": "Taurus on the 12th cusp finds solace in sensory retreat and inner stability. You nurture hidden security but may resist letting go of outdated comforts.",
+        "Gemini": "Gemini on the 12th cusp seeks understanding of the unconscious through research and dialogue. You bring insight to hidden realms but risk scattered mental energy.",
+        "Cancer": "Cancer on the 12th cusp deepens emotional healing and intuitive refuge. You empathize with unseen pain but may become overwhelmed by others’ feelings.",
+        "Leo": "Leo on the 12th cusp channels creative drama into private spiritual expression. You find inner radiance but may dramatize solitude or fear hidden failure.",
+        "Virgo": "Virgo on the 12th cusp analyzes subconscious patterns for healing. You refine inner habits but risk excessive worry or self‑criticism in solitude.",
+        "Libra": "Libra on the 12th cusp brings compassionate balance to unconscious realms. You mediate inner conflicts but may avoid confronting deeper shadows.",
+        "Scorpio": "Scorpio on the 12th cusp transforms hidden fears into empowerment. You regenerate through introspection but may struggle with obsessive thoughts.",
+        "Sagittarius": "Sagittarius on the 12th cusp explores spirituality and meaning behind the veil. You inspire faith but may neglect practical self‑care.",
+        "Capricorn": "Capricorn on the 12th cusp structures spiritual practice with discipline. You build inner resilience but may become emotionally reserved in retreat.",
+        "Aquarius": "Aquarius on the 12th cusp innovates in unconscious awareness and group healing. You envision collective transformation but may feel detached from personal emotion.",
+        "Pisces": "Pisces on the 12th cusp embodies profound compassion and mystical insight. You access deep healing but may risk dissolving boundaries in service."
+      }
+    }
+  },
+  "house_10": {
+    "corethemes": "[AUTO-PLACEHOLDER]",
+    "sign_libra": "[AUTO-PLACEHOLDER]"
+  },
+  "house_11": {
+    "corethemes": "[AUTO-PLACEHOLDER]",
+    "sign_scorpio": "[AUTO-PLACEHOLDER]"
+  },
+  "house_12": {
+    "corethemes": "[AUTO-PLACEHOLDER]",
+    "sign_scorpio": "[AUTO-PLACEHOLDER]"
+  },
+  "house_1": {
+    "corethemes": "[AUTO-PLACEHOLDER]",
+    "sign_sagittarius": "[AUTO-PLACEHOLDER]"
+  },
+  "house_2": {
+    "corethemes": "[AUTO-PLACEHOLDER]",
+    "sign_capricorn": "[AUTO-PLACEHOLDER]"
+  },
+  "house_3": {
+    "corethemes": "[AUTO-PLACEHOLDER]",
+    "sign_pisces": "[AUTO-PLACEHOLDER]"
+  },
+  "house_4": {
+    "corethemes": "[AUTO-PLACEHOLDER]",
+    "sign_aries": "[AUTO-PLACEHOLDER]"
+  },
+  "house_5": {
+    "corethemes": "[AUTO-PLACEHOLDER]",
+    "sign_taurus": "[AUTO-PLACEHOLDER]"
+  },
+  "house_6": {
+    "corethemes": "[AUTO-PLACEHOLDER]",
+    "sign_taurus": "[AUTO-PLACEHOLDER]"
+  },
+  "house_7": {
+    "corethemes": "[AUTO-PLACEHOLDER]",
+    "sign_gemini": "[AUTO-PLACEHOLDER]"
+  },
+  "house_8": {
+    "corethemes": "[AUTO-PLACEHOLDER]",
+    "sign_cancer": "[AUTO-PLACEHOLDER]"
+  },
+  "house_9": {
+    "corethemes": "[AUTO-PLACEHOLDER]",
+    "sign_virgo": "[AUTO-PLACEHOLDER]"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sun_rulership": {
+    "psychology": "In rulership (Leo), the Sun shines fully. Identity, purpose, and self-expression come naturally, and you may feel born to lead, inspire, or radiate.",
+    "growth": "Let your light make room for others. Leadership becomes divine when it empowers, not overshadows."
+  },
+  "sun_exaltation": {
+    "psychology": "In exaltation (Aries), the Sun is bold and vital. You assert identity with courage and carve paths that others follow.",
+    "growth": "Channel your fire into creative leadership. Burn for something — not against everything."
+  },
+  "sun_detriment": {
+    "psychology": "In detriment (Aquarius), the Sun may struggle with individuality. You might sacrifice self for group or avoid the spotlight.",
+    "growth": "Honor your uniqueness even in community. You are not separate — but you are sovereign."
+  },
+  "sun_fall": {
+    "psychology": "In fall (Libra), the Sun may feel uncertain in self-definition. You might seek validation through harmony or relationships.",
+    "growth": "Shine from your center, not from reflection. You find balance by owning your presence."
+  },
+  "moon_rulership": {
+    "psychology": "In rulership (Cancer), the Moon is deeply attuned to emotional cycles, memory, and instinctual care. You feel with intensity and often absorb the moods of your environment.",
+    "growth": "Nurture without over-merging. Your emotional intelligence becomes power when guided by boundaries."
+  },
+  "moon_exaltation": {
+    "psychology": "In exaltation (Taurus), the Moon finds stability and sensual grounding. Emotions are steady, nurturing, and deeply connected to the physical world.",
+    "growth": "Let presence become your comfort. You soothe others through your ability to hold space calmly."
+  },
+  "moon_detriment": {
+    "psychology": "In detriment (Capricorn), the Moon may feel restrained. You might suppress feelings or prioritize duty over emotional needs.",
+    "growth": "Allow softness in. Emotional resilience doesn't require emotional silence."
+  },
+  "moon_fall": {
+    "psychology": "In fall (Scorpio), the Moon may feel intensely private or emotionally guarded. You might carry deep fears of vulnerability or loss.",
+    "growth": "Let trust become your strength. Your depth is not a danger — it’s your healing terrain."
+  },
+  "mercury_rulership": {
+    "psychology": "When in rulership (Gemini or Virgo), Mercury is sharp, agile, and highly attuned to the environment. Your mind works quickly and clearly. Whether you're analyzing details or making connections, you think in systems and speak with purpose.",
+    "growth": "Use your mental clarity to teach, translate, or uplift. True intelligence includes listening — not just knowing."
+  },
+  "mercury_exaltation": {
+    "psychology": "In exaltation (Virgo), Mercury gains precise focus and analytical depth. You notice subtleties others miss, and your mind is designed for refinement and problem-solving.",
+    "growth": "Let clarity serve compassion. Your intellect becomes wisdom when it honors the whole, not just the parts."
+  },
+  "mercury_detriment": {
+    "psychology": "In detriment (Sagittarius or Pisces), Mercury may scatter or blur. You may struggle between broad ideas and linear thinking. Clarity competes with intuition or idealism.",
+    "growth": "Integrate vision with structure. Your mind is meant to explore — just bring a compass when you travel far."
+  },
+  "mercury_fall": {
+    "psychology": "In fall (Pisces), Mercury communicates in waves, not lines. Logic may feel elusive, but intuition and symbolism speak loudest. You may think more in images than in facts.",
+    "growth": "Honor your way of knowing. What seems unclear to others may be deeply resonant truth in your hands."
+  },
+  "venus_rulership": {
+    "psychology": "In rulership (Taurus or Libra), Venus expresses grace, harmony, and sensual wisdom effortlessly. You have a natural sense of beauty, connection, and aesthetic alignment. Relationships, art, and pleasure feel like intuitive languages.",
+    "growth": "Use your charm with care and depth. Your magnetism can heal or distract — when guided by heart-centered values, it becomes a sacred gift."
+  },
+  "venus_exaltation": {
+    "psychology": "In exaltation (Pisces), Venus becomes deeply spiritual and compassionate. Love transcends form and seeks soul-level union. You often feel others deeply and desire universal connection.",
+    "growth": "Protect your empathy with boundaries. You’re here to love wide and wise — to create beauty that uplifts, not depletes."
+  },
+  "venus_detriment": {
+    "psychology": "In detriment (Aries or Scorpio), Venus may express through intensity or independence. You might resist traditional relationship roles or feel conflicted between desire and closeness.",
+    "growth": "Redefine connection. Let passion and partnership coexist without sacrifice. You’re here to love bravely, not blindly."
+  },
+  "venus_fall": {
+    "psychology": "In fall (Virgo), Venus may struggle to relax into affection. Love can become filtered through analysis or self-critique. You may question your worth or over-give to prove it.",
+    "growth": "Let love be enough. Healing comes when you stop fixing and start receiving — especially from yourself."
+  },
+  "mars_rulership": {
+    "psychology": "Mars in rulership (Aries or Scorpio) expresses with full power and clarity. There's an instinctive understanding of desire, will, and assertion. You act with precision and confidence, and your anger, when present, is direct and purposeful.",
+    "growth": "Use this strength with awareness. Leadership means more than action — it means impact. You’re here to master your fire, not just unleash it."
+  },
+  "mars_exaltation": {
+    "psychology": "When exalted (in Capricorn), Mars becomes a disciplined warrior. Action is slow-burning but unstoppable. You possess strategic drive and long-term persistence, often channeling power through achievement.",
+    "growth": "Let patience sharpen your edge. Your strength lies in focused action — let purpose guide your ambition, not reaction."
+  },
+  "mars_detriment": {
+    "psychology": "In detriment (Taurus or Libra), Mars may feel blocked or hesitant. You may struggle to assert yourself directly or feel tension around conflict. Action comes through reflection or social filtering.",
+    "growth": "Redefine strength. Power doesn’t always roar — sometimes it negotiates, endures, or waits. Find the form of action that honors your nature."
+  },
+  "mars_fall": {
+    "psychology": "In fall (Cancer), Mars can turn inward or defensive. Emotions may cloud direct assertion, and you may retreat instead of act. There can be a protective instinct rather than an initiating one.",
+    "growth": "Learn to act from emotional wisdom. Your sensitivity is not a flaw — it’s a compass. True courage includes vulnerability and care."
+  },
+   "jupiter_rulership": {
+    "psychology": "Jupiter in rulership (Sagittarius or Pisces) expands naturally through faith, optimism, exploration, compassion, and seeking meaning. Abundance flows easily.",
+    "growth": "Ground your vision. Generosity becomes wisdom when tempered with discernment."
+  },
+  "jupiter_exaltation": {
+    "psychology": "Jupiter in exaltation (Cancer) finds growth through nurturing, emotional generosity, and creating security. Abundance feels like home.",
+    "growth": "Share your emotional wealth wisely. True security comes from within, not just external comfort."
+  },
+  "jupiter_detriment": {
+    "psychology": "Jupiter in detriment (Gemini or Virgo) may scatter its expansive energy through too many ideas or excessive criticism. Belief can be undermined by doubt.",
+    "growth": "Focus your enthusiasm. Find the big picture within the details, or the practical application of broad ideas."
+  },
+  "jupiter_fall": {
+    "psychology": "Jupiter in fall (Capricorn) may feel restricted by practicality or fear. Optimism can be dampened by perceived limitations or excessive caution.",
+    "growth": "Trust the process. Allow faith to inform structure, rather than letting structure limit faith."
+  },
+  "saturn_rulership": {
+    "psychology": "Saturn in rulership (Capricorn or Aquarius) understands structure, discipline, responsibility, and long-term goals instinctively. Natural authority and mastery.",
+    "growth": "Temper authority with compassion. True mastery involves flexibility and acknowledging limitations."
+  },
+  "saturn_exaltation": {
+    "psychology": "Saturn in exaltation (Libra) applies discipline to relationships and fairness. Seeks structure through justice, commitment, and balance.",
+    "growth": "Ensure fairness includes self-care. Lasting structures require balanced give-and-take."
+  },
+  "saturn_detriment": {
+    "psychology": "Saturn in detriment (Cancer or Leo) may feel insecure or fear judgment. Structure can clash with emotional needs or creative expression.",
+    "growth": "Build inner security first. Allow vulnerability to coexist with responsibility and authentic expression."
+  },
+  "saturn_fall": {
+    "psychology": "Saturn in fall (Aries) struggles with patience and impulse control. Discipline may feel restrictive to the desire for immediate action.",
+    "growth": "Develop patient persistence. Channel drive into sustainable structures rather than reactive bursts."
+  }
+}

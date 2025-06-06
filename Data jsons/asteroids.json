@@ -1,0 +1,164 @@
+{
+  "asteroids": {
+    "Ceres": {
+      "core_themes": "Embodies the Great Mother archetype, governing nurturing, sustenance, cycles of loss and renewal, and our patterns of self‑care.",
+      "sign_interpretations": {
+        "Aries": "Ceres in Aries nurtures through fostering courageous independence and active self‑care. The gift is inspiring others to claim their strength, while the challenge lies in rushing emotional processes and overlooking gentle support needs.",
+        "Taurus": "Ceres in Taurus offers nurturing through steadfast security and physical comfort. You excel at creating reliable care rhythms, yet you may resist necessary changes or cling to familiar patterns.",
+        "Gemini": "With Ceres in Gemini, nurturing comes via communication, curiosity, and sharing ideas. The gift lies in intellectual warmth and versatile support, while the shadow shows as scattered attention and difficulty listening deeply.",
+        "Cancer": "Ceres in Cancer nurtures with deep empathy, emotional attunement, and protective instincts. You offer profound comfort but may become overly sensitive or smothering in your care.",
+        "Leo": "In Leo, Ceres nurtures through warmth, creative encouragement, and playful generosity. The gift is inspiring confidence in others, while the challenge is seeking praise or making care a performance.",
+        "Virgo": "Ceres in Virgo provides nurturing via practical service, organization, and attention to detail. You excel at thoughtful support but may fall into over‑criticism or worry about imperfections.",
+        "Libra": "With Ceres in Libra, nurturing shines through balance, harmony, and equitable sharing. The gift lies in diplomatic care, while the challenge is indecision and avoiding conflict in service to others.",
+        "Scorpio": "Ceres in Scorpio nurtures through transformative depth, loyalty, and emotional honesty. You facilitate powerful healing but may struggle with possessiveness or fear of vulnerability.",
+        "Sagittarius": "In Sagittarius, Ceres nurtures via expansive optimism, advice, and shared exploration. The gift is inspiring growth and freedom, while the shadow shows as restlessness or neglecting emotional roots.",
+        "Capricorn": "Ceres in Capricorn nurtures through structure, responsibility, and long‑term support. You excel at reliable provision but may become overly controlling or burdened by duty.",
+        "Aquarius": "With Ceres in Aquarius, nurturing appears through friendship, innovation, and communal ideals. The gift is visionary support, while the challenge is emotional detachment or impersonal care.",
+        "Pisces": "Ceres in Pisces nurtures with boundless compassion, intuition, and spiritual attunement. You offer deep empathy but may blur boundaries or sacrifice your needs to ease others’ suffering."
+      },
+      "house_interpretations": {
+        "1": "With Ceres in the 1st house, nurturing becomes central to your identity and self‑expression. You naturally care for yourself and others but must guard against defining yourself solely by your caregiving role.",
+        "2": "In the 2nd house, Ceres nurtures through values, resources, and tangible comforts. The gift is creating material security, while the challenge lies in equating self‑worth with provision and clinging to possessions.",
+        "3": "Ceres in the 3rd house nurtures via communication, learning, and sibling bonds. You provide care through sharing ideas and listening, yet risk scattered focus or superficial support.",
+        "4": "With Ceres in the 4th house, home and family are the heart of nurturing. The gift is emotional sanctuary and rooted care, while the challenge is over‑protectiveness or difficulty letting go.",
+        "5": "In the 5th house, Ceres nurtures through creative play, romance, and joyful expression. You inspire others with warmth but may turn care into performance or seek approval.",
+        "6": "Ceres in the 6th house provides nurturing via service, routines, and health habits. You excel at practical support but must avoid overwork or taking care of others at the expense of your wellbeing.",
+        "7": "With Ceres in the 7th house, nurturing shines in partnerships and committed bonds. The gift is mutual care, while the shadow shows as codependence or losing your identity in the relationship.",
+        "8": "In the 8th house, Ceres nurtures through shared resources and psychological depth. You facilitate transformative healing but may struggle with control issues or fear of emotional vulnerability.",
+        "9": "Ceres in the 9th house nurtures via wisdom, teaching, and spiritual exploration. You guide others toward growth, yet risk neglecting emotional roots in pursuit of ideals.",
+        "10": "With Ceres in the 10th house, nurturing expresses through responsible leadership and public service. The gift is reliable authority, while the challenge is overemphasis on duty and external validation.",
+        "11": "In the 11th house, Ceres nurtures through community, friendships, and visionary causes. You foster collective care but may struggle with boundaries or overcommitting to group ideals.",
+        "12": "Ceres in the 12th house nurtures from the subconscious and spiritual realms. You offer compassion to hidden wounds, yet must guard against self‑sacrifice and dissolving boundaries in service."
+      }
+    },
+    "Pallas": {
+      "core_themes": "Represents wisdom, strategy, creative intelligence, pattern recognition, and the integration of mind and spirit.",
+      "sign_interpretations": {
+        "Aries": "Pallas in Aries brings strategic courage and direct problem‑solving. You act with inspired initiative but may rush conclusions or overlook collaboration.",
+        "Taurus": "With Pallas in Taurus, wisdom manifests through steady perseverance and practical solutions. The gift is patient insight, while the challenge is resistance to new ideas and inflexibility.",
+        "Gemini": "Pallas in Gemini excels at intellectual versatility and quick pattern recognition. You communicate brilliant insights but risk scattering attention or superficial analysis.",
+        "Cancer": "In Cancer, Pallas applies strategic empathy and nurturing intelligence. You intuitively solve emotional issues yet may become defensive or overly protective.",
+        "Leo": "Pallas in Leo strategizes through creative leadership and bold vision. The gift is dramatic problem‑solving, while the shadow shows prideful rigidity or performance‑driven decisions.",
+        "Virgo": "With Pallas in Virgo, wisdom flows through analytical precision and practical organization. You excel at detailed solutions but may struggle with perfectionism or over‑critique.",
+        "Libra": "Pallas in Libra hones strategic diplomacy and balanced judgment. You navigate conflicts gracefully but risk indecision or appeasement to avoid friction.",
+        "Scorpio": "In Scorpio, Pallas uncovers hidden patterns and applies transformational insight. The gift is deep psychological strategy, while the challenge is obsessive analysis or power plays.",
+        "Sagittarius": "Pallas in Sagittarius sees patterns in philosophical and cultural contexts. You inspire through expansive ideas but may overlook details or become dogmatic.",
+        "Capricorn": "With Pallas in Capricorn, strategic thinking is disciplined and goal‑oriented. The gift is structured solutions, while the challenge is rigid authority and fear of failure.",
+        "Aquarius": "Pallas in Aquarius innovates with visionary intelligence and humanitarian ingenuity. You generate progressive strategies but risk detachment or erratic shifts.",
+        "Pisces": "In Pisces, Pallas melds intuitive wisdom with creative empathy. You envision holistic solutions but may struggle with boundaries or diffuse focus."
+      },
+      "house_interpretations": {
+        "1": "Pallas in the 1st house infuses your identity with strategic intelligence and creative problem‑solving. You present as insightful but must guard against being overly analytical in personal interactions.",
+        "2": "In the 2nd house, Pallas applies wisdom to resources and values. You manage finances with strategic foresight yet risk overthinking simple needs or detachment from pleasure.",
+        "3": "Pallas in the 3rd house excels at communication, teaching, and local strategy. The gift is sharp insight, while the challenge is scattered ideas or impatient speech.",
+        "4": "With Pallas in the 4th house, strategic care focuses on home and family foundations. You organize emotional security but may resist acknowledgment of vulnerability.",
+        "5": "Pallas in the 5th house channels creativity through intelligent play and artistic strategy. You craft inspired self‑expression but risk pride‑driven performance or critical judgement.",
+        "6": "In the 6th house, Pallas enhances problem‑solving in work and health routines. You streamline tasks with precision yet must avoid over‑analysis or health anxiety.",
+        "7": "Pallas in the 7th house brings strategic insight to partnerships. The gift is diplomatic resolution, while the challenge is calculating relationships rather than feeling them.",
+        "8": "With Pallas in the 8th house, wisdom aids in transformative healing and resource sharing. You uncover hidden truths but risk obsessive investigation or manipulation.",
+        "9": "Pallas in the 9th house thrives through philosophical strategy and teaching. You inspire through broad insight but may overlook nuance or become dogmatic.",
+        "10": "In the 10th house, Pallas applies strategic intelligence to career and public roles. You lead with vision yet must guard against inflexibility or overemphasis on status.",
+        "11": "Pallas in the 11th house innovates within groups and social ideals. The gift is visionary problem‑solving, while the challenge is detachment from collective feeling.",
+        "12": "With Pallas in the 12th house, wisdom emerges through spiritual insight and subconscious patterns. You intuit solutions from deeper realms but may struggle with clarity or hidden fears."
+      }
+    },
+    "Juno": {
+      "core_themes": "Embodies partnership, commitment, equality, and the dynamics of long‑term bonds and agreements.",
+      "sign_interpretations": {
+        "Aries": "Juno in Aries seeks independence within partnership and bold commitment. You champion personal freedom in relationships but may clash when needs for autonomy arise.",
+        "Taurus": "With Juno in Taurus, loyalty manifests through stability and sensual devotion. The gift is enduring commitment, while the challenge is resistance to change or possessiveness.",
+        "Gemini": "Juno in Gemini values communication and intellectual rapport in bonds. You thrive on mental connection but risk superficial loyalty or restless engagement.",
+        "Cancer": "In Cancer, Juno nurtures partnerships with emotional depth and protectiveness. You build safe bonds but may struggle with clinginess or boundary issues.",
+        "Leo": "Juno in Leo seeks dramatic devotion and recognition in relationships. The gift is generous loyalty, while the shadow shows pride or demand for constant admiration.",
+        "Virgo": "With Juno in Virgo, commitment shines through service, reliability, and practical care. You show devotion in details but risk critical standards or over‑analysis of your partner.",
+        "Libra": "Juno in Libra thrives on balanced partnership and mutual fairness. The gift is diplomatic commitment, while the challenge is indecision or codependency in seeking harmony.",
+        "Scorpio": "In Scorpio, Juno deepens bonds through passion, intensity, and transformational loyalty. You experience profound commitment but may struggle with control or jealousy.",
+        "Sagittarius": "Juno in Sagittarius values freedom and adventure in partnership. You inspire growth together but risk commitment‑phobia or idealizing your bond.",
+        "Capricorn": "With Juno in Capricorn, loyalty is expressed through responsibility and long‑term planning. The gift is dependable commitment, while the challenge is rigid expectations or emotional reserve.",
+        "Aquarius": "Juno in Aquarius seeks unconventional and egalitarian partnerships. You value friendship and innovation but may struggle with emotional intimacy or consistency.",
+        "Pisces": "In Pisces, Juno binds through compassion, empathy, and spiritual connection. The gift is unconditional devotion, while the challenge is boundary dissolution or self‑sacrifice."
+      },
+      "house_interpretations": {
+        "1": "Juno in the 1st house weaves partnership into your identity and self‑presentation. You attract committed bonds but must avoid losing yourself in others.",
+        "2": "With Juno in the 2nd house, loyalty ties to shared resources and values. You build stable bonds through material security yet risk possessiveness or codependence.",
+        "3": "Juno in the 3rd house emphasizes communication and intellectual agreements. You thrive on shared ideas but may struggle with scattered or superficial commitments.",
+        "4": "In the 4th house, Juno nurtures partnerships through emotional foundations and family ties. You create safe bonds but risk clinging to the past.",
+        "5": "With Juno in the 5th house, playful devotion and creative romance define your partnerships. The gift is joyful bonding, while the challenge is needing constant excitement.",
+        "6": "Juno in the 6th house commits through everyday acts of service and shared routines. You build dependable bonds but may become overly critical or controlling in care.",
+        "7": "In the 7th house, Juno finds its natural home in committed unions. The gift is balanced partnership, while the shadow shows codependency or merging identities.",
+        "8": "With Juno in the 8th house, partnerships transform through shared intimacy and resources. You experience deep loyalty but must guard against power struggles.",
+        "9": "Juno in the 9th house bonds through shared beliefs, travel, and philosophical quests. The gift is expansive commitment, while the challenge is idealizing partners.",
+        "10": "In the 10th house, Juno commits through public roles and professional alliances. You form dependable partnerships but may struggle with status‑driven expectations.",
+        "11": "With Juno in the 11th house, partnerships arise in group causes and friendships. You bond through shared ideals but risk prioritizing community over personal intimacy.",
+        "12": "Juno in the 12th house forms bonds in hidden or spiritual realms. The gift is compassionate devotion, while the challenge is secrecy or self‑undoing in service."
+      }
+    },
+    "Vesta": {
+      "core_themes": "Symbolizes devotion, focus, sacred fire, inner dedication, and the integration of spiritual purity with everyday life.",
+      "sign_interpretations": {
+        "Aries": "Vesta in Aries dedicates energy to pioneering endeavors and self‑assertion. The gift is fearless focus, while the challenge is impulsive zeal that overlooks subtlety.",
+        "Taurus": "With Vesta in Taurus, devotion channels into steady routines and sensual appreciation. You build unwavering dedication but may resist necessary adaptations.",
+        "Gemini": "Vesta in Gemini focuses on intellectual pursuits and versatile learning. The gift is adaptable dedication, while the shadow shows scattered focus or restless commitment.",
+        "Cancer": "In Cancer, Vesta dedicates to nurturing home and emotional sanctuaries. You foster deep caring spaces but may become overprotective or emotionally enmeshed.",
+        "Leo": "Vesta in Leo dedicates its fire to creative expression and leadership. The gift is passionate focus, while the challenge is pride or attention‑seeking in devotion.",
+        "Virgo": "With Vesta in Virgo, dedication shines through meticulous service and health practices. You pursue excellence but risk perfectionism and workaholic tendencies.",
+        "Libra": "Vesta in Libra devotes energy to harmonious relationships and aesthetic environments. You excel at balanced dedication but may struggle with indecision.",
+        "Scorpio": "In Scorpio, Vesta dedicates to transformative processes and deep healing. The gift is intense focus, while the shadow shows obsessive tendencies.",
+        "Sagittarius": "Vesta in Sagittarius directs devotion toward exploration and philosophical quests. You embrace expansive focus but may neglect details or commitment at home.",
+        "Capricorn": "With Vesta in Capricorn, dedication channels into disciplined work and lasting achievements. The gift is structured focus, while the challenge is rigidity or neglecting personal needs.",
+        "Aquarius": "Vesta in Aquarius dedicates to social ideals and humanitarian causes. You foster visionary focus but may detach emotionally or neglect intimate circles.",
+        "Pisces": "In Pisces, Vesta dedicates to spiritual practice and compassionate service. The gift is boundless devotion, while the challenge is boundary dissolution and escapist tendencies."
+      },
+      "house_interpretations": {
+        "1": "Vesta in the 1st house infuses your identity with sacred dedication and personal integrity. Be mindful of zeal that overlooks others’ perspectives.",
+        "2": "With Vesta in the 2nd house, devotion anchors in material security and personal values. The gift is reliable provision, while the shadow shows possessiveness or overattachment.",
+        "3": "Vesta in the 3rd house focuses on communication, learning, and local engagement. You pursue knowledge fervently but may overwhelm others with intensity.",
+        "4": "In the 4th house, Vesta dedicates to home and family foundations. The gift is creating a sacred safe haven, while the challenge is enclosure or emotional defensiveness.",
+        "5": "With Vesta in the 5th house, devotion ignites creative and romantic expression. You nurture artistic gifts but may chase attention or fear losing spotlight.",
+        "6": "Vesta in the 6th house dedicates to health, service, and daily routines. The gift is disciplined care, while the shadow shows workaholic or anxious tendencies.",
+        "7": "In the 7th house, Vesta consecrates partnerships and intimate bonds. You bring sacred focus to relationships but may struggle with dependency or control.",
+        "8": "With Vesta in the 8th house, devotion channels into shared resources and transformative depths. The gift is regenerative focus, while the challenge is obsessive intensity.",
+        "9": "Vesta in the 9th house dedicates to philosophical study and spiritual exploration. You pursue wisdom passionately but may idealize abstract concepts.",
+        "10": "In the 10th house, Vesta focuses on career purpose and public service. The gift is reliable ambition, while the shadow shows rigidity or neglect of personal life.",
+        "11": "With Vesta in the 11th house, devotion enriches social causes and friendships. You foster collective focus but may ignore personal needs or boundaries.",
+        "12": "Vesta in the 12th house consecrates spiritual practice and inner solitude. The gift is profound inner dedication, while the challenge is escapism or hidden self‑sacrifice."
+      }
+    }
+  },
+  "ceres": {
+    "coretheme": "[AUTO-PLACEHOLDER]"
+  },
+  "ceres_house": {
+    "1": "[AUTO-PLACEHOLDER]"
+  },
+  "ceres_sign": {
+    "capricorn": "[AUTO-PLACEHOLDER]"
+  },
+  "juno": {
+    "coretheme": "[AUTO-PLACEHOLDER]"
+  },
+  "juno_house": {
+    "4": "[AUTO-PLACEHOLDER]"
+  },
+  "juno_sign": {
+    "aries": "[AUTO-PLACEHOLDER]"
+  },
+  "pallas": {
+    "coretheme": "[AUTO-PLACEHOLDER]"
+  },
+  "pallas_house": {
+    "1": "[AUTO-PLACEHOLDER]"
+  },
+  "pallas_sign": {
+    "sagittarius": "[AUTO-PLACEHOLDER]"
+  },
+  "vesta": {
+    "coretheme": "[AUTO-PLACEHOLDER]"
+  },
+  "vesta_house": {
+    "3": "[AUTO-PLACEHOLDER]"
+  },
+  "vesta_sign": {
+    "aries": "[AUTO-PLACEHOLDER]"
+  }
+}

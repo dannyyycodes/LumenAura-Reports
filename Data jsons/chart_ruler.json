@@ -1,0 +1,30 @@
+{
+  "sign_interpretations": {
+    "Aries": "When Mars is the chart ruler, there’s a pioneering, action-oriented drive. The individual may lead instinctively, assertively, and with courage. There's a constant pull to take initiative and test one's limits.",
+    "Taurus": "With Venus as chart ruler in Taurus, the individual values stability, beauty, and sensual experience. Life is approached patiently, with loyalty to what feels secure and pleasing.",
+    "Gemini": "Mercury ruling the chart brings curiosity, communication, and adaptability. The native is often mentally alert and versatile, thriving through learning and connection.",
+    "Cancer": "When the Moon rules the chart, emotional intelligence and sensitivity become central. There's a deep focus on belonging, family, and creating emotional safety.",
+    "Leo": "With the Sun as ruler, self-expression, identity, and creative power are central themes. There’s a need to be seen, to lead, and to live with heart.",
+    "Virgo": "A Mercury-ruled Virgo chart speaks to precision, analysis, and service. These individuals often see life as a system to refine and contribute to meaningfully.",
+    "Libra": "Venus-ruled Libra emphasizes harmony, aesthetics, and relational dynamics. The chart native may seek beauty through connection and balance through others.",
+    "Scorpio": "With Pluto (modern) or Mars (traditional) as ruler, the path is one of transformation, intensity, and depth. Power, trust, and emotional complexity are lifelong themes.",
+    "Sagittarius": "Jupiter-ruled charts are oriented toward truth-seeking, expansion, and vision. There is a strong drive toward growth through experience, knowledge, or belief.",
+    "Capricorn": "Saturn as ruler brings focus on discipline, structure, and self-mastery. These individuals often mature early, with a sense of responsibility that shapes their life arc.",
+    "Aquarius": "With Uranus as modern ruler or Saturn traditionally, Aquarius-ruled charts emphasize innovation, independence, and group vision. The individual may challenge norms to uplift the collective.",
+    "Pisces": "Neptune-ruled Pisces charts are tuned to dreams, empathy, and imagination. There’s a deep longing for transcendence, spiritual connection, or artistic flow."
+  },
+  "house_interpretations": {
+    "1": "The chart ruler in the 1st House amplifies self-awareness and presence. The individual’s identity and purpose are front and center, often with strong personal agency.",
+    "2": "Placed in the 2nd House, the chart ruler brings attention to values, self-worth, and resources. Life may revolve around security, ownership, and the material or physical realm.",
+    "3": "In the 3rd House, the ruler infuses life with themes of communication, curiosity, and learning. There’s often a sharp mind and need for stimulation.",
+    "4": "The 4th House chart ruler turns focus inward — to home, ancestry, roots, and emotional foundations. Inner security becomes a personal quest.",
+    "5": "A 5th House chart ruler brings creativity, play, and performance into central importance. There’s a desire to shine, express, and share joyfully.",
+    "6": "In the 6th House, the ruler channels energy into service, health, and everyday functionality. Life may revolve around work, rituals, or healing routines.",
+    "7": "The 7th House ruler highlights relationships, mirrors, and co-creation. Life lessons often come through partnerships and external reflection.",
+    "8": "With the chart ruler in the 8th, deep emotional work, transformation, and shared resources take center stage. There may be themes of loss, merging, and psychological depth.",
+    "9": "The 9th House ruler inspires exploration, learning, and philosophical expansion. Life may involve teaching, traveling, or crossing belief systems.",
+    "10": "In the 10th House, the ruler influences career, public legacy, and life direction. There’s often ambition and a drive to make a lasting mark.",
+    "11": "Chart rulers in the 11th House orient life toward community, causes, and future vision. These people often bring change through networks and group innovation.",
+    "12": "With the ruler in the 12th House, focus turns to the unseen — dreams, subconscious patterns, or spiritual service. Life may feel guided by inner mystery or karmic threads."
+  }
+} 

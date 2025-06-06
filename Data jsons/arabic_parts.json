@@ -1,0 +1,84 @@
+{
+  "partoffortune": {
+    "general": {
+      "psychology": "The Part of Fortune reveals your natural flow state, intuitive health, and where you experience ease, joy, and embodied grace. It aligns more with the Moon and physical instincts than with conscious will.",
+      "growth": "Following your Part of Fortune allows you to flourish naturally. It points to where the world meets you with support — where your energy amplifies life force and attracts abundance."
+    },
+    "signs": {
+      "aries": "You thrive through action and independence. Initiative, competition, and challenge bring natural joy.",
+      "taurus": "Your ease comes from stability and sensuality. Slow, grounded living brings lasting pleasure and wealth.",
+      "gemini": "Your joy lives in curiosity and communication. Learning, networking, and writing bring flow.",
+      "cancer": "You flourish through emotional safety and care. Home, family, and protection nourish your instincts.",
+      "leo": "You light up through creativity and attention. Performance, leadership, and love feed your life force.",
+      "virgo": "You find flow in service and refinement. Improving systems or solving problems brings quiet joy.",
+      "libra": "Your grace lives in beauty and balance. Art, connection, and harmony attract fortune.",
+      "scorpio": "You flow through emotional intensity and truth. Depth, healing, and transformation restore your vitality.",
+      "sagittarius": "You flourish through freedom, travel, and big ideas. Joy is expansive and contagious.",
+      "capricorn": "You thrive when building toward legacy. Discipline, structure, and goals bring deep satisfaction.",
+      "aquarius": "You find flow through innovation and vision. Social change, technology, and originality magnetize success.",
+      "pisces": "You flourish through dream and devotion. Compassion, art, and spirit bring you into harmony with life."
+    },
+    "houses": {
+      "1": "Your instincts guide you naturally. Joy and fortune flow from self-expression and leadership.",
+      "2": "Your gifts are material. Earning, owning, and building wealth bring ease and pleasure.",
+      "3": "Communication is lucky for you. Writing, speaking, or teaching brings joyful connection.",
+      "4": "Home is your haven. Roots, ancestry, and emotional grounding are your treasures.",
+      "5": "Creativity and love are fortune keys. Children, art, and play nourish your soul.",
+      "6": "Service and skill bring reward. Health routines and daily mastery unlock quiet abundance.",
+      "7": "Partnership opens doors. You thrive in collaboration and fair connection.",
+      "8": "You transform with intensity. Shared resources, deep trust, and intimacy bring potent renewal.",
+      "9": "Wisdom is your wealth. Teaching, travel, and belief systems bring your soul joy.",
+      "10": "You succeed visibly. Reputation, mastery, and career ambition channel your lucky current.",
+      "11": "Community is your portal. Friendships and causes align you with the future and flow.",
+      "12": "Solitude is your sanctuary. You gain in stillness, dreamwork, and inner trust."
+    }
+  },
+  "partofspirit": {
+    "general": {
+      "psychology": "The Part of Spirit reveals where your divine intention, spiritual purpose, and conscious will are focused. Unlike the Part of Fortune (which is more about instinct), this point shows where the soul seeks to act intentionally in alignment with higher vision.",
+      "growth": "When you live from the Part of Spirit, you align with purpose-driven action. It shows where your presence can have meaningful spiritual impact — through wisdom, conscious intention, and subtle mastery."
+    },
+    "signs": {
+      "aries": "Your spiritual spark expresses through bold action. You fulfill purpose by initiating and inspiring with courage.",
+      "taurus": "Your path is one of embodiment and stability. You serve through grounded presence, beauty, and patient creation.",
+      "gemini": "Your soul's light moves through words. You teach, translate, and connect spirit through communication.",
+      "cancer": "Your spirit works through nurturing and emotional sensitivity. You heal others by holding space and protecting the sacred.",
+      "leo": "You lead from the heart. Your spirit shines when you express love, joy, and authentic creativity.",
+      "virgo": "You fulfill spiritual purpose through service, humility, and precise acts of devotion. Your detail becomes medicine.",
+      "libra": "You restore balance through relationships and justice. Your spirit shines in diplomacy and the healing of duality.",
+      "scorpio": "You are a spiritual alchemist. You transform darkness into light and serve through depth and truth.",
+      "sagittarius": "You are a teacher of meaning. Your spirit leads through philosophy, travel, and expansion of consciousness.",
+      "capricorn": "You anchor spirit in structure. Through discipline and integrity, you create lasting sacred work.",
+      "aquarius": "You’re a divine disruptor. You serve evolution, collective insight, and the future of spiritual thought.",
+      "pisces": "You merge with the divine. Your spirit flows through compassion, surrender, and mystical sensitivity."
+    },
+    "houses": {
+      "1": "You are here to embody your spiritual purpose. Presence itself becomes a vessel for awakening.",
+      "2": "You manifest spirit through value and creation. Money, stability, and beauty reflect sacred alignment.",
+      "3": "You teach and speak for the soul. Your purpose unfolds through words, learning, and dialogue.",
+      "4": "Your spiritual strength comes from emotional roots. Home is both wound and altar.",
+      "5": "You express divine light through joy and creation. Art, love, and play are sacred channels.",
+      "6": "You serve as healer and sacred worker. Spirit flows through order, health, and everyday devotion.",
+      "7": "You mirror spiritual truth through partnership. Soul contracts and relational growth define your path.",
+      "8": "You awaken others through transformation. Your purpose lives in shadow work, intimacy, and renewal.",
+      "9": "You walk the path of sacred truth. Travel, teaching, and wisdom expand your soul's reach.",
+      "10": "You lead publicly with spiritual purpose. Your legacy is a beacon of devotion in action.",
+      "11": "You align with future soul tribes. Collective healing and vision are your purpose fields.",
+      "12": "You serve quietly through mysticism, dreams, and divine compassion. You carry sacred depth for the unseen."
+    }
+  },
+  "pof": {
+    "fortune": "[AUTO-PLACEHOLDER]",
+    "spirit": "[AUTO-PLACEHOLDER]"
+  },
+  "pof_fortune": {
+    "house_8": "[AUTO-PLACEHOLDER]",
+    "sign_leo": "[AUTO-PLACEHOLDER]",
+    "sign_leo_house_8": "[AUTO-PLACEHOLDER]"
+  },
+  "pof_spirit": {
+    "house_4": "[AUTO-PLACEHOLDER]",
+    "sign_aries": "[AUTO-PLACEHOLDER]",
+    "sign_aries_house_4": "[AUTO-PLACEHOLDER]"
+  }
+}

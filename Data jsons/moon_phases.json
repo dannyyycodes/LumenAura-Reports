@@ -1,0 +1,45 @@
+{
+  "New Moon": {
+    "themes": "Beginnings, instinct, planting intentions, potential.",
+    "psychology": "People born under a New Moon often feel driven to initiate but may carry unconscious impulses. There is a sense of inward vitality and urgency to define the self.",
+    "growth": "Learning to trust one’s instincts while developing emotional awareness and patience."
+  },
+  "Waxing Crescent": {
+    "themes": "Emergence, hope, struggle for form, learning.",
+    "psychology": "This phase brings a tension between inner desire and outer uncertainty. Individuals may feel a deep drive to grow but face self-doubt or resistance from others.",
+    "growth": "Build confidence by honoring the small steps. Learn through curiosity and persistence."
+  },
+  "First Quarter": {
+    "themes": "Action, decision-making, challenge, building.",
+    "psychology": "There is often a strong need to overcome obstacles and prove oneself. People born under this phase may push through life with urgency or intensity.",
+    "growth": "Channel tension into purpose. Recognize that growth comes through friction and conscious choice."
+  },
+  "Waxing Gibbous": {
+    "themes": "Refinement, analysis, preparation for visibility.",
+    "psychology": "This phase creates internal pressure to perfect or improve. Individuals may seek validation or overanalyze their progress.",
+    "growth": "Embrace the process rather than perfection. Trust that development is unfolding."
+  },
+  "Full Moon": {
+    "themes": "Illumination, culmination, relationship, polarity.",
+    "psychology": "People born under a Full Moon often live in contrast or relational tension. There is a deep need for expression and recognition, but also inner conflict.",
+    "growth": "Balance inner and outer worlds. Honor emotional truths and learn from reflection."
+  },
+  "Waning Gibbous": {
+    "themes": "Sharing, understanding, purpose through service.",
+    "psychology": "There is a call to contribute or make meaning from experience. People may feel wise beyond their years or drawn to guide others.",
+    "growth": "Teach what you’ve learned. Let wisdom serve the collective."
+  },
+  "Last Quarter": {
+    "themes": "Release, responsibility, internalization, turning inward.",
+    "psychology": "This phase often brings reflection, critique, and maturity. Individuals may question systems, challenge norms, or seek inner clarity.",
+    "growth": "Let go of outdated roles. Commit to inner transformation."
+  },
+  "Balsamic": {
+    "themes": "Closure, surrender, healing, karmic integration.",
+    "psychology": "People born during the Balsamic Moon may feel otherworldly, introspective, or karmically sensitive. There is a longing for peace or transcendence.",
+    "growth": "Honor cycles of rest. Prepare the soil for new beginnings. Trust the unseen process."
+  },
+  "moonphase_last": {
+    "quarter": "[AUTO-PLACEHOLDER]"
+  }
+}

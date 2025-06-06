@@ -1,0 +1,611 @@
+{
+  "midpoint_sun_moon": {
+    "general": {
+      "psychology": "The Sun/Moon midpoint reflects your core integration point — where your conscious identity meets your emotional needs. It reveals the tone of inner harmony, conflict, and the union of your public and private selves.",
+      "growth": "Aligning your head and heart creates stability and confidence. This midpoint shows how you center yourself and come into wholeness."
+    },
+    "signs": {
+      "aries": "You integrate selfhood and emotion through action. Emotional fulfillment comes from boldness, leadership, and direct expression.",
+      "taurus": "You seek groundedness. Emotional security and self-worth arise through stability, touch, and tangible beauty.",
+      "gemini": "You balance inner needs through communication. Identity and emotion align through curiosity and flexible thinking.",
+      "cancer": "You are deeply tied to emotional safety and belonging. Self and soul crave nurture, family, and protection.",
+      "leo": "You harmonize through creative self-expression and recognition. Inner peace grows when you allow yourself to shine.",
+      "virgo": "You integrate by being of service. Peace comes from improving life, helping others, and living with integrity.",
+      "libra": "Balance and partnership are your keys to self-soothing. Harmony between self and others reflects your inner balance.",
+      "scorpio": "You align through depth and emotional intensity. Wholeness requires trust, transformation, and vulnerability.",
+      "sagittarius": "You need meaning to feel whole. Emotional clarity and identity integrate through exploration, truth, and belief.",
+      "capricorn": "Structure and purpose bring you peace. You align self and emotion through responsibility and long-term vision.",
+      "aquarius": "Detachment and vision balance your inner world. Freedom to be yourself emotionally is key to your identity.",
+      "pisces": "You merge identity and emotion through empathy and intuition. Compassion and dreamwork are healing portals."
+    },
+    "houses": {
+      "1": "You integrate by leading with your presence. Authenticity and self-assertion balance your identity and emotions.",
+      "2": "Stability and self-worth define your inner integration. You harmonize through values, earning, and grounding.",
+      "3": "Communication and learning help you find peace. Expressing yourself balances internal contradiction.",
+      "4": "Home, ancestry, and emotional security define your center. You're grounded when your roots are nurtured.",
+      "5": "Creativity and play are your integration points. You heal through joy, romance, and unapologetic expression.",
+      "6": "Service and ritual align your inner world. Health, order, and meaningful work soothe your soul.",
+      "7": "Partnership helps mirror and resolve your duality. You find integration through equality and union.",
+      "8": "Depth work and trust balance your core. You're made whole by surrender, intimacy, and transformation.",
+      "9": "Philosophy and travel expand your emotional alignment. Meaning fuels your integration of self and feeling.",
+      "10": "Purpose and achievement center you. You align through legacy, visibility, and disciplined selfhood.",
+      "11": "Community and ideals support integration. You find yourself in collective vision and future-facing ideas.",
+      "12": "Solitude, dreams, and surrender bring emotional harmony. Your private world is key to integration."
+    }
+  },
+  "midpoint_venus_mars": {
+    "general": {
+      "psychology": "This midpoint reveals how you blend desire and affection, love and passion. It speaks to romantic style, attraction, and the way you initiate and respond in relationships.",
+      "growth": "Balanced Venus/Mars energy leads to healthy polarity — integrating softness and strength, receptivity and drive."
+    },
+    "signs": {
+      "aries": "You are passionate, bold, and direct in love. Attraction is immediate, and pursuit energizes you.",
+      "taurus": "You blend sensuality with loyalty. You seek stability in both affection and desire.",
+      "gemini": "Flirtation and mental stimulation are core to your romantic dynamic. You love through words and wit.",
+      "cancer": "You desire emotional connection and tenderness. Passion is rooted in feeling safe and needed.",
+      "leo": "You love grandly and desire recognition. Dramatic affection and creative courtship excite you.",
+      "virgo": "You express love through service and subtle attention. Passion is practical, grounded, and thoughtful.",
+      "libra": "You value balance and aesthetic harmony in romance. You’re drawn to elegance and mutual admiration.",
+      "scorpio": "Intensity and depth define your romantic style. You crave transformative union and emotional fusion.",
+      "sagittarius": "You mix love with freedom and adventure. Passion is playful, philosophical, and expansive.",
+      "capricorn": "You love with loyalty and intent. You build intimacy slowly but with great depth and commitment.",
+      "aquarius": "You approach desire with curiosity and openness. Freedom and intellectual rapport matter most.",
+      "pisces": "You are dreamy, romantic, and soulful. You seek deep emotional resonance and poetic connection."
+    },
+    "houses": {
+      "1": "Your romantic energy is bold and self-expressive. Attraction is part of your identity.",
+      "2": "You seek stability and sensuality. Material comfort and touch are central to connection.",
+      "3": "Love is communicated. Flirting, words, and shared ideas are the foundation of your desire.",
+      "4": "You crave emotional security and lasting intimacy. Home and roots are essential in love.",
+      "5": "Romance is playful, passionate, and central to self-expression. You love openly and creatively.",
+      "6": "You show affection through acts of service and attention to detail. Devotion is expressed through care.",
+      "7": "You attract through harmony and equality. Relationships are a major arena of growth.",
+      "8": "Love transforms you. Desire is deep, magnetic, and tied to emotional intensity.",
+      "9": "You love expansively and philosophically. Shared beliefs and growth ignite your passion.",
+      "10": "You take love seriously and may blend intimacy with ambition. Your romantic energy influences your public life.",
+      "11": "You seek lovers who are also friends. Shared ideals and collective vision fuel attraction.",
+      "12": "You love in secret or spiritually. Romantic energy may feel fated, karmic, or quietly transformative."
+    }
+  },
+  "midpoint_mercury_mars": {
+    "general": {
+      "psychology": "This midpoint expresses the power of your words and thoughts in action. It reflects your mental sharpness, direct speech, and capacity to cut through illusion with logic or wit.",
+      "growth": "When aligned, you become a clear, decisive communicator. Growth comes from channeling mental intensity with care."
+    },
+    "signs": {
+      "aries": "You think fast and speak directly. Debate energizes you, and you may love a good argument.",
+      "taurus": "Your thoughts are practical and deliberate. You act only when your words carry weight.",
+      "gemini": "You have a witty, sharp tongue and quick reflexes. Mental agility meets bold ideas.",
+      "cancer": "You defend emotionally charged ideas. Passionate about home, protection, and intuitive reasoning.",
+      "leo": "Your words are bold, dramatic, and persuasive. You speak to inspire or command attention.",
+      "virgo": "Your mind is exacting, your actions efficient. You critique, edit, and improve with precision.",
+      "libra": "You argue for balance and diplomacy. You may pursue justice or challenge disharmony through speech.",
+      "scorpio": "You communicate with intensity and strategic force. Silent power may replace overt words.",
+      "sagittarius": "You preach, teach, and provoke with ideas. Passionate about truth and open expression.",
+      "capricorn": "You speak with authority and plan your moves carefully. Your mental focus is long-term.",
+      "aquarius": "You’re a visionary debater. Words are tools for innovation and disruption.",
+      "pisces": "You express passion through poetry, music, or mysticism. Mental energy flows through subtle channels."
+    },
+    "houses": {
+      "1": "You are outspoken and assertive. Words become extensions of identity.",
+      "2": "You focus on resourceful thinking. Mental stamina supports steady achievement.",
+      "3": "Your intellect is quick and verbal. You act on ideas and speak with force.",
+      "4": "You defend family and home through articulate loyalty or strategic withdrawal.",
+      "5": "You express with flair and humor. Your words entertain, provoke, or ignite passion.",
+      "6": "You think in systems and act in service. Work is where your mental force thrives.",
+      "7": "You debate and negotiate with skill. You are energized by intellectual equality in relationships.",
+      "8": "Your speech penetrates deeply. You seek truth, expose secrets, or speak from shadows.",
+      "9": "You champion beliefs and challenge dogma. You fight with ideas and philosophical fire.",
+      "10": "You’re strategic and commanding in communication. Your reputation may be built on intellect.",
+      "11": "You argue for progress and shared ideals. Words mobilize communities or movements.",
+      "12": "You act on subconscious ideas. Mental passion may surface through dreams or inner vision."
+    }
+  },
+  "midpoint_ascendant_midheaven": {
+    "general": {
+      "psychology": "This is the midpoint between your outer mask (Ascendant) and your life direction (Midheaven). It represents your personal 'interface' with the world — your impact and social identity.",
+      "growth": "Harmonizing how you appear with where you’re headed brings integrity and influence. This midpoint refines your public resonance."
+    },
+    "signs": {
+      "aries": "You project bold confidence and lead with initiative. You’re perceived as dynamic and action-driven.",
+      "taurus": "You appear grounded, reliable, and sensually aware. Your presence calms and stabilizes others.",
+      "gemini": "You’re known for your quick wit and adaptability. Others see you as curious, lively, and communicative.",
+      "cancer": "You come across as nurturing and protective. Your personal image blends with emotional resonance.",
+      "leo": "You radiate charisma and strength. Your personal style and ambitions demand to be seen.",
+      "virgo": "You’re perceived as competent, thoughtful, and detail-oriented. Service and refinement define your image.",
+      "libra": "You blend grace with diplomacy. Others see you as charming, balanced, and socially aware.",
+      "scorpio": "You project mystery and intensity. Your presence carries emotional depth and transformative energy.",
+      "sagittarius": "You appear adventurous and expansive. Optimism and candid truth shape how others view you.",
+      "capricorn": "You radiate professionalism and control. You're seen as structured, focused, and achievement-oriented.",
+      "aquarius": "You project innovation and detachment. Others see you as progressive, unique, or unconventional.",
+      "pisces": "You come across as dreamy, compassionate, and imaginative. Your path blends mysticism and service."
+    },
+    "houses": {
+      "1": "You are deeply defined by your sense of personal identity. The way you present yourself blends seamlessly with your ambitions.",
+      "2": "You project value through stability and grounded effort. Material security shapes your visible presence.",
+      "3": "You are perceived as expressive and insightful. Communication and thought shape your impact.",
+      "4": "Your home and heritage shape your public face. Family themes affect your ambitions and identity.",
+      "5": "Creativity and playfulness define your personal and professional image. You shine by being yourself.",
+      "6": "Your work ethic and precision define your presence. Health and service contribute to your personal authority.",
+      "7": "Partnership influences your self-image and path. Others help you reflect your direction more clearly.",
+      "8": "You transform through challenges. Your personal power is interwoven with depth, mystery, and healing.",
+      "9": "You are seen as a seeker or teacher. Beliefs and worldview shape how you present and where you're going.",
+      "10": "You carry a strong public identity. Purpose and ambition align with your personal and outer role.",
+      "11": "Community and ideals shape your presence. You contribute through vision and social influence.",
+      "12": "You carry an inner world that colors your outer path. Mysticism, seclusion, or healing may define your role."
+    }
+  },
+  "midpoint_moon_ascendant": {
+    "general": {
+      "psychology": "The Moon/Ascendant midpoint reveals how your emotional world meets the outer world. It reflects how you instinctively present yourself, as well as your emotional reactions to social and environmental stimuli.",
+      "growth": "Emotional authenticity supports healthy self-expression. When your outer presentation aligns with your inner truth, others feel your sincerity."
+    },
+    "signs": {
+      "aries": "You wear your feelings on your sleeve and react quickly. You may appear passionate, impulsive, or emotionally direct.",
+      "taurus": "You present emotional steadiness. Others see you as calm, dependable, and sensual in presence.",
+      "gemini": "You are expressive and communicative. Emotional thoughts spill into speech, often lively and changeable.",
+      "cancer": "You’re deeply emotionally attuned and may seem shy, nurturing, or protective. Your reactions are instinctive and personal.",
+      "leo": "You display emotional confidence and warmth. You radiate generosity, but may hide deeper feelings behind pride.",
+      "virgo": "You present a composed, helpful demeanor. You may be sensitive to being needed and respond emotionally through service.",
+      "libra": "You appear emotionally balanced and polite. Harmony is key, though inner feelings may be suppressed to keep the peace.",
+      "scorpio": "You project emotional intensity and depth. Even when calm on the outside, others sense your power and sensitivity.",
+      "sagittarius": "You express emotion freely and seek emotional truth. Your reactions are honest, blunt, and often optimistic.",
+      "capricorn": "You appear emotionally contained. Others may see you as serious, responsible, or reserved under pressure.",
+      "aquarius": "You respond emotionally with detachment or idealism. You may seem unpredictable or cool, yet emotionally aware.",
+      "pisces": "You radiate softness and empathy. Emotional boundaries may be fluid, and your energy highly impressionable."
+    },
+    "houses": {
+      "1": "You wear your heart on your sleeve. Emotional needs and self-expression are closely linked.",
+      "2": "Security and emotional grounding are priorities. You may present as stable, protective, or resource-conscious.",
+      "3": "You express feelings through words. Conversations and storytelling help you process emotions.",
+      "4": "Your roots and past shape your personal expression. You may appear nurturing, private, or ancestral in tone.",
+      "5": "Your emotional self thrives on attention and creativity. You present as warm, expressive, and affectionate.",
+      "6": "You respond emotionally to duties and health. Others may see you as helpful, sensitive, or anxious.",
+      "7": "Your emotional self is mirrored in others. You express feelings through partnerships and social feedback.",
+      "8": "You reveal emotion selectively. There’s power and vulnerability in how you present and protect your feelings.",
+      "9": "You express feelings philosophically or through movement. You seek meaning in emotional reactions.",
+      "10": "You are seen as emotionally composed or responsible. Public image and emotional roles are closely tied.",
+      "11": "You express emotions through causes and friendships. Feelings are shaped by your ideals.",
+      "12": "You respond emotionally in subtle or spiritual ways. You may hide feelings or express them through compassion."
+    }
+  },
+  "midpoint_sun_ascendant": {
+    "general": {
+      "psychology": "The Sun/Ascendant midpoint shows how your core identity shines through your appearance and social presence. It highlights how your essence is perceived and how authentically you express yourself in the world.",
+      "growth": "Authenticity and confidence allow your inner self to align with your outer role. The more you embody your truth, the more others recognize your light."
+    },
+    "signs": {
+      "aries": "You project a bold, energetic identity. Others see you as pioneering, passionate, and self-driven.",
+      "taurus": "You radiate calm strength and sensual confidence. Your presence is grounded and loyal.",
+      "gemini": "You are lively, talkative, and intellectually expressive. Others see you as quick and adaptable.",
+      "cancer": "You project warmth and protectiveness. Others may perceive you as nurturing and emotionally intuitive.",
+      "leo": "You exude charisma, confidence, and creativity. You naturally attract attention through self-assurance.",
+      "virgo": "You appear competent, analytical, and service-oriented. Your personal image reflects order and humility.",
+      "libra": "You are charming, diplomatic, and attuned to others. You often present a refined, harmonious appearance.",
+      "scorpio": "You radiate intensity and quiet power. Others sense your depth, even when you’re reserved.",
+      "sagittarius": "You express yourself with optimism and boldness. Your energy is expansive and inspiring.",
+      "capricorn": "You project professionalism and integrity. You’re seen as reliable and self-controlled.",
+      "aquarius": "You present as unique, thoughtful, and forward-thinking. Your style may be unconventional or visionary.",
+      "pisces": "You carry an aura of sensitivity and spirituality. You often appear dreamy, artistic, or empathic."
+    },
+    "houses": {
+      "1": "Your identity and presence are inseparable. You exude self-assurance and vitality.",
+      "2": "You ground your identity in values and security. Your presence reflects substance and stability.",
+      "3": "You shine through communication. Words, learning, and curiosity define your personal style.",
+      "4": "Your roots shape your personality. You project family values, emotional depth, and private strength.",
+      "5": "You radiate joy, romance, and creative flair. You’re seen as expressive and passionate.",
+      "6": "You define yourself through service, discipline, or work. You may appear health-conscious or helpful.",
+      "7": "You reflect your identity through partnership. Others help shape your path and self-perception.",
+      "8": "You’re perceived as intense, transformative, and private. Your presence carries emotional gravity.",
+      "9": "You shine through philosophy, travel, or teaching. Others may see you as wise or adventurous.",
+      "10": "Your career and reputation mirror your core identity. You’re seen as ambitious and dignified.",
+      "11": "You express selfhood through ideals and community. You’re seen as visionary or socially aware.",
+      "12": "You carry hidden strength. Your identity may feel spiritual, reserved, or shaped by inner work."
+    }
+  },
+  "midpoint_venus_pluto": {
+    "general": {
+      "psychology": "The Venus/Pluto midpoint highlights themes of emotional intensity, passion, and transformation in relationships. It reflects how love can become an alchemical process, revealing hidden desires or fears.",
+      "growth": "Love becomes powerful when rooted in honesty. Let go of control and allow intimacy to transform you."
+    },
+    "signs": {
+      "aries": "Love is fierce and immediate. You crave passion and may approach relationships like a conquest.",
+      "taurus": "You seek depth through loyalty and touch. Sensual love becomes a container for emotional transformation.",
+      "gemini": "Words hold seductive power. Emotional truth must be spoken, even if it changes everything.",
+      "cancer": "You crave security and intensity. Emotional loyalty and psychic connection shape your love life.",
+      "leo": "You love with drama and devotion. Power struggles may emerge around attention or pride.",
+      "virgo": "You transform through careful care and service. Love is healing when perfection isn’t required.",
+      "libra": "You seek profound beauty and equality. Charm masks deep emotional undercurrents or control fears.",
+      "scorpio": "You are built for emotional intensity. Love is either all-consuming or not worth pursuing.",
+      "sagittarius": "You seek growth through emotional honesty. Love becomes sacred when aligned with truth.",
+      "capricorn": "You love with structure and strategy. Power, ambition, and intimacy may intertwine.",
+      "aquarius": "You desire freedom, but attract deep emotional lessons. Love may surprise or awaken you.",
+      "pisces": "You merge through surrender and devotion. Spiritual or karmic ties mark your deepest bonds."
+    },
+    "houses": {
+      "1": "You radiate magnetic passion. Others sense depth in your beauty and intensity in your presence.",
+      "2": "You seek lasting emotional and material security. Love may challenge your sense of worth.",
+      "3": "You speak of love with power. Words become tools for intimacy, healing, or emotional shift.",
+      "4": "Your roots affect your capacity to love deeply. Transformation occurs through family and home.",
+      "5": "You love fiercely and expressively. Romantic intensity drives your creativity and need to feel alive.",
+      "6": "You transform through devotion and daily acts. Love expresses in service, and obsession may hide in routine.",
+      "7": "You are drawn to intense, fated partners. Relationships may transform your entire self-view.",
+      "8": "You crave deep emotional merging. Love becomes a crucible for transformation, loss, and rebirth.",
+      "9": "You love through beliefs. Passion is found in shared journeys, truth-telling, or spiritual conviction.",
+      "10": "You are seen as intense in love. Reputation and relationships are publicly intertwined.",
+      "11": "You attract powerful bonds through groups or ideals. Love transforms through friendship or shared vision.",
+      "12": "You may experience hidden or karmic love. Emotional intensity can surface through solitude, dreams, or the unseen."
+    }
+  },
+  "midpoint_saturn_neptune": {
+    "general": {
+      "psychology": "The Saturn/Neptune midpoint reveals the meeting place between reality and dreams, structure and surrender. It often speaks to the struggle between control and faith, materialism and mysticism.",
+      "growth": "Integrate vision with responsibility. Your strength lies in honoring both the practical and the poetic without collapse into fear or illusion."
+    },
+    "signs": {
+      "aries": "You may battle between impulsive action and quiet hesitation. Your will is softened by sensitivity or spiritual restraint.",
+      "taurus": "You ground your dreams in tangible forms. Practical mysticism and patient endurance define your growth path.",
+      "gemini": "You filter dreams through logic. Communication may be poetic yet cautious, blending wonder and analysis.",
+      "cancer": "You seek emotional security in spiritual devotion. Home, family, and boundaries may blur in psychic ways.",
+      "leo": "Your creativity requires structure and soul. You blend expressive fire with inner vulnerability.",
+      "virgo": "You wrestle with perfectionism and surrender. Healing may come through quiet service and divine routine.",
+      "libra": "You strive for fairness and beauty with a spiritual depth. Relationships become sacred contracts.",
+      "scorpio": "You transform through spiritual discipline. Power struggles may mask a yearning for transcendence.",
+      "sagittarius": "You seek truth that’s both inspired and real. Dreams expand when rooted in honest philosophy.",
+      "capricorn": "You spiritualize discipline. You can build long-lasting sacred structures when fear doesn’t block flow.",
+      "aquarius": "You merge idealism with innovation. Social reform becomes mystical mission when channeled clearly.",
+      "pisces": "You are naturally attuned to this midpoint. You balance inner sensitivity with the need to materialize dreams."
+    },
+    "houses": {
+      "1": "You may appear cautious or spiritually complex. You walk the world as both mystic and realist.",
+      "2": "You seek financial and spiritual security. Fear of loss may clash with soulful trust.",
+      "3": "You communicate with poetic precision or hesitant magic. Thought blends logic and intuition.",
+      "4": "Your roots may be spiritual or uncertain. Boundaries at home are porous but purposeful.",
+      "5": "You create through soulful structure. Art or romance may require emotional discipline.",
+      "6": "You serve with sacred purpose. Healing blends rituals and intuitive medicine.",
+      "7": "You attract partners who mirror your inner conflict between freedom and structure, mysticism and duty.",
+      "8": "Your depth is shaped by karmic patterns. Intimacy becomes a place of both resistance and transcendence.",
+      "9": "You seek spiritual mastery through structured philosophy. Faith and rules must dance together.",
+      "10": "Your career may reflect your inner mystic. You bring sacred service into visible structure.",
+      "11": "You dream of a better world. You organize vision into action through community or cause.",
+      "12": "You carry hidden tension between control and surrender. Solitude may bring both fear and healing."
+    }
+  },
+  "midpoint_mars_uranus": {
+    "general": {
+      "psychology": "The Mars/Uranus midpoint reflects sudden bursts of energy, rebellious action, and lightning-like decisions. It shows how your will meets freedom, and how you handle disruption or independence.",
+      "growth": "Harness your spark without short-circuiting your path. Revolutionary action becomes evolutionary when guided by awareness, not impulse."
+    },
+    "signs": {
+      "aries": "Explosive will and fearless independence. You may act before thinking, driven by urgency.",
+      "taurus": "Your energy builds like a storm. Sudden shifts may follow long-held resistance.",
+      "gemini": "You move fast and speak boldly. Thoughts trigger action, often without warning.",
+      "cancer": "You protect unpredictably. Emotionally charged outbursts may mask deeper needs for freedom.",
+      "leo": "You shine through rebellion. Dramatic acts of will assert your need to be unique.",
+      "virgo": "You rebel against chaos through precision. Unexpected efficiency or disruption may mark your routine.",
+      "libra": "You challenge relational norms. Freedom in love or unexpected attraction defines your expression.",
+      "scorpio": "You act with intensity and secrecy. Sudden transformation follows hidden build-up.",
+      "sagittarius": "You leap without a net. Vision drives radical action and uncontainable enthusiasm.",
+      "capricorn": "You challenge authority or break structure with strategic precision. Self-mastery fuels your eruptions.",
+      "aquarius": "You’re an iconoclast. Visionary energy pushes you to change systems or shock with brilliance.",
+      "pisces": "You act through intuition and mystery. Your disruptions may feel divine or dissolve reality."
+    },
+    "houses": {
+      "1": "You radiate unpredictable energy. Others feel your intensity and sudden decisiveness.",
+      "2": "You may earn or lose resources through risk. Your value system drives unconventional action.",
+      "3": "Your thoughts and movements are quick and surprising. You communicate with fire and flashes.",
+      "4": "Your private life may be chaotic. Liberation comes from redefining family or roots.",
+      "5": "You act boldly in love or art. Sudden romances or creative surges shape your life.",
+      "6": "Your work may involve tech or disruption. Sudden health shifts or changes in routine are common.",
+      "7": "You attract radical partners or provoke sudden breakups. Freedom in relationships is essential.",
+      "8": "You initiate deep transformation abruptly. Intimacy and shared resources may be unpredictable.",
+      "9": "You fight for truth or innovation. Sudden travel, education, or spiritual awakenings are common.",
+      "10": "You may rebel against career norms. Public image fluctuates with radical moves or inventions.",
+      "11": "You energize social change. Group involvement is erratic but electrifying.",
+      "12": "Your unconscious erupts into action. Solitude may bring surprising downloads or breakdowns before breakthroughs."
+    }
+  },
+  "midpoint_chiron_sun": {
+    "general": {
+      "psychology": "The Chiron/Sun midpoint reveals the intersection of your core identity with your deepest wounds. It can indicate areas where confidence, self-worth, or visibility have been wounded — often through the father archetype or early identity shaping experiences.",
+      "growth": "This midpoint shows how you can become whole by embracing your sacred imperfection. Healing comes through reclaiming the right to be seen and to shine, despite past wounds."
+    },
+    "signs": {
+      "aries": "You may carry wounds around anger, action, or being first. Healing emerges through courageous self-assertion.",
+      "taurus": "Wounds may relate to worth or physicality. You heal by grounding into your values and sensual presence.",
+      "gemini": "You may doubt your voice or intellect. Healing comes through communication and curiosity.",
+      "cancer": "Wounds around family or emotional safety may define your self-image. You heal through nurturing yourself as you would another.",
+      "leo": "You may fear being seen or judged for your light. Healing comes through daring to shine without apology.",
+      "virgo": "You carry wounds around perfectionism or service. Healing lies in honoring your inherent worth without fixing.",
+      "libra": "You may fear rejection or feel incomplete alone. You heal through self-affirmation within and outside of relationship.",
+      "scorpio": "You fear losing control or revealing vulnerability. Healing comes by embracing emotional depth and alchemical power.",
+      "sagittarius": "Wounds may come from beliefs or truth suppression. You heal by expanding into soul-aligned meaning.",
+      "capricorn": "You carry wounds around achievement or authority. You heal by releasing over-identification with success.",
+      "aquarius": "You may feel like an outsider or alienated. Healing happens when you celebrate your uniqueness as essential.",
+      "pisces": "You may feel unseen or ungrounded. Healing comes through trusting your intuition and creative flow."
+    },
+    "houses": {
+      "1": "You may carry visible wounds to self-esteem or identity. You heal through conscious self-ownership and expression.",
+      "2": "You may struggle with self-worth or material fear. Healing comes by honoring your gifts and resources.",
+      "3": "You may have been silenced or misunderstood. You heal by sharing your voice and truth.",
+      "4": "Family wounds may define your self-perception. You heal through inner parenting and ancestral release.",
+      "5": "Your joy or creativity may have been shamed. You heal by reclaiming playful, radiant expression.",
+      "6": "You may carry wounds of inadequacy or over-service. You heal through ritual, care, and inner dignity.",
+      "7": "Relationships may reflect your pain. You heal through conscious, equal partnership and self-awareness.",
+      "8": "You may fear loss or betrayal. You heal by trusting your emotional resilience and practicing sacred intimacy.",
+      "9": "Your truth may have been dismissed. You heal by expanding into belief systems that honor your soul.",
+      "10": "You may carry wounds around career or authority. You heal by defining success on your terms.",
+      "11": "Friendship or community wounds may linger. You heal through conscious belonging and shared vision.",
+      "12": "You carry sacred hidden wounds. You heal through compassion, solitude, and spiritual integration."
+    }
+  },
+  "midpoint_chiron_moon": {
+    "general": {
+      "psychology": "The Chiron/Moon midpoint reveals emotional wounds rooted in childhood, the mother archetype, and your deepest sensitivities. It often speaks to unmet needs or past emotional trauma that shaped your inner world.",
+      "growth": "Healing flows through radical self-compassion. When you tend to your inner child and validate your emotional truth, you reclaim your softness as strength."
+    },
+    "signs": {
+      "aries": "You may carry wounds around expressing anger or needing to protect yourself. You heal by honoring your right to assert your emotional truth.",
+      "taurus": "You may feel emotionally unsafe or disconnected from your body. Healing comes through self-soothing, embodiment, and pleasure.",
+      "gemini": "You may have felt unheard or intellectually invalidated. Healing comes through emotional articulation and curiosity.",
+      "cancer": "Wounds may come from home, mother, or attachment patterns. You heal through deep emotional self-parenting.",
+      "leo": "You may feel unseen or uncelebrated. You heal through emotional courage and joyful self-recognition.",
+      "virgo": "You may carry shame around being emotionally 'messy' or imperfect. You heal through accepting vulnerability without fixing it.",
+      "libra": "You may fear emotional rejection or conflict. Healing comes through inner equilibrium and self-honesty.",
+      "scorpio": "You may fear betrayal or exposure. You heal by transforming emotional wounds into soulful wisdom.",
+      "sagittarius": "You may suppress your feelings for the sake of optimism or belief. You heal by allowing truth and grief to coexist.",
+      "capricorn": "You may have been emotionally neglected or overburdened. You heal by softening control and allowing need.",
+      "aquarius": "You may have felt emotionally exiled or intellectually overemotional. You heal through communal validation and inner uniqueness.",
+      "pisces": "You may absorb others’ pain or feel lost in emotional overwhelm. You heal through intuitive boundaries and spiritual grounding."
+    },
+    "houses": {
+      "1": "You may project emotional wounds onto your identity. Healing comes through authentic self-expression and inner nurturing.",
+      "2": "You may feel unsafe receiving or holding value. You heal by grounding into emotional self-worth.",
+      "3": "You may struggle to articulate emotion. Healing comes through writing, speaking, or sharing your emotional truth.",
+      "4": "Your roots may have conditioned your relationship to authority. You heal by reparenting and redefining legacy.",
+      "5": "Your wound may be around joy, sexuality, or self-expression. You heal through play, art, and inner celebration.",
+      "6": "You may feel burdened by work or health. You heal through purpose-driven service and honoring your limitations.",
+      "7": "You may attract emotionally wounded partners. Healing arises through relational balance and emotional honesty.",
+      "8": "You may fear loss or betrayal. You heal through emotional trust and transformative intimacy.",
+      "9": "You may feel disconnected from emotional purpose. You heal by integrating belief with emotional truth.",
+      "10": "You may have learned to repress feelings for success. You heal through emotional authority and inner safety.",
+      "11": "You may feel excluded or disconnected. You heal by finding soul-aligned community and expressing your emotional ideals.",
+      "12": "You carry deep ancestral or karmic emotional wounds. You heal through solitude, forgiveness, and inner surrender."
+    }
+  },
+  "midpoint_chiron_ascendant": {
+    "general": {
+      "psychology": "The Chiron/Ascendant midpoint reflects how your core wound is expressed in your outer personality and how others perceive your pain. It can reveal ways you mask, project, or unconsciously share your vulnerability.",
+      "growth": "Healing comes when you show up as your full self — wounds and all. Vulnerability becomes magnetic when integrated with authenticity."
+    },
+    "signs": {
+      "aries": "You may feel wounded in your ability to assert yourself. You heal by learning that strength includes softness.",
+      "taurus": "You may carry pain around physical appearance, value, or being seen as enough. You heal by embodying worth.",
+      "gemini": "You may mask your wounds with wit or words. You heal by expressing your truth even when it trembles.",
+      "cancer": "You may feel exposed in your emotional sensitivity. You heal by nurturing yourself first.",
+      "leo": "You may fear visibility or rejection. You heal by reclaiming your right to shine without needing approval.",
+      "virgo": "You may overcorrect your flaws or criticize yourself outwardly. You heal by softening and allowing imperfection.",
+      "libra": "You may feel incomplete alone or overly defined by others. You heal through inner balance and self-respect.",
+      "scorpio": "You may hide behind intensity or mistrust. You heal by revealing your truth in safe spaces.",
+      "sagittarius": "You may mask pain with philosophy or positivity. You heal through honest storytelling and emotional truth.",
+      "capricorn": "You may feel you must earn love through success. You heal by letting others see you without the mask.",
+      "aquarius": "You may feel like an outsider or overcompensate with uniqueness. You heal through connection without performance.",
+      "pisces": "You may disappear into others' needs. You heal by claiming spiritual boundaries and self-recognition."
+    },
+    "houses": {
+      "1": "Your wound is visible — you wear it in your posture, presence, or first impressions. You heal by claiming space authentically.",
+      "2": "Your pain may center on self-worth or survival. You heal by grounding into enoughness and embodiment.",
+      "3": "You may silence yourself or feel misunderstood. You heal by owning your voice and speaking your experience.",
+      "4": "Your roots may have conditioned your relationship to authority. You heal by reparenting and redefining legacy.",
+      "5": "Your wound may be around joy, sexuality, or self-expression. You heal through play, art, and inner celebration.",
+      "6": "You may feel broken or overly responsible. You heal through self-care, routine, and forgiving your humanness.",
+      "7": "You attract relationships that reflect your wound. You heal by choosing mutual, heart-centered connection.",
+      "8": "You may fear loss or betrayal. You heal by trusting your emotional resilience and practicing sacred intimacy.",
+      "9": "You may feel wounded by dogma or lost in belief. You heal through exploration and reclaiming spiritual sovereignty.",
+      "10": "You may hide your pain behind achievement. You heal by integrating purpose with vulnerability.",
+      "11": "You may feel excluded or disconnected. You heal by finding kindred spirits and expressing your vision.",
+      "12": "Your wound may be hidden or karmic. You heal through silence, service, and surrender."
+    }
+  },
+  "midpoint_chiron_midheaven": {
+    "general": {
+      "psychology": "The Chiron/Midheaven midpoint represents the intersection between your deepest wounds and your public image, vocation, or relationship to authority. It can reflect wounds involving recognition, visibility, or the pressure to achieve.",
+      "growth": "Healing comes when you allow your vulnerability to guide your leadership. Your pain becomes purpose when you show up in the world with embodied compassion."
+    },
+    "signs": {
+      "aries": "You may feel wounded in being seen as strong or capable. You heal by leading with authentic courage, not performance.",
+      "taurus": "You may doubt your right to receive materially or artistically. You heal by honoring your worth in your work.",
+      "gemini": "You may feel unheard or unacknowledged for your intellect. You heal through teaching and meaningful communication.",
+      "cancer": "You may have been emotionally invalidated by authority. You heal through nurturing others through emotional intelligence.",
+      "leo": "You may fear attention or feel unworthy of the spotlight. You heal by owning your brilliance and leading from the heart.",
+      "virgo": "You may feel you must prove yourself through perfection. You heal through quiet mastery and integrity.",
+      "libra": "You may feel overlooked in partnerships or judged in public roles. You heal by claiming your right to fairness and beauty.",
+      "scorpio": "You may fear being controlled or exposed. You heal through transformative service and hidden strength.",
+      "sagittarius": "You may feel disillusioned by institutions or belief systems. You heal through embodying wise, experiential truth.",
+      "capricorn": "You may carry ancestral pressure to succeed. You heal by defining success through soul alignment.",
+      "aquarius": "You may feel too different to be accepted. You heal by serving through your unique genius.",
+      "pisces": "You may feel invisible or spiritually displaced. You heal by bringing compassion and art into public service."
+    },
+    "houses": {
+      "1": "Your wound is expressed visibly. You may feel pressure to appear strong. You heal by leading with authenticity.",
+      "2": "You may doubt your ability to earn or achieve recognition. You heal by grounding your values into vocation.",
+      "3": "You may feel unrecognized for your ideas. You heal by writing, speaking, and educating with empathy.",
+      "4": "Your roots may have conditioned your relationship to authority. You heal by reparenting and redefining legacy.",
+      "5": "You may fear failure in creative or performative roles. You heal by expressing joy without attachment to outcome.",
+      "6": "You may feel burdened by work or health. You heal through purpose-driven service and honoring your limitations.",
+      "7": "Your public relationships may mirror private wounds. You heal through conscious, soulful partnership.",
+      "8": "You may fear power or exposure. You heal through transparency and leading through depth.",
+      "9": "You may struggle with belief or feel judged for your truth. You heal by sharing your spiritual journey.",
+      "10": "Your reputation may carry the weight of your wound. You heal by leading with purpose, not pretense.",
+      "11": "You may feel unseen in groups or dreams. You heal by embodying visionary contribution.",
+      "12": "Your vocation may emerge from solitude or behind-the-scenes work. You heal by merging the sacred with the seen."
+    }
+  },
+  "midpoint_sun_northnode": {
+    "general": {
+      "psychology": "The Sun/Node midpoint reveals how your core identity intersects with your karmic life path. It shows where you are naturally pulled toward growth and purpose, or where destiny invites your active participation.",
+      "growth": "This midpoint becomes a key to conscious evolution. When you embody your gifts and take aligned action, you step into your soul’s contract."
+    },
+    "signs": {
+      "aries": "Your path calls you to courageous selfhood. Leadership, initiation, and bravery shape your destiny.",
+      "taurus": "Your purpose is to ground, build, and stabilize. You grow through consistency and cultivating self-worth.",
+      "gemini": "You evolve through learning, writing, and dialogue. Curiosity is your compass toward higher truth.",
+      "cancer": "You are called to nurture, protect, and heal emotional lineages. Home and ancestry are sacred themes.",
+      "leo": "You grow by expressing your heart. Creativity, visibility, and confidence are essential to your evolution.",
+      "virgo": "You refine, serve, and heal. Your soul path involves humility, precision, and devotion to betterment.",
+      "libra": "You evolve through relationships, harmony, and beauty. Partnership is a gateway to growth.",
+      "scorpio": "You are here to transmute power. Depth, intimacy, and emotional truth shape your destiny.",
+      "sagittarius": "Your growth lies in expansion, belief, and exploration. Teaching and truth-telling guide your path.",
+      "capricorn": "You are building a legacy. Discipline, integrity, and achievement are tools for soul evolution.",
+      "aquarius": "You serve collective awakening. Innovation, rebellion, and social vision shape your karma.",
+      "pisces": "You dissolve illusion to access truth. Compassion, art, and spiritual service mark your path."
+    },
+    "houses": {
+      "1": "Your identity and life path are one. You’re here to fully embody your mission and lead by example.",
+      "2": "You build karmic momentum through self-worth and resource mastery. Money and value are soul lessons.",
+      "3": "Your voice carries your karma. You’re here to share truth through words, writing, and connection.",
+      "4": "You are growing through family, emotional roots, and ancestral healing.",
+      "5": "Creative expression and romantic evolution define your path. You are here to shine and create.",
+      "6": "Service, health, and ritual refine your evolution. Your work is sacred when done with intention.",
+      "7": "You learn through partnership and mirroring. Relationships are your evolutionary curriculum.",
+      "8": "Your destiny unfolds through depth, power, and transformation. Trust and surrender shape your path.",
+      "9": "Your growth accelerates through belief, travel, and philosophy. You are here to guide others in vision.",
+      "10": "You fulfill your destiny through vocation and impact. Public life and legacy are karmic stages.",
+      "11": "You are here to influence the future. Friends, causes, and ideals shape your contribution.",
+      "12": "Your evolution requires solitude, surrender, and spiritual connection. The invisible is your guide."
+    }
+  },
+  "midpoint_moon_northnode": {
+    "general": {
+      "psychology": "The Moon/Node midpoint reflects how your emotional instincts and inner world align with your karmic evolution. It often reveals ancestral imprints, soul memory, and emotional patterns that either support or resist your growth.",
+      "growth": "This midpoint invites you to trust emotional wisdom as a compass for your path. As you release inherited emotional cycles, your intuition becomes a guide for soulful alignment."
+    },
+    "signs": {
+      "aries": "You evolve by claiming emotional independence and learning to act on your own instincts without guilt.",
+      "taurus": "You grow by cultivating emotional security and releasing scarcity patterns. Stability heals the past.",
+      "gemini": "You evolve through communication and curiosity. Emotional clarity comes through speaking your truth.",
+      "cancer": "You are healing and evolving family karma. Emotional nurturing is your path and your gift.",
+      "leo": "You grow by embracing creative emotional expression. Being seen emotionally is key to healing.",
+      "virgo": "You evolve by discerning emotional needs and boundaries. Service becomes sacred when rooted in truth.",
+      "libra": "You are learning emotional harmony in partnership. Growth comes from balancing self and other.",
+      "scorpio": "You evolve through emotional courage and vulnerability. Depth, trust, and transformation are key themes.",
+      "sagittarius": "You grow by aligning your feelings with your beliefs. Emotional truth leads to spiritual expansion.",
+      "capricorn": "You’re healing emotional repression or over-responsibility. Growth lies in reclaiming inner softness.",
+      "aquarius": "You grow through emotional detachment and humanitarian care. Evolution comes from seeing the bigger picture.",
+      "pisces": "You evolve by surrendering emotional illusions and trusting intuition. Compassion becomes your strength."
+    },
+    "houses": {
+      "1": "Your emotional identity is central to your evolution. You are learning to lead with your heart.",
+      "2": "You grow by grounding emotional needs and building inner safety. Stability supports your path.",
+      "3": "You evolve through sharing your emotional truth. Your voice carries ancestral memory.",
+      "4": "You’re healing family lineage and emotional roots. Home is both wound and medicine.",
+      "5": "You grow by expressing emotion creatively and authentically. Your joy is part of your karmic offering.",
+      "6": "You’re evolving through emotional refinement and ritual. Daily care becomes emotional liberation.",
+      "7": "You learn emotional balance through others. Partnership mirrors your inner world for healing.",
+      "8": "You evolve through emotional merging and transformation. Intimacy and loss shape your growth.",
+      "9": "You grow by expanding emotional truth into spiritual belief. Travel or learning may unlock healing.",
+      "10": "You heal through emotional responsibility. Your evolution involves showing up with both softness and strength.",
+      "11": "You’re learning to emotionally belong in community. Emotional authenticity supports collective evolution.",
+      "12": "You evolve through hidden emotional work. Dreams, solitude, and the subconscious are your healing ground."
+    }
+  },
+  "midpoint_northnode_chiron": {
+    "general": {
+      "psychology": "The Node/Chiron midpoint highlights the intersection between karmic destiny and deep wounding. It speaks to soul-level pain that you’re here to transmute — often through service, mentorship, or living as a healing example.",
+      "growth": "This midpoint calls you to make medicine of your pain. When you walk your wound with wisdom, your very presence becomes a catalyst for others’ healing."
+    },
+    "signs": {
+      "aries": "You’re here to heal through courageous action. You transmute fear of rejection or rage into fearless leadership.",
+      "taurus": "You are called to embody healing. Sensory stability, worthiness, and sacred slowness are your medicine.",
+      "gemini": "Your healing path involves voice, truth, and connection. You turn wounds of miscommunication into teaching.",
+      "cancer": "You heal through nurturing and emotional safety. Ancestral mother wounds may become paths to collective restoration.",
+      "leo": "You’re here to heal the heart — yours and others’. Your light becomes medicine when you dare to shine despite fear.",
+      "virgo": "Service is your sacred remedy. You alchemize wounds of inadequacy into wisdom through helping others.",
+      "libra": "You heal the imbalance of power and care in relationships. True harmony arises through honest self-inclusion.",
+      "scorpio": "You’re here to heal trauma through depth, truth, and emotional rebirth. Transformation is your sacred tool.",
+      "sagittarius": "You transmute existential wounding into soul-aligned meaning. Your beliefs are pathways to purpose.",
+      "capricorn": "You’re here to redefine success through soulful mastery. You may carry inherited karmic burdens to refine.",
+      "aquarius": "You heal alienation through contribution. When you own your uniqueness, it becomes collective medicine.",
+      "pisces": "You dissolve spiritual wounds into compassion. You walk between worlds, offering grace to the forgotten."
+    },
+    "houses": {
+      "1": "You are here to embody the healer archetype. Your very presence transforms others. Be seen.",
+      "2": "You alchemize self-worth wounds into radiant value. Your stability becomes spiritual medicine.",
+      "3": "You are here to speak healing truth. Words carry ancestral stories and future light.",
+      "4": "You’re healing the family line. You restore emotional roots and rebuild sacred inner foundations.",
+      "5": "You are a joy healer. Creativity, children, and expression unlock your karmic gifts.",
+      "6": "You are a vessel for embodied healing. Through daily rituals and devotion, you transmute pain.",
+      "7": "You heal through conscious relationships. Your pain becomes wisdom when mirrored with grace.",
+      "8": "You carry karmic wounds around power, sexuality, or trust. Intimacy becomes initiation.",
+      "9": "You are a healer of meaning. Philosophy, belief, and justice are your soul’s curriculum.",
+      "10": "You are called to heal in public. Your reputation is tied to your authenticity and your ability to show up whole.",
+      "11": "You heal groups, tribes, and collective futures. Your ideals shape better realities.",
+      "12": "You heal what others cannot see. You carry the wounds of the forgotten — and become a vessel for divine compassion."
+    }
+  },
+  "midpoint_midheaven_ic": {
+    "general": {
+      "psychology": "The MC/IC midpoint reveals the axis between your soul’s inner foundation (IC) and your worldly purpose or public face (MC). This point symbolizes how your private life supports your vocation — or how tension between roots and legacy might shape your path.",
+      "growth": "True power comes from integration. When your outer role honors your inner truth, you stand unshakably in your soul’s center — visible, whole, and rooted."
+    },
+    "signs": {
+      "aries": "You balance bold leadership with emotional independence. Your drive to succeed comes from a core need to be free and authentic.",
+      "taurus": "You seek stability both inwardly and outwardly. A calm home life nourishes your ambitions; tangible beauty roots your purpose.",
+      "gemini": "You live between conversation and contemplation. Your public voice grows from a curious, story-filled inner world.",
+      "cancer": "You need emotional safety to lead with integrity. Family and ancestry are your foundation for success.",
+      "leo": "You’re born to shine from your soul. Creativity and self-expression link your legacy to your inner light.",
+      "virgo": "You integrate sacred work and sacred rest. The healer archetype thrives when discipline meets emotional care.",
+      "libra": "Your grace and justice radiate outward from your relational foundation. Beauty in both worlds is your strength.",
+      "scorpio": "Your inner depth fuels your public power. Transformation must begin in private to radiate truthfully in the world.",
+      "sagittarius": "You are guided by truth — both at home and on stage. Rooted beliefs become global impact.",
+      "capricorn": "You build your legacy from strong roots. Discipline and responsibility define both your inner world and worldly path.",
+      "aquarius": "Your inner uniqueness fuels collective change. Authentic solitude empowers your role as visionary reformer.",
+      "pisces": "You bridge dream and duty. Soulful stillness at home enables spiritual leadership in the world."
+    },
+    "houses": {
+      "1": "Your outer role and inner core are both linked to identity. You lead from within and must embody your path visibly.",
+      "2": "You build your purpose from your values. Inner security and material grounding shape your legacy.",
+      "3": "You are here to speak from your soul. Your thoughts, stories, and siblings are part of your life path.",
+      "4": "Your private life defines your public success. Family, roots, and emotional safety are key to your legacy.",
+      "5": "Your creativity bridges inner and outer life. Children, love, and performance are part of your sacred mission.",
+      "6": "You integrate service and structure. Your work is your soul’s offering when rooted in mindful care.",
+      "7": "Partnerships shape your destiny. Your private healing transforms how you lead in the public eye.",
+      "8": "You transform from within to change the world. Emotional depth and soul contracts shape your vocation.",
+      "9": "Your public voice emerges from private beliefs. Teaching, publishing, or spiritual travel reflect your core.",
+      "10": "You’re here to make your mark visibly. Your soul and career must align — or both suffer.",
+      "11": "Your inner hopes birth future change. Private dreams become public revolutions when rooted in clarity.",
+      "12": "Solitude and spiritual work are your fuel. You lead through quiet power and hidden strength."
+    }
+  },
+  "midpoint_ascendant": {
+    "moon": "[AUTO-PLACEHOLDER]",
+    "sun": "[AUTO-PLACEHOLDER]"
+  },
+  "midpoint_jupiter": {
+    "mars": "[AUTO-PLACEHOLDER]",
+    "north_node": "[AUTO-PLACEHOLDER]",
+    "saturn": "[AUTO-PLACEHOLDER]",
+    "venus": "[AUTO-PLACEHOLDER]"
+  },
+  "midpoint_mars": {
+    "mercury": "[AUTO-PLACEHOLDER]",
+    "saturn": "[AUTO-PLACEHOLDER]",
+    "venus": "[AUTO-PLACEHOLDER]"
+  },
+  "midpoint_mercury": {
+    "venus": "[AUTO-PLACEHOLDER]"
+  },
+  "midpoint_midheaven": {
+    "moon": "[AUTO-PLACEHOLDER]",
+    "sun": "[AUTO-PLACEHOLDER]"
+  },
+  "midpoint_moon": {
+    "sun": "[AUTO-PLACEHOLDER]"
+  },
+  "midpoint_north": {
+    "node_saturn": "[AUTO-PLACEHOLDER]"
+  },
+  "midpoint_saturn": {
+    "venus": "[AUTO-PLACEHOLDER]"
+  }
+}

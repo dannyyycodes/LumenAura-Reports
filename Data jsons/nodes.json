@@ -1,0 +1,47 @@
+{
+  "nodes": {
+    "North Node": {
+      "core_themes": "Represents the soul’s evolutionary direction and karmic path forward, guiding you toward qualities to develop and lessons to learn. It signifies the dharma—where growth and fulfillment arise by moving beyond familiar past‑life patterns.",
+      "sign_interpretations": {
+        "Aries": "With the North Node in Aries, your soul’s path calls you to cultivate courage, independence, and direct action. This means moving beyond the Libra South Node’s comfort in diplomacy and others‑centered harmony. Embracing bold self‑assertion brings authentic confidence; the challenge is balancing initiative with respect for others and avoiding impulsive conflict.",
+        "Taurus": "A North Node in Taurus invites you to build stability, patience, and grounded self‑worth. You must release the Scorpio South Node’s tendency toward emotional intensity, power struggles, and crisis‑driven growth. By embracing slow, sensual resilience you gain inner peace; the challenge is letting go of dramatic transformation tactics and trusting steady evolution.",
+        "Gemini": "With your North Node in Gemini, the path is toward curiosity, communication, and mental flexibility. This contrasts with the Sagittarius South Node’s habit of dogmatic beliefs and big‑picture abstraction. Embracing local learning and open dialogue brings nimble insight; the challenge is avoiding superficial chatter and staying present to details.",
+        "Cancer": "A Cancer North Node guides you to nurture emotional security, empathy, and family connections. You move away from the Capricorn South Node’s focus on external achievement, status, and emotional reserve. By honoring intuitive care and vulnerability you find deep belonging; the challenge is setting boundaries and avoiding over‑protectiveness.",
+        "Leo": "With your North Node in Leo, your soul yearns for creative self‑expression, leadership, and heartfelt joy. This requires releasing the Aquarius South Node’s tendency toward detachment and group‑over‑self orientation. Embracing personal radiance fosters genuine confidence; the challenge is overcoming fear of the spotlight and avoiding prideful theatrics.",
+        "Virgo": "A North Node in Virgo asks you to develop service, discernment, and practical humility. You move beyond the Pisces South Node’s patterns of escapism, boundary diffusion, and idealism. By grounding compassion in detailed care, you find effective healing; the challenge is resisting self‑criticism and perfectionism.",
+        "Libra": "With your North Node in Libra, the path lies in cooperation, balance, and harmonious relating. This contrasts with the Aries South Node’s focus on self‑assertion and impulsive independence. Embracing partnership and diplomacy brings refined grace; the challenge is avoiding people‑pleasing or indecision.",
+        "Scorpio": "A Scorpio North Node pulls you toward transformative depth, emotional honesty, and shared power. You must move beyond the Taurus South Node’s comfort in stability, material attachment, and superficial calm. Embracing intensity and vulnerability yields profound renewal; the challenge is managing obsession and control issues.",
+        "Sagittarius": "With your North Node in Sagittarius, growth comes through exploration, philosophical expansion, and faith. This requires releasing the Gemini South Node’s habit of scattered information gathering and superficial connections. Embracing big‑picture vision and adventure brings meaning; the challenge is avoiding dogmatism and committing to depth.",
+        "Capricorn": "A Capricorn North Node guides you to establish discipline, structure, and responsible ambition. You move beyond the Cancer South Node’s emotional cling to security and family comfort. Embracing mature leadership and long‑term planning brings real achievement; the challenge is balancing ambition with self‑care and warmth.",
+        "Aquarius": "With your North Node in Aquarius, the soul path embraces innovation, humanitarian ideals, and collective vision. This contrasts with the Leo South Node’s focus on personal recognition and dramatic self‑expression. Embracing community‑minded progress brings authentic contribution; the challenge is avoiding detachment and embracing emotional connection.",
+        "Pisces": "A Pisces North Node invites you to develop compassion, spiritual surrender, and boundless empathy. You must move beyond the Virgo South Node’s reliance on analysis, critique, and control. Embracing unity consciousness and intuitive flow brings healing; the challenge is maintaining healthy boundaries and resisting escapism."
+      },
+      "house_interpretations": {
+        "1": "North Node in the 1st house calls you to develop self‑identity, independence, and personal initiative. This means moving beyond the 7th house South Node’s comfort in partnerships and others‑oriented roles. Embracing authentic self‑expression fosters confidence; the challenge is balancing self‑focus with healthy collaboration.",
+        "2": "With your North Node in the 2nd house, growth lies in cultivating self‑worth, personal values, and material stability. You move beyond the 8th house South Node’s reliance on shared resources, crisis transformation, and power exchanges. Embracing grounded security brings lasting confidence; the challenge is avoiding possessiveness and scarcity fears.",
+        "3": "North Node in the 3rd house invites you to develop communication, curiosity, and local connections. This requires releasing the 9th house South Node’s habit of distant travel and abstract ideology. Embracing everyday learning and neighborhood ties brings nimble insight; the challenge is avoiding superficial chatter.",
+        "4": "With your North Node in the 4th house, the soul’s growth focuses on home, family roots, and emotional foundations. You move beyond the 10th house South Node’s emphasis on career, public status, and achievement. Embracing private nurture and inner security brings true belonging; the challenge is balancing personal and professional life.",
+        "5": "North Node in the 5th house guides you toward creative self‑expression, romance, and joyful play. This contrasts with the 11th house South Node’s comfort in group causes and social networks. Embracing individual passion and spontaneity brings heartfelt vitality; the challenge is resisting group‑driven conformity.",
+        "6": "With your North Node in the 6th house, growth lies in refining daily routines, service, and health practices. You move beyond the 12th house South Node’s retreat into solitude, spiritual escape, or hidden patterns. Embracing practical care and consistent habits brings grounded well‑being; the challenge is avoiding isolating rituals.",
+        "7": "North Node in the 7th house calls you to master partnership, diplomacy, and mutual cooperation. This means moving beyond the 1st house South Node’s focus on personal identity and self‑assertion. Embracing balanced relating brings enriched connection; the challenge is preventing codependence or losing personal boundaries.",
+        "8": "With your North Node in the 8th house, the path involves deep shared resources, intimacy, and transformative experiences. You move beyond the 2nd house South Node’s reliance on personal possessions and comfort zones. Embracing psychological depth and joint ventures brings profound regeneration; the challenge is managing power struggles and trust issues.",
+        "9": "North Node in the 9th house encourages you to expand through higher learning, travel, and philosophical exploration. This contrasts with the 3rd house South Node’s focus on everyday communication and neighborhood life. Embracing broad visions brings wisdom; the challenge is integrating big ideas into daily practice.",
+        "10": "With your North Node in the 10th house, growth lies in public responsibility, career leadership, and tangible achievements. You move beyond the 4th house South Node’s comfort in private life and family patterns. Embracing professional purpose brings legacy; the challenge is balancing ambition with personal roots.",
+        "11": "North Node in the 11th house calls you toward humanitarian ideals, community vision, and collaborative innovation. This requires releasing the 5th house South Node’s focus on individual ego and creative self‑expression. Embracing collective goals brings collective uplift; the challenge is avoiding personal sacrifice for the group.",
+        "12": "With your North Node in the 12th house, the soul’s path focuses on spiritual surrender, compassion, and inner healing. You move beyond the 6th house South Node’s reliance on routine service and health practices. Embracing solitude and subconscious exploration brings deep transformation; the challenge is preventing escapism and unconscious self‑sabotage."
+      }
+    }
+  },
+  "northnode_house": {
+    "7": "[AUTO-PLACEHOLDER]"
+  },
+  "northnode_sign": {
+    "cancer": "[AUTO-PLACEHOLDER]"
+  },
+  "southnode_house": {
+    "1": "[AUTO-PLACEHOLDER]"
+  },
+  "southnode_sign": {
+    "capricorn": "[AUTO-PLACEHOLDER]"
+  }
+}

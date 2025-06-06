@@ -1,0 +1,34 @@
+{
+  "Parallels": {
+    "general": {
+      "psychology": "Parallels occur when two celestial bodies share the same declination, north or south of the celestial equator. They act similarly to conjunctions and often indicate natural alignment or resonance between energies.",
+      "growth": "Parallel aspects amplify inner harmony or focused potential. When used consciously, they help crystallize strengths and streamline your personal expression."
+    },
+    "examples": {
+      "Sun Parallel Moon": "You experience internal unity between your conscious will and emotional needs. You express yourself with integrity and natural confidence.",
+      "Mercury Parallel Mars": "You think and speak with assertiveness. Mental clarity, quick decision-making, or sharp wit may define your style.",
+      "Venus Parallel Neptune": "You blend romantic sensitivity with idealism. Love, beauty, and compassion often blur the line between dream and reality.",
+      "Saturn Parallel Pluto": "You possess deep transformative discipline. Long-term focus can lead to radical personal or structural change.",
+      "Mars Parallel Uranus": "You embody sudden action and innovation. Your impulses are electric, and you may act with visionary rebellion.",
+      "Jupiter Parallel Sun": "Your optimism fuels identity. You radiate warmth, generosity, and a natural ability to lead or teach.",
+      "Moon Parallel Chiron": "Emotional wounds and healing are central themes. You may deeply feel collective or ancestral pain—and alchemize it.",
+      "Ascendant Parallel MC": "You are outwardly aligned with your life mission. Others quickly sense your role and purpose in the world."
+    }
+  },
+  "Contra-Parallels": {
+    "general": {
+      "psychology": "Contra-Parallels occur when two celestial bodies share the same degree of declination, but one is north and the other south of the celestial equator. These aspects behave like oppositions—revealing tension, polarity, and opportunities for integration.",
+      "growth": "Contra-Parallels highlight inner contradictions or complementary forces. You grow by learning to hold dual truths and allow opposing energies to refine one another."
+    },
+    "examples": {
+      "Sun Contra-Parallel Moon": "You may feel torn between your public identity and private emotional needs. Personal integration comes through honoring both expression and reflection.",
+      "Mercury Contra-Parallel Jupiter": "Your thinking may alternate between detail and expansion. Bridging logic and belief is a lifelong gift and challenge.",
+      "Venus Contra-Parallel Mars": "Desire and affection may conflict. You may swing between softness and assertiveness in love, learning to honor both.",
+      "Saturn Contra-Parallel Neptune": "You oscillate between discipline and surrender. Structure and mysticism refine each other in your life’s work.",
+      "Mars Contra-Parallel Uranus": "You alternate between controlled action and sudden rebellion. True freedom comes through aligned purpose, not chaos.",
+      "Moon Contra-Parallel Pluto": "Emotions run deep. You may wrestle with intensity or power in relationships, healing through honest feeling.",
+      "Venus Contra-Parallel Chiron": "Love is a gateway to healing. Relationships may trigger wounds—but also offer soul-level medicine.",
+      "Ascendant Contra-Parallel IC": "You may appear different than you feel. Outer persona and inner roots are reconciled through authenticity."
+    }
+  }
+}

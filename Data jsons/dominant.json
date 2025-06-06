@@ -1,0 +1,65 @@
+{
+  "Cardinal + Fire": {
+    "themes": "Initiation, ambition, passionate leadership.",
+    "psychology": "This combination reflects a strong will to begin, lead, and express. Individuals may be energetic, assertive, and naturally driven to take charge.",
+    "growth": "Balance drive with patience. Avoid burnout by pacing energy and considering others' input."
+  },
+  "Cardinal + Earth": {
+    "themes": "Strategic ambition, grounded leadership, pragmatic action.",
+    "psychology": "These individuals aim to build and succeed. They may carry a deep need for structure and stability in their pursuits.",
+    "growth": "Learn to release control and trust organic development. Recognize emotional needs alongside goals."
+  },
+  "Cardinal + Air": {
+    "themes": "Idea-driven, social initiative, vision-oriented.",
+    "psychology": "This mix often results in communicative leaders who initiate through concepts and networks. Strong mental focus, though sometimes scattered.",
+    "growth": "Practice deep listening and follow-through. Ground abstract ideas into tangible action."
+  },
+  "Cardinal + Water": {
+    "themes": "Emotional leadership, intuition-driven action, nurturing ambition.",
+    "psychology": "These individuals may lead from empathy, often initiating emotional or healing processes. Protective instincts run strong.",
+    "growth": "Create emotional boundaries and trust others with shared leadership."
+  },
+  "Fixed + Fire": {
+    "themes": "Sustained passion, loyalty to purpose, creative force.",
+    "psychology": "There’s deep intensity here. Fixed Fire types hold to what inspires them and resist change until they're ready.",
+    "growth": "Stay open to new input. Burnout can arise from stubbornness or emotional isolation."
+  },
+  "Fixed + Earth": {
+    "themes": "Stability, endurance, mastery.",
+    "psychology": "These individuals may move slowly but with incredible focus. They build for the long term and resist unnecessary disruption.",
+    "growth": "Watch for rigidity or resistance to emotional shifts. Stay flexible when needed."
+  },
+  "Fixed + Air": {
+    "themes": "Unshakable ideas, mental intensity, intellectual loyalty.",
+    "psychology": "They hold strong opinions and resist mental shifts. Original thinkers who may challenge convention.",
+    "growth": "Balance certainty with curiosity. Allow space for growth in mindset and dialogue."
+  },
+  "Fixed + Water": {
+    "themes": "Emotional depth, intuition, persistence.",
+    "psychology": "This mix suggests deep-feeling individuals with protective emotional currents. Change may feel threatening, leading to emotional walls.",
+    "growth": "Practice release and fluidity. Vulnerability is not weakness — it's power."
+  },
+  "Mutable + Fire": {
+    "themes": "Restless passion, expressive change-maker.",
+    "psychology": "These individuals are adaptable yet intense. They can be inspiring but struggle with consistency.",
+    "growth": "Develop grounding rituals and long-term focus to harness inspiration effectively."
+  },
+  "Mutable + Earth": {
+    "themes": "Practical adaptability, service-oriented.",
+    "psychology": "Grounded yet flexible, these individuals adapt in useful, skillful ways. Can become self-sacrificing.",
+    "growth": "Set clearer boundaries. Embrace rest and delegation."
+  },
+  "Mutable + Air": {
+    "themes": "Quick wit, fluid ideas, communicative dynamism.",
+    "psychology": "These individuals are mentally agile and socially adaptive. They may thrive in change but resist emotional grounding.",
+    "growth": "Slow down. Deepen presence. Let connection follow curiosity."
+  },
+  "Mutable + Water": {
+    "themes": "Emotional adaptability, intuitive openness, artistic flow.",
+    "psychology": "They may absorb others' emotions or shift identity easily. This makes them empathetic, but sometimes unmoored.",
+    "growth": "Anchor your energy. Choose what to absorb — and what to release."
+  },
+  "air": {
+    "fixed/mutable": "[AUTO-PLACEHOLDER]"
+  }
+}

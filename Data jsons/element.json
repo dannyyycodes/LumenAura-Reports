@@ -1,0 +1,67 @@
+    {
+      "dominant_fire": {
+        "core_themes": "Action, Enthusiasm, Courage, Impulsiveness, Leadership",
+        "interpretation": "With Fire dominant, your nature is radiant, active, and inspired. You lead with passion and courage, though may need to temper impulsiveness."
+      },
+      "weakest_fire": {
+        "core_themes": "Lack of Initiative, Low Energy, Hesitation, Fear of Action",
+        "interpretation": "With Fire weakest, initiating action or expressing enthusiasm may feel challenging. Cultivating courage and finding outlets for passion can ignite your inner spark."
+      },
+      "balanced_fire": {
+        "core_themes": "Healthy Initiative, Balanced Passion, Appropriate Action",
+        "interpretation": "A balance of Fire suggests a healthy capacity for action, enthusiasm, and courage, expressed appropriately."
+      },
+      "dominant_earth": {
+        "core_themes": "Stability, Practicality, Sensuality, Patience, Reliability",
+        "interpretation": "With Earth dominant, you are grounded, practical, and value stability. You build steadily and appreciate the tangible world, though may resist change."
+      },
+      "weakest_earth": {
+        "core_themes": "Lack of Grounding, Impracticality, Difficulty with Routine/Structure",
+        "interpretation": "With Earth weakest, staying grounded, managing practical matters, or building lasting structure may be difficult. Connecting with nature and establishing routines can help."
+      },
+      "balanced_earth": {
+        "core_themes": "Groundedness, Practicality, Healthy Boundaries",
+        "interpretation": "A balance of Earth suggests a solid connection to the material world, practicality, and healthy stability."
+      },
+      "dominant_air": {
+        "core_themes": "Communication, Intellect, Social Connection, Objectivity, Ideas",
+        "interpretation": "With Air dominant, your mind is active, communicative, and idea-oriented. You thrive on social interaction and intellectual stimulation, though may seem detached."
+      },
+      "weakest_air": {
+        "core_themes": "Difficulty Communicating, Subjectivity, Lack of Social Ease",
+        "interpretation": "With Air weakest, objective thinking, clear communication, or social ease may be challenging. Engaging in dialogue and diverse perspectives can broaden your view."
+      },
+      "balanced_air": {
+        "core_themes": "Clear Communication, Objectivity, Social Grace",
+        "interpretation": "A balance of Air suggests clarity in thought and communication, objectivity, and social adaptability."
+      },
+      "dominant_water": {
+        "core_themes": "Emotion, Intuition, Compassion, Sensitivity, Imagination",
+        "interpretation": "With Water dominant, you are deeply feeling, intuitive, and compassionate. You connect through empathy, though may struggle with boundaries."
+      },
+      "weakest_water": {
+        "core_themes": "Emotional Detachment, Lack of Empathy, Difficulty with Intuition",
+        "interpretation": "With Water weakest, accessing or expressing deep emotions and empathy may be difficult. Cultivating intuition and allowing vulnerability can deepen connection."
+      },
+      "balanced_water": {
+        "core_themes": "Emotional Intelligence, Empathy, Healthy Intuition",
+        "interpretation": "A balance of Water suggests healthy emotional expression, empathy, and intuitive awareness."
+      },
+      "fire": {
+         "core_themes": "Represents spirit, inspiration, action, energy, enthusiasm, identity, and self‑expression. Keywords: vitality, courage, passion, initiative, leadership, creativity, impulse.",
+         "chakra_link": "Solar Plexus (Manipura)"
+      },
+      "earth": {
+         "core_themes": "Embodies stability, practicality, material security, reliability, and groundedness. Keywords: structure, responsibility, patience, resourcefulness, endurance, sensuality, manifestation.",
+         "chakra_link": "Root (Muladhara)"
+      },
+       "air": {
+         "core_themes": "Symbolizes intellect, communication, curiosity, mental agility, and social connection. Keywords: thought, ideas, perception, flexibility, learning, openness, networking.",
+         "chakra_link": "Heart (Anahata)"
+      },
+       "water": {
+         "core_themes": "Represents emotion, intuition, empathy, fluidity, and the unconscious. Keywords: sensitivity, compassion, nurturing, imagination, healing, adaptability, depth.",
+         "chakra_link": "Sacral (Svadhisthana)"
+      }
+    }
+    

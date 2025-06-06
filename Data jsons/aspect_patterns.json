@@ -1,0 +1,43 @@
+{
+  "Grand Trine": {
+    "themes": "Flow, ease, innate talent, and comfort in the elements it touches.",
+    "growth": "Learning to activate latent gifts with intention instead of coasting or underestimating their value.",
+    "challenges": "May avoid challenge or resist change. Can fall into complacency or take strengths for granted."
+  },
+  "T-Square": {
+    "themes": "Dynamic tension, internal pressure, and drive for resolution.",
+    "growth": "Channeling the intensity into focused purpose. Developing the 'missing leg' of the square as a key to balance.",
+    "challenges": "Frustration, inner conflict, and projection. Can struggle with overwhelm or rigidity."
+  },
+  "Yod": {
+    "themes": "Fated purpose, spiritual refinement, and karmic adjustment.",
+    "growth": "Awakening to unusual talents or subtle sensitivities. Embracing the uniqueness of your path.",
+    "challenges": "Feels misunderstood or out of sync. Life may feel oddly indirect or require surrender to unknown forces."
+  },
+  "Stellium": {
+    "themes": "Concentration of energy, focus, and intensity in one sign or house.",
+    "growth": "Using this cluster as a superpower through conscious integration. Developing other areas of the chart to balance.",
+    "challenges": "May become one-dimensional or overly identified with a specific role or life area."
+  },
+  "Grand Cross": {
+    "themes": "High tension, multidirectional pressure, and deep resilience.",
+    "growth": "Mastering balance and prioritization. Turning conflict into productive transformation.",
+    "challenges": "Stress, burnout, or paralysis from conflicting demands. Requires constant effort to harmonize."
+  },
+  "Mystic Rectangle": {
+    "themes": "Balance of harmony and tension; spiritual insight through integration.",
+    "growth": "Recognizing the opportunity to bridge opposites and find meaning through synthesis.",
+    "challenges": "Potential to stay in observation rather than action. Needs conscious engagement to unlock wisdom."
+  },
+  "pattern_grand": {
+    "cross": "[AUTO-PLACEHOLDER]",
+    "trine": "[AUTO-PLACEHOLDER]"
+  },
+  "pattern_stellium": {
+    "by_house": "[AUTO-PLACEHOLDER]",
+    "by_sign": "[AUTO-PLACEHOLDER]"
+  },
+  "pattern_t": {
+    "square": "[AUTO-PLACEHOLDER]"
+  }
+}

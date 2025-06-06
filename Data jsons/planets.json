@@ -1,0 +1,235 @@
+{
+  "sun": {
+    "aries": "Your Sun in Aries brings bold leadership, courage, and a pioneering spirit.",
+    "taurus": "Your Sun in Taurus gives you a steady nature, a love of beauty, and determination.",
+    "gemini": "Your Sun in Gemini equips you with curiosity, adaptability, and excellent communication.",
+    "cancer": "Your Sun in Cancer blesses you with deep empathy, intuition, and nurturing instincts.",
+    "leo": "Your Sun in Leo fills you with confidence, generosity, and a flair for drama.",
+    "virgo": "Your Sun in Virgo endows you with attention to detail, practicality, and helpfulness.",
+    "libra": "Your Sun in Libra offers harmony-seeking, diplomacy, and a refined aesthetic sense.",
+    "scorpio": "Your Sun in Scorpio brings intensity, passion, and transformative power.",
+    "sagittarius": "Your Sun in Sagittarius sparks optimism, adventurousness, and a philosophical mind.",
+    "capricorn": "Your Sun in Capricorn grants ambition, discipline, and strong responsibility.",
+    "aquarius": "Your Sun in Aquarius inspires innovation, humanitarianism, and independence.",
+    "pisces": "Your Sun in Pisces bestows imagination, compassion, and spiritual receptivity.",
+    "coretheme": "[AUTO-PLACEHOLDER]"
+  },
+  "moon": {
+    "aries": "Your Moon in Aries means you feel emotions quickly and express them with enthusiasm.",
+    "taurus": "Your Moon in Taurus gives emotional steadiness, a love of comfort, and loyalty.",
+    "gemini": "Your Moon in Gemini brings a need for mental stimulation and versatile feelings.",
+    "cancer": "Your Moon in Cancer heightens sensitivity, protectiveness, and deep emotional bonds.",
+    "leo": "Your Moon in Leo requires attention, creativity, and dramatic emotional expression.",
+    "virgo": "Your Moon in Virgo seeks practical security and expresses care through service.",
+    "libra": "Your Moon in Libra craves balance, social harmony, and emotional fairness.",
+    "scorpio": "Your Moon in Scorpio feels deeply, with powerful intuition and transformative emotions.",
+    "sagittarius": "Your Moon in Sagittarius needs freedom, adventure, and an optimistic outlook.",
+    "capricorn": "Your Moon in Capricorn controls emotions, showing them through duty and structure.",
+    "aquarius": "Your Moon in Aquarius feels best when ideas and friendships guide your heart.",
+    "pisces": "Your Moon in Pisces feels compassionately, often connecting to the collective unconscious.",
+    "coretheme": "[AUTO-PLACEHOLDER]"
+  },
+  "mercury": {
+    "aries": "Mercury in Aries communicates with directness, quick thinking, and bold ideas.",
+    "taurus": "Mercury in Taurus values practical thought, patience, and a methodical mind.",
+    "gemini": "Mercury in Gemini excels at versatility, wit, and rapid information exchange.",
+    "cancer": "Mercury in Cancer thinks with feeling, memory, and protective intuition.",
+    "leo": "Mercury in Leo speaks with warmth, creativity, and confident flair.",
+    "virgo": "Mercury in Virgo analyses critically, organizes meticulously, and solves problems efficiently.",
+    "libra": "Mercury in Libra weighs words diplomatically, seeking fairness and beauty in ideas.",
+    "scorpio": "Mercury in Scorpio probes deeply, communicating with intensity and insight.",
+    "sagittarius": "Mercury in Sagittarius explores ideas broadly, with philosophical and optimistic views.",
+    "capricorn": "Mercury in Capricorn thinks strategically, conservatively, and with long-term focus.",
+    "aquarius": "Mercury in Aquarius innovates intellectually, favoring progressive and unconventional ideas.",
+    "pisces": "Mercury in Pisces imagines abstractly, often communicating through symbolism and empathy.",
+    "coretheme": "[AUTO-PLACEHOLDER]"
+  },
+  "venus": {
+    "aries": "Venus in Aries loves with spontaneity, passion, and a hint of daring.",
+    "taurus": "Venus in Taurus cherishes comfort, loyalty, sensuality, and the pleasures of the senses.",
+    "gemini": "Venus in Gemini flirts easily, values variety, and enjoys witty conversation.",
+    "cancer": "Venus in Cancer nurtures deeply, seeking emotional safety and strong bonds.",
+    "leo": "Venus in Leo adores grand romantic gestures and thrives on admiration.",
+    "virgo": "Venus in Virgo shows love through service, practicality, and attention to detail.",
+    "libra": "Venus in Libra embodies grace, harmony, and a refined social charm.",
+    "scorpio": "Venus in Scorpio loves intensely, seeking depth, loyalty, and transformation.",
+    "sagittarius": "Venus in Sagittarius values adventure, freedom, and a partner who broadens horizons.",
+    "capricorn": "Venus in Capricorn commits through practicality, responsibility, and long-term planning.",
+    "aquarius": "Venus in Aquarius loves uniquely, cherishing friendship, independence, and innovation.",
+    "pisces": "Venus in Pisces loves compassionately, idealistically, and with romantic dreams.",
+    "coretheme": "[AUTO-PLACEHOLDER]"
+  },
+  "mars": {
+    "aries": "Mars in Aries acts with courage, initiative, and a pioneering spirit.",
+    "taurus": "Mars in Taurus moves with persistence, strength, and a steady energy.",
+    "gemini": "Mars in Gemini fights intellectually, using quick wit and versatility.",
+    "cancer": "Mars in Cancer defends emotionally, motivated by protective instincts.",
+    "leo": "Mars in Leo asserts proudly, with dramatic flair and creative ambition.",
+    "virgo": "Mars in Virgo works hard with precision, efficiency, and a helpful nature.",
+    "libra": "Mars in Libra strives for balance and uses diplomacy to resolve conflicts.",
+    "scorpio": "Mars in Scorpio pursues goals with intensity, focus, and deep resolve.",
+    "sagittarius": "Mars in Sagittarius charges forward with optimism and adventurous drive.",
+    "capricorn": "Mars in Capricorn climbs steadily, combining ambition with discipline.",
+    "aquarius": "Mars in Aquarius rebels for causes, using innovation and group action.",
+    "pisces": "Mars in Pisces acts compassionately, often inspired by dreams and intuition.",
+    "coretheme": "[AUTO-PLACEHOLDER]"
+  },
+  "jupiter": {
+    "aries": "Jupiter in Aries expands through bold risks, leadership, and initiative.",
+    "taurus": "Jupiter in Taurus grows by building stability, wealth, and tangible assets.",
+    "gemini": "Jupiter in Gemini learns voraciously, valuing variety in ideas and teaching.",
+    "cancer": "Jupiter in Cancer expands through emotional connections and family values.",
+    "leo": "Jupiter in Leo grows by self‑expression, generosity, and creative projects.",
+    "virgo": "Jupiter in Virgo thrives on service, health, and detailed improvement.",
+    "libra": "Jupiter in Libra expands through partnerships, justice, and beauty.",
+    "scorpio": "Jupiter in Scorpio transforms through depth, crisis, and shared resources.",
+    "sagittarius": "Jupiter in Sagittarius naturally explores philosophy, travel, and teaching.",
+    "capricorn": "Jupiter in Capricorn grows through hard work, structure, and long‑term goals.",
+    "aquarius": "Jupiter in Aquarius expands ideas about humanitarianism and innovation.",
+    "pisces": "Jupiter in Pisces grows through compassion, spirituality, and creative flow.",
+    "coretheme": "[AUTO-PLACEHOLDER]"
+  },
+  "saturn": {
+    "aries": "Saturn in Aries learns patience, discipline, and responsible leadership.",
+    "taurus": "Saturn in Taurus builds security slowly, valuing long-lasting stability.",
+    "gemini": "Saturn in Gemini structures thought, calls for disciplined communication.",
+    "cancer": "Saturn in Cancer faces emotional boundaries, building a secure home.",
+    "leo": "Saturn in Leo channels creativity into disciplined performance and authority.",
+    "virgo": "Saturn in Virgo perfects systems, routines, and service with precision.",
+    "libra": "Saturn in Libra learns through relationships, fairness, and compromise.",
+    "scorpio": "Saturn in Scorpio transforms power through responsibility and depth.",
+    "sagittarius": "Saturn in Sagittarius disciplines beliefs through realistic philosophy and travel restrictions.",
+    "capricorn": "Saturn in Capricorn excels at structure, ambition, and proven achievement.",
+    "aquarius": "Saturn in Aquarius innovates responsibly, balancing freedom with structure.",
+    "pisces": "Saturn in Pisces brings discipline to dreams, requiring boundaries in spirituality.",
+    "coretheme": "[AUTO-PLACEHOLDER]"
+  },
+  "uranus": {
+    "aries": "Uranus in Aries sparks sudden leadership shifts and pioneering revolutions.",
+    "taurus": "Uranus in Taurus revolutionizes stability, values, and the material world.",
+    "gemini": "Uranus in Gemini brings sudden ideas, innovations in communication, and restlessness.",
+    "cancer": "Uranus in Cancer revolutionizes home life and emotional security with unpredictability.",
+    "leo": "Uranus in Leo fosters creative breakthroughs and unpredictable self-expression.",
+    "virgo": "Uranus in Virgo innovates in health, service, and everyday systems.",
+    "libra": "Uranus in Libra revolutionizes relationships, seeking freedom within harmony.",
+    "scorpio": "Uranus in Scorpio brings sudden transformations in power and shared resources.",
+    "sagittarius": "Uranus in Sagittarius ignites sudden philosophical and cultural shifts.",
+    "capricorn": "Uranus in Capricorn innovates tradition, authority, and long-standing structures.",
+    "aquarius": "Uranus in Aquarius thrives—this is its home sign—on radical change and humanitarian ideals.",
+    "pisces": "Uranus in Pisces inspires sudden spiritual insights and dissolving boundaries.",
+    "coretheme": "[AUTO-PLACEHOLDER]"
+  },
+  "neptune": {
+    "aries": "Neptune in Aries fuels idealistic action, but beware impulsive illusions.",
+    "taurus": "Neptune in Taurus dissolves material attachments and idealizes comfort.",
+    "gemini": "Neptune in Gemini dreams in ideas, but watch for scattered thoughts.",
+    "cancer": "Neptune in Cancer heightens empathy but can blur emotional boundaries.",
+    "leo": "Neptune in Leo romanticizes self-expression, craving dramatic idealism.",
+    "virgo": "Neptune in Virgo serves compassionately, though details may become fuzzy.",
+    "libra": "Neptune in Libra idealizes relationships and seeks transcendent harmony.",
+    "scorpio": "Neptune in Scorpio deepens intuitive power, but can mask hidden truths.",
+    "sagittarius": "Neptune in Sagittarius inspires visionary philosophies and wanderlust dreams.",
+    "capricorn": "Neptune in Capricorn dissolves rigid structures, seeking transcendent order.",
+    "aquarius": "Neptune in Aquarius envisions collective ideals but can detach from reality.",
+    "pisces": "Neptune in Pisces is at home—this placement magnifies imagination and spiritual union.",
+    "coretheme": "[AUTO-PLACEHOLDER]"
+  },
+  "pluto": {
+    "aries": "Pluto in Aries transitions power through individual courage and confrontation.",
+    "taurus": "Pluto in Taurus transforms values, possessions, and personal security.",
+    "gemini": "Pluto in Gemini revolutionizes thought, communication, and shared information.",
+    "cancer": "Pluto in Cancer regenerates family dynamics and emotional foundations.",
+    "leo": "Pluto in Leo transforms creativity and authority through bold self-expression.",
+    "virgo": "Pluto in Virgo reforms service, health, and detailed systems for efficiency.",
+    "libra": "Pluto in Libra overhauls relationships and fairness in the pursuit of balance.",
+    "scorpio": "Pluto in Scorpio intensifies its own themes of power, depth, and transformation.",
+    "sagittarius": "Pluto in Sagittarius reshapes belief systems and global perspectives.",
+    "capricorn": "Pluto in Capricorn reforms institutions, authority, and long‑term structures.",
+    "aquarius": "Pluto in Aquarius revolutionizes collective ideals and technological power.",
+    "pisces": "Pluto in Pisces transforms spirituality and dissolves boundaries in transcendence.",
+    "coretheme": "[AUTO-PLACEHOLDER]"
+  },
+  "north_node": {
+    "aries": "North Node in Aries urges you toward independence, initiative, and personal courage.",
+    "taurus": "North Node in Taurus guides you to build stability, self‑worth, and patience.",
+    "gemini": "North Node in Gemini calls you to learn, communicate, and adapt your thinking.",
+    "cancer": "North Node in Cancer asks you to nurture intimacy and honor emotional bonds.",
+    "leo": "North Node in Leo encourages creative self‑expression and joyful leadership.",
+    "virgo": "North Node in Virgo teaches service, discernment, and practical organization.",
+    "libra": "North Node in Libra invites you to cultivate harmony, cooperation, and fairness.",
+    "scorpio": "North Node in Scorpio beckons intense transformation and emotional honesty.",
+    "sagittarius": "North Node in Sagittarius inspires you to expand horizons and seek higher truth.",
+    "capricorn": "North Node in Capricorn pushes toward responsibility, structure, and ambition.",
+    "aquarius": "North Node in Aquarius drives you to innovate, unite, and think collectively.",
+    "pisces": "North Node in Pisces urges compassion, spiritual openness, and creative vision."
+  },
+  "chiron": {
+    "coretheme": "[AUTO-PLACEHOLDER]"
+  },
+  "chiron_house": {
+    "1": "[AUTO-PLACEHOLDER]"
+  },
+  "chiron_sign": {
+    "sagittarius": "[AUTO-PLACEHOLDER]"
+  },
+  "jupiter_house": {
+    "6": "[AUTO-PLACEHOLDER]"
+  },
+  "jupiter_sign": {
+    "gemini": "[AUTO-PLACEHOLDER]"
+  },
+  "mars_house": {
+    "1": "[AUTO-PLACEHOLDER]"
+  },
+  "mars_sign": {
+    "sagittarius": "[AUTO-PLACEHOLDER]"
+  },
+  "mercury_house": {
+    "2": "[AUTO-PLACEHOLDER]"
+  },
+  "mercury_sign": {
+    "aquarius": "[AUTO-PLACEHOLDER]"
+  },
+  "moon_house": {
+    "11": "[AUTO-PLACEHOLDER]"
+  },
+  "moon_sign": {
+    "scorpio": "[AUTO-PLACEHOLDER]"
+  },
+  "neptune_house": {
+    "2": "[AUTO-PLACEHOLDER]"
+  },
+  "neptune_sign": {
+    "aquarius": "[AUTO-PLACEHOLDER]"
+  },
+  "pluto_house": {
+    "1": "[AUTO-PLACEHOLDER]"
+  },
+  "pluto_sign": {
+    "sagittarius": "[AUTO-PLACEHOLDER]"
+  },
+  "saturn_house": {
+    "6": "[AUTO-PLACEHOLDER]"
+  },
+  "saturn_sign": {
+    "taurus": "[AUTO-PLACEHOLDER]"
+  },
+  "sun_house": {
+    "3": "[AUTO-PLACEHOLDER]"
+  },
+  "sun_sign": {
+    "pisces": "[AUTO-PLACEHOLDER]"
+  },
+  "uranus_house": {
+    "2": "[AUTO-PLACEHOLDER]"
+  },
+  "uranus_sign": {
+    "aquarius": "[AUTO-PLACEHOLDER]"
+  },
+  "venus_house": {
+    "4": "[AUTO-PLACEHOLDER]"
+  },
+  "venus_sign": {
+    "aries": "[AUTO-PLACEHOLDER]"
+  }
+}

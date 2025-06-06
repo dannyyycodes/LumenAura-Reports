@@ -1,0 +1,41 @@
+{
+  "cardinal": {
+    "core_themes": "Represents initiation, leadership, and the drive to begin new cycles. Keywords: action, pioneering, ambition, enterprise, impetus, innovation."
+  },
+  "dominant_cardinal": {
+    "interpretation": "An excess of Cardinal energy can lead to starting too many projects without finishing them, impatience, and a tendency to push others before planning. You may rush decisive moments, creating friction or burnout from constant new beginnings."
+  },
+  "weakest_cardinal": {
+    "interpretation": "A lack of Cardinal energy may result in difficulty initiating action, procrastination, or reliance on others to set things in motion. You might struggle to assert your ambitions and find it challenging to take the first step toward goals."
+  },
+  "balanced_cardinal": {
+    "interpretation": "[Interpretation unavailable - Balanced Cardinal indicates a healthy ability to initiate action appropriately.]"
+  },
+  "fixed": {
+    "core_themes": "Represents sustaining, stabilizing, and focused energy, providing endurance and depth. Keywords: persistence, reliability, concentration, loyalty, resistance, determination, preservation."
+  },
+  "dominant_fixed": {
+    "interpretation": "An overabundance of Fixed energy can lead to stubbornness, rigidity, and resistance to necessary change. You may hold onto outdated patterns or cling to comfort zones, even when adaptation is required."
+  },
+  "weakest_fixed": {
+    "interpretation": "A deficit of Fixed energy may result in difficulty sustaining effort, lack of follow‑through, or challenges committing to long‑term goals. Projects may fizzle out before completion due to a fleeting focus or restlessness."
+  },
+  "balanced_fixed": {
+    "interpretation": "[Interpretation unavailable - Balanced Fixed indicates healthy persistence, stability, and follow-through.]"
+  },
+  "mutable": {
+    "core_themes": "Represents adaptability, flexibility, and the ability to adjust to changing circumstances. Keywords: versatility, communication, resourcefulness, openness, transition, learning, dissemination."
+  },
+  "dominant_mutable": {
+    "interpretation": "Too much Mutable energy can manifest as indecision, inconsistency, and scattered attention across too many details or possibilities. You may struggle to commit, constantly shifting focus before tasks are solidified."
+  },
+  "weakest_mutable": {
+    "interpretation": "A lack of Mutable energy may lead to rigidity, difficulty adapting to new situations, and resistance to feedback. You might find change unsettling and struggle to update plans when conditions evolve."
+  },
+  "balanced_mutable": {
+    "interpretation": "[Interpretation unavailable - Balanced Mutable indicates healthy adaptability, flexibility, and openness to change.]"
+  },
+  "dominant": {
+    "fixed/mutable": "[AUTO-PLACEHOLDER]"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "John Doe",
+  "date_of_birth": "1980-01-01",
+  "life_path_number": 4,
+  "challenge_numbers": [1,2],
+  "innate_talent_number": 8,
+  "balance_number": 3,
+  "cycles": {}
+}

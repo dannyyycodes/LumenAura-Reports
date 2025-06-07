@@ -21,3 +21,4 @@ def get_prompt(section, data, occasion):
         f"Date of Birth: {data['date_of_birth']}\n"
         f"Occasion: {occasion}\n"
     )
+

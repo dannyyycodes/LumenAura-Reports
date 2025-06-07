@@ -1,16 +1,7 @@
 import argparse
 import json
 from report_engine import main, load_config
-
-
-def validate_data(report_type, data):
-    cfg = load_config()[report_type]
-    with open(cfg["schema"]) as f:
-        schema = json.load(f)
-    missing = [k for k in schema.keys() if k not in data]
-    if missing:
-        raise KeyError(f"Missing keys for {report_type}: {missing}")
-
+from report_engine import validate_data
 
 def cli():
     config = load_config()

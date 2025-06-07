@@ -1,0 +1,12 @@
+{
+  "name": "John Doe",
+  "date_of_birth": "1980-01-01",
+  "locations": [
+    {
+      "place_name": "New York",
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "lines": []
+    }
+  ]
+}

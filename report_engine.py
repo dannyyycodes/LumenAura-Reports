@@ -1,8 +1,17 @@
 import json
+import os
 import importlib
 from reportlab.pdfgen import canvas
 import openai
-from run_report import validate_data
+
+
+def validate_data(report_type, data):
+    cfg = load_config()[report_type]
+    with open(cfg["schema"]) as f:
+        schema = json.load(f)
+    missing = [k for k in schema.keys() if k not in data]
+    if missing:
+        raise KeyError(f"Missing keys for {report_type}: {missing}")
 
 
 def load_config():

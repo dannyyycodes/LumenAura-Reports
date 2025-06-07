@@ -6,5 +6,21 @@
       "self_discovery",
       "gift"
     ]
+
+  "numerology": {
+    "schema": "src/schemas/numerology_schema.json",
+    "prompts": "src/prompts/numerology/",
+    "occasions": ["self_discovery","gift"]
+  },
+  "destiny_matrix": {
+    "schema": "src/schemas/destiny_matrix_schema.json",
+    "prompts": "src/prompts/destiny_matrix/",
+    "occasions": ["self_discovery","gift"]
+  },
+  "astrocartography": {
+    "schema": "src/schemas/astrocartography_schema.json",
+    "prompts": "src/prompts/astrocartography/",
+    "occasions": ["self_discovery","gift"]
+
   }
 }

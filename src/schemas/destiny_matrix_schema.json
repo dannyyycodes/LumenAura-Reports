@@ -1,0 +1,9 @@
+{
+  "name": "string",
+  "date_of_birth": "YYYY-MM-DD",
+  "life_path_number": 0,
+  "challenge_numbers": [0,0],
+  "innate_talent_number": 0,
+  "balance_number": 0,
+  "cycles": {}
+}

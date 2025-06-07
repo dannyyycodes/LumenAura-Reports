@@ -1,0 +1,12 @@
+{
+  "name": "string",
+  "date_of_birth": "YYYY-MM-DD",
+  "locations": [
+    {
+      "place_name": "string",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "lines": []
+    }
+  ]
+}

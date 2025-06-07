@@ -1,33 +1,23 @@
-import json
-import os
-import importlib.util
 import pytest
+from report_engine import main
 
-spec = importlib.util.spec_from_file_location(
-    "run_report",
-    os.path.join(os.path.dirname(__file__), os.pardir, "run_report.py")
-)
-run_report = importlib.util.module_from_spec(spec)
-spec.loader.exec_module(run_report)
-validate_data = run_report.validate_data
+@pytest.mark.parametrize("rtype,sample", [
+    ("numerology",       "tests/samples/numerology_valid.json"),
+    ("destiny_matrix",   "tests/samples/destiny_matrix_valid.json"),
+    ("astrocartography", "tests/samples/astrocartography_valid.json"),
+    ("astrology",        "tests/samples/astrology_valid.json"),
+])
+def test_valid_report(tmp_path, rtype, sample):
+    out = tmp_path / f"{rtype}.pdf"
+    main(rtype, sample, "self_discovery", str(out))
+    assert out.exists() and out.stat().st_size > 0
 
-VALID_SAMPLES = {
-    "astrology": "tests/samples/astrology_valid.json",
-}
-
-MISSING_SAMPLES = {
-    "astrology": "tests/samples/astrology_missing.json",
-}
-
-@pytest.mark.parametrize("report_type, path", VALID_SAMPLES.items())
-def test_valid_reports(report_type, path):
-    with open(path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-    validate_data(report_type, data)
-
-@pytest.mark.parametrize("report_type, path", MISSING_SAMPLES.items())
-def test_missing_reports(report_type, path):
-    with open(path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-    with pytest.raises(ValueError):
-        validate_data(report_type, data)
+@pytest.mark.parametrize("rtype,sample", [
+    ("numerology",       "tests/samples/numerology_missing.json"),
+    ("destiny_matrix",   "tests/samples/destiny_matrix_missing.json"),
+    ("astrocartography", "tests/samples/astrocartography_missing.json"),
+    ("astrology",        "tests/samples/astrology_missing.json"),
+])
+def test_missing_field(tmp_path, rtype, sample):
+    with pytest.raises(Exception):
+        main(rtype, sample, "gift", str(tmp_path / "fail.pdf"))

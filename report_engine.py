@@ -1,17 +1,6 @@
-import json
-import os
-import importlib
+import json, os, importlib
 from reportlab.pdfgen import canvas
 import openai
-
-
-def validate_data(report_type, data):
-    cfg = load_config()[report_type]
-    with open(cfg["schema"]) as f:
-        schema = json.load(f)
-    missing = [k for k in schema.keys() if k not in data]
-    if missing:
-        raise KeyError(f"Missing keys for {report_type}: {missing}")
 
 
 def load_config():
@@ -22,6 +11,15 @@ def load_config():
 def load_data(path):
     with open(path) as f:
         return json.load(f)
+
+
+def validate_data(report_type, data):
+    cfg = load_config()[report_type]
+    with open(cfg["schema"]) as f:
+        schema = json.load(f)
+    missing = [k for k in schema.keys() if k not in data]
+    if missing:
+        raise KeyError(f"Missing keys for {report_type}: {missing}")
 
 
 def _call_openai(prompt):
@@ -60,14 +58,3 @@ def main(report_type, input_path, occasion, output_path):
     c.save()
 
 
-if __name__ == "__main__":
-    import argparse
-
-    cfg = load_config()
-    p = argparse.ArgumentParser()
-    p.add_argument("--type", required=True, choices=list(cfg.keys()))
-    p.add_argument("--input", required=True)
-    p.add_argument("--occasion", required=True)
-    p.add_argument("--output", required=True)
-    args = p.parse_args()
-    main(args.type, args.input, args.occasion, args.output)

@@ -1,18 +1,13 @@
 import argparse
-import json
-from report_engine import main, load_config
-from report_engine import validate_data
+from report_engine import main
 
-def cli():
-    config = load_config()
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--type", required=True, choices=list(config.keys()))
-    parser.add_argument("--input", required=True)
-    parser.add_argument("--occasion", required=True)
-    parser.add_argument("--output", required=True)
-    args = parser.parse_args()
-    main(args.type, args.input, args.occasion, args.output)
-
+REPORT_TYPES = ["numerology", "destiny_matrix", "astrocartography", "astrology"]
 
 if __name__ == "__main__":
-    cli()
+    p = argparse.ArgumentParser()
+    p.add_argument("--type", required=True, choices=REPORT_TYPES)
+    p.add_argument("--input", required=True)
+    p.add_argument("--occasion", default="self_discovery")
+    p.add_argument("--output", required=True)
+    args = p.parse_args()
+    main(args.type, args.input, args.occasion, args.output)

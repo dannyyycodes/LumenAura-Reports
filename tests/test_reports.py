@@ -1,5 +1,8 @@
-import pytest, os
-from report_engine import main
+import os, sys
+sys.path.insert(0, os.getcwd())
+
+import pytest
+from report_engine import main, validate_data
 
 @pytest.mark.parametrize("rtype,sample", [
     ("numerology", "tests/samples/numerology_valid.json"),

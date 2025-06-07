@@ -11,7 +11,10 @@ jobs:
         with:
           python-version: "3.x"
       - name: Install deps
-        run: pip install -r requirements.txt pytest reportlab openai
+        run: |
+          pip install -r requirements.txt
+          pip install -e .
+          pip install pytest
       - name: Run tests
         run: pytest --maxfail=1 --disable-warnings -q
       - name: Upload PDFs

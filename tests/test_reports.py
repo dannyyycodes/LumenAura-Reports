@@ -5,6 +5,7 @@ from report_engine import main
     ("numerology", "tests/samples/numerology_valid.json"),
     ("destiny_matrix", "tests/samples/destiny_matrix_valid.json"),
     ("astrocartography", "tests/samples/astrocartography_valid.json"),
+    ("astrology", "tests/samples/astrology_valid.json"),
 ])
 def test_valid_report(tmp_path, rtype, sample):
     out = tmp_path / f"{rtype}.pdf"
@@ -15,6 +16,7 @@ def test_valid_report(tmp_path, rtype, sample):
     ("numerology", "tests/samples/numerology_missing.json"),
     ("destiny_matrix", "tests/samples/destiny_matrix_missing.json"),
     ("astrocartography", "tests/samples/astrocartography_missing.json"),
+    ("astrology", "tests/samples/astrology_missing.json"),
 ])
 def test_missing_field(tmp_path, rtype, sample):
     with pytest.raises(Exception):

@@ -1,0 +1,7 @@
+{
+  "name": "string",
+  "date_of_birth": "YYYY-MM-DD",
+  "birth_time": "HH:MM",
+  "place_of_birth": "string",
+  "planetary_positions": {}
+}

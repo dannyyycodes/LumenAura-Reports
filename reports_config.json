@@ -1,0 +1,10 @@
+{
+  "astrology": {
+    "schema": "src/schemas/astrology_schema.json",
+    "prompts": "src/prompts/astrology/",
+    "occasions": [
+      "self_discovery",
+      "gift"
+    ]
+  }
+}

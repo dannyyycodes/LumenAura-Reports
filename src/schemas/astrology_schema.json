@@ -1,0 +1,20 @@
+{
+  "name": "string",
+  "date_of_birth": "YYYY-MM-DD",
+  "birth_time": "HH:MM",
+  "place_of_birth": "string",
+  "planets": {
+    "Sun": "string",
+    "Moon": "string",
+    "Mercury": "string",
+    "Venus": "string",
+    "Mars": "string",
+    "Jupiter": "string",
+    "Saturn": "string",
+    "Uranus": "string",
+    "Neptune": "string",
+    "Pluto": "string"
+  },
+  "ascendant": "string",
+  "houses": {}
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Alice Example",
+  "date_of_birth": "1990-01-01",
+  "birth_time": "12:00",
+  "place_of_birth": "Springfield",
+  "planets": {
+    "Sun": "Capricorn",
+    "Moon": "Leo",
+    "Mercury": "Sagittarius",
+    "Venus": "Aquarius",
+    "Mars": "Scorpio",
+    "Jupiter": "Cancer",
+    "Saturn": "Capricorn",
+    "Uranus": "Capricorn",
+    "Neptune": "Capricorn",
+    "Pluto": "Scorpio"
+  },
+  "ascendant": "Gemini",
+  "houses": {}
+}

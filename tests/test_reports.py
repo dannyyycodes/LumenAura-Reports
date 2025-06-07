@@ -1,4 +1,6 @@
-import pytest, os
+import os, sys
+sys.path.insert(0, os.getcwd())
+import pytest
 from report_engine import main
 
 @pytest.mark.parametrize("rtype,sample", [

@@ -1,0 +1,12 @@
+{
+  "name": "Bob Sample",
+  "date_of_birth": "1990-01-01",
+  "life_path_number": 8,
+  "challenge_numbers": [2, 9],
+  "innate_talent_number": 3,
+  "balance_number": 5,
+  "cycles": {
+    "personal_cycle": 1,
+    "second_cycle": 2
+  }
+}

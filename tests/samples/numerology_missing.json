@@ -1,0 +1,10 @@
+{
+  "name": "Alice Example",
+  "date_of_birth": "1984-07-28",
+  "soul_urge_number": 7,
+  "expression_number": 2,
+  "personality_number": 3,
+  "birth_day_number": 7,
+  "personal_year_number": 4,
+  "master_numbers": [11, 22]
+}

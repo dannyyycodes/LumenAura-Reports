@@ -70,3 +70,7 @@ weasyprint==64.1
 webencodings==0.5.1
 yarl==1.18.3
 zopfli==0.2.3.post1
+
+reportlab
+pytest
+openai

@@ -1,0 +1,7 @@
+{
+  "title": "Your Numerology Report",
+  "sections": [
+    { "title": "Life Path Number", "content": "Sample life path content." },
+    { "title": "Destiny Number",   "content": "Sample destiny content." }
+  ]
+}

@@ -1,1 +1,12 @@
-placeholder
+{
+  "name": "Jane Doe",
+  "date_of_birth": "1990-04-15",
+  "locations": [
+    {
+      "place_name": "Los Angeles, CA",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "interpretation": "Los Angeles creativity line"
+    }
+  ]
+}

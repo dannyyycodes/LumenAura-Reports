@@ -22,3 +22,14 @@ jobs:
         with:
           name: reports
           path: tests/*.pdf
+  - name: Generate Numerology PDF
+    run: python run_report.py --type numerology --input templates/numerology_sample.json --output output/numerology_ci.pdf
+
+  - name: Generate Destiny Matrix PDF
+    run: python run_report.py --type destiny_matrix --input templates/destinymatrix_sample.json --output output/destinymatrix_ci.pdf
+
+  - name: Generate Astrocartography PDF
+    run: python run_report.py --type astrocartography --input templates/astrocartography_sample.json --output output/astrocartography_ci.pdf
+
+  - name: Generate Astrology PDF
+    run: python run_report.py --type astrology --input templates/astrology_sample.json --output output/astrology_ci.pdf

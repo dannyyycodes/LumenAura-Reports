@@ -1,7 +1,11 @@
 {
-  "title": "Your Numerology Report",
-  "sections": [
-    { "title": "Life Path Number", "content": "Sample life path content." },
-    { "title": "Destiny Number",   "content": "Sample destiny content." }
-  ]
+  "name": "Jane Doe",
+  "date_of_birth": "1990-04-15",
+  "destiny_number": 7,
+  "soul_urge_number": 2,
+  "expression_number": 5,
+  "personality_number": 3,
+  "birth_day_number": 6,
+  "personal_year_number": 4,
+  "master_numbers": [11, 22]
 }

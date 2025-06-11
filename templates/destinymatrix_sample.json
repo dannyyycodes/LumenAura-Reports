@@ -1,1 +1,16 @@
-placeholder
+{
+  "name": "Jane Doe",
+  "date_of_birth": "1990-04-15",
+  "matrix_profile": "Sample Profile",
+  "core_challenge": "Courage",
+  "life_path_matrix": [[1,2],[3,4]],
+  "archetype_insights": ["Insight A","Insight B"],
+  "life_path_number": 5,
+  "challenge_numbers": [1, 7, 3, 8],
+  "innate_talent_number": 4,
+  "balance_number": 6,
+  "cycles": {
+    "primary": 9,
+    "secondary": [2, 5, 7]
+  }
+}

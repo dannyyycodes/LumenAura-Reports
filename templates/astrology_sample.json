@@ -1,0 +1,10 @@
+{
+  "name": "Jane Doe",
+  "date_of_birth": "1990-04-15",
+  "birth_time": "12:00",
+  "place_of_birth": "Liverpool, England",
+  "planetary_positions": {
+    "Sun": "15° Pisces",
+    "Moon": "10° Cancer"
+  }
+}

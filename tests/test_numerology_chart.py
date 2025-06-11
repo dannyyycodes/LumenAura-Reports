@@ -1,5 +1,9 @@
+import sys, os
+# ensure project root is on sys.path so we can import our scripts
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from generate_numerology import generate_numerology_chart
-import os
+
 
 def test_chart_creation(tmp_path):
     # Given some sample numbers
